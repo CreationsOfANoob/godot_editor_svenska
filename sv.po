@@ -1230,7 +1230,7 @@ msgstr "Metod hittades inte i objektet:"
 
 #: editor/animation_track_editor.cpp
 msgid "Animation Move Keys"
-msgstr "Animation flytta nycklar"
+msgstr "Animation förflytta nycklar"
 
 #: editor/animation_track_editor.cpp
 #: editor/plugins/canvas_item_editor_plugin.cpp
@@ -8910,7 +8910,7 @@ msgstr "Ställ in omvandlingspositionen inom utrymmet"
 #: editor/plugins/animation_blend_space_1d_editor.cpp
 #: editor/plugins/animation_blend_space_2d_editor.cpp
 msgid "Select and move points, create points with RMB."
-msgstr "Markera och flytta punkter, skapa punkter med HMK."
+msgstr "Markera och förflytta punkter, skapa punkter med HMK."
 
 #: editor/plugins/animation_blend_space_1d_editor.cpp
 #: editor/plugins/animation_blend_space_2d_editor.cpp
@@ -9237,7 +9237,7 @@ msgstr "Lägg till animationsbibliotek"
 
 #: editor/plugins/animation_library_editor.cpp
 msgid "Some Animation files were invalid."
-msgstr "Några animationsfiler var ogiltiga"
+msgstr "Några animationsfiler var ogiltiga."
 
 #: editor/plugins/animation_library_editor.cpp
 msgid "Some of the selected animations were already added to the library."
@@ -9624,7 +9624,7 @@ msgid ""
 "Shift+LMB+Drag: Connects the selected node with another node or creates a "
 "new node if you select an area without nodes."
 msgstr ""
-"Markera och flytta noder.\n"
+"Markera och förflytta noder.\n"
 "HMK: Skapa nod vid den klickade positionen.\n"
 "Skift+VMK+dra: Koppla ihop den markerade noden med en annan nod eller skapa "
 "en ny nod om du väljer ett område utan noder."
@@ -9759,7 +9759,7 @@ msgstr "Misslyckades:"
 
 #: editor/plugins/asset_library_editor_plugin.cpp
 msgid "Bad download hash, assuming file has been tampered with."
-msgstr "Ogiltig nedladdningshashsumma"
+msgstr "Ogiltig hashsumma för hämtning, antag att filen har manipulerats."
 
 #: editor/plugins/asset_library_editor_plugin.cpp
 msgid "Expected:"
@@ -9947,7 +9947,7 @@ msgstr "Förhandsvisa ljud spela/pausa"
 
 #: editor/plugins/bone_map_editor_plugin.cpp
 msgid "Bone Picker:"
-msgstr "Benväljare"
+msgstr "Benväljare:"
 
 #: editor/plugins/bone_map_editor_plugin.cpp
 msgid "Clear mappings in current group."
@@ -10240,7 +10240,7 @@ msgstr "Alt+Dra: Skala om vald nod."
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "V: Set selected node's pivot position."
-msgstr "V: Ställ in vald nods pivotpunkt"
+msgstr "V: Ställ in vald nods pivotpunkt."
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 #: editor/plugins/node_3d_editor_plugin.cpp
@@ -10270,7 +10270,7 @@ msgstr "Skalningsläge"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Shift: Scale proportionally."
-msgstr "Skift: Proportionerlig skalning"
+msgstr "Skift: Proportionerlig skalning."
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 #: editor/plugins/node_3d_editor_plugin.cpp
@@ -10381,12 +10381,12 @@ msgstr "Konfigurera magnet..."
 #: editor/plugins/canvas_item_editor_plugin.cpp
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Lock selected node, preventing selection and movement."
-msgstr "Lås vald nod för att förhindra markering och flytt."
+msgstr "Lås vald nod för att förhindra markering och förflyttning."
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Unlock selected node, allowing selection and movement."
-msgstr "Lås upp vald nod för att tillåta markering och flytt."
+msgstr "Lås upp vald nod för att tillåta markering och förflyttning."
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid ""
@@ -10458,9 +10458,8 @@ msgid "Show Origin"
 msgstr "Visa origo"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
-#, fuzzy
 msgid "Show Viewport"
-msgstr "Visa viewport"
+msgstr "Visa vyruta"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Lock"
@@ -10824,7 +10823,8 @@ msgstr "Ändra horisontell Expandera-flagga"
 
 #: editor/plugins/control_editor_plugin.cpp
 msgid "Presets for the anchor and offset values of a Control node."
-msgstr "Förinställningar för ankare- och förskjutningsvärde för en kontrollnod"
+msgstr ""
+"Förinställningar för ankare- och förskjutningsvärde för en kontrollnod."
 
 #: editor/plugins/control_editor_plugin.cpp
 msgid "Anchor preset"
@@ -11060,46 +11060,54 @@ msgstr "Synliga kollisionsformer"
 
 # Behöver raycast översättas? Kan det översättas?
 #: editor/plugins/debugger_editor_plugin.cpp
-#, fuzzy
 msgid ""
 "When this option is enabled, collision shapes and raycast nodes (for 2D and "
 "3D) will be visible in the running project."
 msgstr ""
-"Med den här inställningen aktiv kommer kollisionsformer och strål-noder"
+"Med den här inställningen aktiv kommer kollisionsformer och strål-noder (i "
+"2D och 3D) vara synliga när projektet körs."
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid "Visible Paths"
-msgstr ""
+msgstr "Synliga banor"
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid ""
 "When this option is enabled, curve resources used by path nodes will be "
 "visible in the running project."
 msgstr ""
+"Med den här inställningen aktiv kommer kurvresurser som används av ban-noder "
+"att vara synliga när projektet körs."
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid "Visible Navigation"
-msgstr ""
+msgstr "Synlig navigering"
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid ""
 "When this option is enabled, navigation meshes, and polygons will be visible "
 "in the running project."
 msgstr ""
+"Med den här inställningen aktiv kommer navigationsmesher och -polygoner att "
+"vara synliga när projektet körs."
 
 #: editor/plugins/debugger_editor_plugin.cpp
+#, fuzzy
 msgid "Visible Avoidance"
-msgstr ""
+msgstr "Synlig undvikning"
 
 #: editor/plugins/debugger_editor_plugin.cpp
+#, fuzzy
 msgid ""
 "When this option is enabled, avoidance object shapes, radiuses, and "
 "velocities will be visible in the running project."
 msgstr ""
+"Med den här inställningen aktiv kommer undvikningsobjektformer, -radier och -"
+"hastigheter att vara synliga när projektet körs."
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid "Debug CanvasItem Redraws"
-msgstr ""
+msgstr "Felsök CanvasItem-omritningar"
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid ""
@@ -11107,10 +11115,13 @@ msgid ""
 "visible (as a short flash) in the running project.\n"
 "This is useful to troubleshoot low processor mode."
 msgstr ""
+"Med den här inställningen aktiv kommer omritningsförfrågningar av 2D-objekt "
+"att bli synliga (som korta blixtar) när projektet körs.\n"
+"Användbart för att felsöka lågt processorläge."
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid "Synchronize Scene Changes"
-msgstr ""
+msgstr "Synkronisera scenändringar"
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid ""
@@ -11119,10 +11130,14 @@ msgid ""
 "When used remotely on a device, this is more efficient when the network "
 "filesystem option is enabled."
 msgstr ""
+"Med den här inställningen aktiv kommer alla ändringar av scenen i "
+"redigeraren att återspeglas i projektet som körs.\n"
+"Om den används på en fjärr-enhet blir den mer effektiv om även nätverks-"
+"filsystem-inställningen är på."
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid "Synchronize Script Changes"
-msgstr ""
+msgstr "Synkronisera skriptändringar"
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid ""
@@ -11131,20 +11146,26 @@ msgid ""
 "When used remotely on a device, this is more efficient when the network "
 "filesystem option is enabled."
 msgstr ""
+"Med den här inställningen aktiv kommer alla skript som sparas att laddas om "
+"i projektet som körs.\n"
+"Om den används på en fjärr-enhet blir den mer effektiv om även nätverks-"
+"filsystem-inställningen är på."
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid "Keep Debug Server Open"
-msgstr ""
+msgstr "Håll felsöknings-server öppen"
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid ""
 "When this option is enabled, the editor debug server will stay open and "
 "listen for new sessions started outside of the editor itself."
 msgstr ""
+"Med den här inställningen aktiv kommer redigerar-felsöknings-servern att "
+"hållas öppen och leta efter nya sessioner som påbörjas utanför redigeraren."
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid "Customize Run Instances..."
-msgstr ""
+msgstr "Anpassa körinstanser…"
 
 #: editor/plugins/editor_plugin_settings.cpp
 msgid ""
@@ -11154,320 +11175,328 @@ msgid ""
 "\n"
 "%s"
 msgstr ""
+"Namn: %s\n"
+"Sökväg: %s\n"
+"Huvudskript: %s\n"
+"\n"
+"%s"
 
 #: editor/plugins/editor_plugin_settings.cpp
 msgid "Edit Plugin"
-msgstr ""
+msgstr "Redigera plugin"
 
 #: editor/plugins/editor_plugin_settings.cpp
 msgid "Installed Plugins:"
-msgstr ""
+msgstr "Installerade plugin:"
 
 #: editor/plugins/editor_plugin_settings.cpp
 msgid "Create New Plugin"
-msgstr ""
+msgstr "Skapa nytt plugin"
 
 #: editor/plugins/editor_plugin_settings.cpp editor/run_instances_dialog.cpp
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiverat"
 
 #: editor/plugins/editor_plugin_settings.cpp
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: editor/plugins/editor_resource_tooltip_plugins.cpp
 msgid "Size: %s"
-msgstr ""
+msgstr "Storlek: %s"
 
 #: editor/plugins/editor_resource_tooltip_plugins.cpp
 msgid "Type: %s"
-msgstr ""
+msgstr "Typ: %s"
 
 #: editor/plugins/editor_resource_tooltip_plugins.cpp
 msgid "Dimensions: %d × %d"
-msgstr ""
+msgstr "Dimensioner: %d × %d"
 
 #: editor/plugins/editor_resource_tooltip_plugins.cpp
 msgid "Length: %0dm %0ds"
-msgstr ""
+msgstr "Längd: %0dm %0ds"
 
 #: editor/plugins/editor_resource_tooltip_plugins.cpp
 msgid "Length: %0.1fs"
-msgstr ""
+msgstr "Längd: %0.1fs"
 
 #: editor/plugins/editor_resource_tooltip_plugins.cpp
 msgid "Length: %0.3fs"
-msgstr ""
+msgstr "Längd: %0.3fs"
 
 #: editor/plugins/font_config_plugin.cpp
+#, fuzzy
 msgid "Overrides (%d)"
-msgstr ""
+msgstr "Överskridningar (%d)"
 
 #. TRANSLATORS: Script refers to a writing system.
 #: editor/plugins/font_config_plugin.cpp
 msgctxt "Locale"
 msgid "Add Script"
-msgstr ""
+msgstr "Lägg till skriftsystem"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "Add Locale"
-msgstr ""
+msgstr "Lägg till språkzon"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "Variation Coordinates (%d)"
-msgstr ""
+msgstr "Variantkoordinater (%d)"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "No supported features"
-msgstr ""
+msgstr "Inga stödda egenskaper"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "Features (%d of %d set)"
-msgstr ""
+msgstr "Egenskaper (%d av %d inställda)"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "Add Feature"
-msgstr ""
+msgstr "Lägg till egenskap"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "Stylistic Sets"
-msgstr ""
+msgstr "Stilistiska set"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "Character Variants"
-msgstr ""
+msgstr "Teckenvarianter"
 
 #: editor/plugins/font_config_plugin.cpp
+#, fuzzy
 msgid "Capitals"
-msgstr ""
+msgstr "Versaler"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "Ligatures"
-msgstr ""
+msgstr "Ligaturer"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "Alternates"
-msgstr ""
+msgstr "Alternativ"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "East Asian Language"
-msgstr ""
+msgstr "Östasiatiskt språk"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "East Asian Widths"
-msgstr ""
+msgstr "Östasiatiska bredder"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "Numeral Alignment"
-msgstr ""
+msgstr "Numerisk rättning"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid " - Variation"
-msgstr ""
+msgstr " - variant"
 
 #: editor/plugins/font_config_plugin.cpp
 msgid "Unable to preview font"
-msgstr ""
+msgstr "Kan inte förhandsvisa typsnitt"
 
 #: editor/plugins/gizmos/audio_stream_player_3d_gizmo_plugin.cpp
+#, fuzzy
 msgid "Change AudioStreamPlayer3D Emission Angle"
-msgstr ""
+msgstr "Ändra AudioStreamPlayer3D Emission Angle"
 
 #: editor/plugins/gizmos/camera_3d_gizmo_plugin.cpp
 msgid "Change Camera FOV"
-msgstr ""
+msgstr "Ändra kamerans synfältsvinkel"
 
 #: editor/plugins/gizmos/camera_3d_gizmo_plugin.cpp
 msgid "Change Camera Size"
-msgstr ""
+msgstr "Ändra kamerans storlek"
 
 #: editor/plugins/gizmos/collision_shape_3d_gizmo_plugin.cpp
 #: editor/plugins/gizmos/occluder_instance_3d_gizmo_plugin.cpp
 #: modules/csg/editor/csg_gizmos.cpp
 msgid "Change Sphere Shape Radius"
-msgstr ""
+msgstr "Ändra radie på sfär-form"
 
 #: editor/plugins/gizmos/collision_shape_3d_gizmo_plugin.cpp
 #: editor/plugins/gizmos/occluder_instance_3d_gizmo_plugin.cpp
 #: modules/csg/editor/csg_gizmos.cpp
 msgid "Change Box Shape Size"
-msgstr ""
+msgstr "Ändra storlek på rätblocks-form"
 
 #: editor/plugins/gizmos/collision_shape_3d_gizmo_plugin.cpp
 msgid "Change Capsule Shape Radius"
-msgstr ""
+msgstr "Ändra radie på kapsel-form"
 
 #: editor/plugins/gizmos/collision_shape_3d_gizmo_plugin.cpp
 msgid "Change Capsule Shape Height"
-msgstr ""
+msgstr "Ändra höjd på kapsel-form"
 
 #: editor/plugins/gizmos/collision_shape_3d_gizmo_plugin.cpp
 msgid "Change Cylinder Shape Radius"
-msgstr ""
+msgstr "Ändra radie på cylinder-form"
 
 #: editor/plugins/gizmos/collision_shape_3d_gizmo_plugin.cpp
 msgid "Change Cylinder Shape Height"
-msgstr ""
+msgstr "Ändra höjd på cylinder-form"
 
 #: editor/plugins/gizmos/collision_shape_3d_gizmo_plugin.cpp
 msgid "Change Separation Ray Shape Length"
-msgstr ""
+msgstr "Ändra längd på separationsstråle-form"
 
 #: editor/plugins/gizmos/decal_gizmo_plugin.cpp
 msgid "Change Decal Size"
-msgstr ""
+msgstr "Ändra dekalstorlek"
 
 #: editor/plugins/gizmos/fog_volume_gizmo_plugin.cpp
 msgid "Change FogVolume Size"
-msgstr ""
+msgstr "Ändra storlek på dimvolym"
 
 #: editor/plugins/gizmos/gpu_particles_collision_3d_gizmo_plugin.cpp
 msgid "Change Radius"
-msgstr ""
+msgstr "Ändra radie"
 
 #: editor/plugins/gizmos/light_3d_gizmo_plugin.cpp
 msgid "Change Light Radius"
-msgstr ""
+msgstr "Ändra ljusradie"
 
 #: editor/plugins/gizmos/navigation_link_3d_gizmo_plugin.cpp
 msgid "Start Location"
-msgstr ""
+msgstr "Startpunkt"
 
 #: editor/plugins/gizmos/navigation_link_3d_gizmo_plugin.cpp
 msgid "End Location"
-msgstr ""
+msgstr "Slutpunkt"
 
 #: editor/plugins/gizmos/navigation_link_3d_gizmo_plugin.cpp
 msgid "Change Start Position"
-msgstr ""
+msgstr "Ändra startpunkt"
 
 #: editor/plugins/gizmos/navigation_link_3d_gizmo_plugin.cpp
 msgid "Change End Position"
-msgstr ""
+msgstr "Ändra slutpunkt"
 
 #: editor/plugins/gizmos/reflection_probe_gizmo_plugin.cpp
 #: editor/plugins/gizmos/voxel_gi_gizmo_plugin.cpp
 msgid "Change Probe Size"
-msgstr ""
+msgstr "Ändra sondstorlek"
 
 #: editor/plugins/gizmos/reflection_probe_gizmo_plugin.cpp
 msgid "Change Probe Origin Offset"
-msgstr ""
+msgstr "Ändra sondens origo-förskjutning"
 
 #: editor/plugins/gizmos/visible_on_screen_notifier_3d_gizmo_plugin.cpp
 msgid "Change Notifier AABB"
-msgstr ""
+msgstr "Ändra Notifier AABB"
 
 #: editor/plugins/gpu_particles_2d_editor_plugin.cpp
 msgid "Convert to CPUParticles2D"
-msgstr ""
+msgstr "Konvertera till CPUParticles2D"
 
 #: editor/plugins/gpu_particles_2d_editor_plugin.cpp
 msgid "Generating Visibility Rect (Waiting for Particle Simulation)"
-msgstr ""
+msgstr "Genererar synlighetsrektangel (Väntar på partikelsimulering)"
 
 #: editor/plugins/gpu_particles_2d_editor_plugin.cpp
 msgid "Generate Visibility Rect"
-msgstr ""
+msgstr "Generera synlighetsrektangel"
 
 #: editor/plugins/gpu_particles_2d_editor_plugin.cpp
 msgid "Can only set point into a ParticleProcessMaterial process material"
-msgstr ""
+msgstr "Kan bara ställa in punkt i ett ParticleProcessMaterial-processmaterial"
 
 #: editor/plugins/gpu_particles_2d_editor_plugin.cpp
 msgid "GPUParticles2D"
-msgstr ""
+msgstr "GPUParticles2D"
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "The geometry's faces don't contain any area."
-msgstr ""
+msgstr "Geometrins sidytor har ingen area."
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "The geometry doesn't contain any faces."
-msgstr ""
+msgstr "Geometrin har inga sidytor."
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "\"%s\" doesn't inherit from Node3D."
-msgstr ""
+msgstr "\"%s\" ärver inte från Node3D."
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "\"%s\" doesn't contain geometry."
-msgstr ""
+msgstr "\"%s\" innehåller ingen geometri."
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "\"%s\" doesn't contain face geometry."
-msgstr ""
+msgstr "\"%s\" innehåller ingen ytgeometri."
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "Create Emitter"
-msgstr ""
+msgstr "Skapa utstrålare"
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "Emission Points:"
-msgstr ""
+msgstr "Utstrålningspunkter:"
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "Surface Points"
-msgstr ""
+msgstr "Ytpunkter"
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "Surface Points+Normal (Directed)"
-msgstr ""
+msgstr "Ytpunkter + Normalriktning"
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "Volume"
-msgstr ""
+msgstr "Volym"
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "Emission Source:"
-msgstr ""
+msgstr "Utstrålningskälla:"
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "A processor material of type 'ParticleProcessMaterial' is required."
-msgstr ""
+msgstr "Ett processormaterial av typen ParticleProcessMaterial krävs."
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "Convert to CPUParticles3D"
-msgstr ""
+msgstr "Konvertera till CPUParticles3D"
 
 #: editor/plugins/gpu_particles_3d_editor_plugin.cpp
 msgid "GPUParticles3D"
-msgstr ""
+msgstr "GPUParticles3D"
 
 #: editor/plugins/gpu_particles_collision_sdf_editor_plugin.cpp
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "Low"
-msgstr ""
+msgstr "Låg"
 
 #: editor/plugins/gpu_particles_collision_sdf_editor_plugin.cpp
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "Moderate"
-msgstr ""
+msgstr "Medel"
 
 #: editor/plugins/gpu_particles_collision_sdf_editor_plugin.cpp
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "High"
-msgstr ""
+msgstr "Hög"
 
 #: editor/plugins/gpu_particles_collision_sdf_editor_plugin.cpp
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "Subdivisions: %s"
-msgstr ""
+msgstr "Indelningar: %s"
 
 #: editor/plugins/gpu_particles_collision_sdf_editor_plugin.cpp
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "Cell size: %s"
-msgstr ""
+msgstr "Rutstorlek: %s"
 
 #: editor/plugins/gpu_particles_collision_sdf_editor_plugin.cpp
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "Video RAM size: %s MB (%s)"
-msgstr ""
+msgstr "Grafikminnesstorlek: %s MB (%s)"
 
 #: editor/plugins/gpu_particles_collision_sdf_editor_plugin.cpp
 msgid "Bake SDF"
-msgstr ""
+msgstr "Baka SDF"
 
 #: editor/plugins/gpu_particles_collision_sdf_editor_plugin.cpp
 msgid ""
@@ -11475,78 +11504,86 @@ msgid ""
 "Check whether there are visible meshes matching the bake mask within its "
 "extents."
 msgstr ""
+"Inga sidytor hittades när GPUParticlesCollisionSDF3D bakades.\n"
+"Kontrollera att det finns synliga mesher som matchar bakmasken inom dess "
+"utsträckning."
 
 #: editor/plugins/gpu_particles_collision_sdf_editor_plugin.cpp
 msgid "Select path for SDF Texture"
-msgstr ""
+msgstr "Ange sökväg för SDF-textur"
 
 #: editor/plugins/gradient_editor_plugin.cpp
 msgid "Add Gradient Point"
-msgstr ""
+msgstr "Lägg till gradientpunkt"
 
 #: editor/plugins/gradient_editor_plugin.cpp
 msgid "Remove Gradient Point"
-msgstr ""
+msgstr "Ta bort gradientpunkt"
 
 #: editor/plugins/gradient_editor_plugin.cpp
 msgid "Move Gradient Point"
-msgstr ""
+msgstr "Flytta gradientpunkt"
 
 #: editor/plugins/gradient_editor_plugin.cpp
 msgid "Recolor Gradient Point"
-msgstr ""
+msgstr "Byt färg på gradientpunkt"
 
 #: editor/plugins/gradient_editor_plugin.cpp
 msgid "Reverse Gradient"
-msgstr ""
+msgstr "Vänd om gradient"
 
 #: editor/plugins/gradient_editor_plugin.cpp
 msgid "Reverse/Mirror Gradient"
-msgstr ""
+msgstr "Vänd om/spegla gradient"
 
 #: editor/plugins/gradient_texture_2d_editor_plugin.cpp
 msgid "Move GradientTexture2D Fill Point"
-msgstr ""
+msgstr "Förflytta GradientTexture2D-fyllnadspunkt"
 
 #: editor/plugins/gradient_texture_2d_editor_plugin.cpp
 msgid "Swap GradientTexture2D Fill Points"
-msgstr ""
+msgstr "Byt GradientTexture2D-fyllnadspunkter"
 
 #: editor/plugins/gradient_texture_2d_editor_plugin.cpp
 msgid "Swap Gradient Fill Points"
-msgstr ""
+msgstr "Byt gradient-fyllnadspunkter"
 
 #: editor/plugins/input_event_editor_plugin.cpp
 msgid "Configure"
-msgstr ""
+msgstr "Konfigurera"
 
 #: editor/plugins/light_occluder_2d_editor_plugin.cpp
 msgid "Create Occluder Polygon"
-msgstr ""
+msgstr "Skapa ockluderingspolygon"
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid ""
 "Can't determine a save path for lightmap images.\n"
 "Save your scene and try again."
 msgstr ""
+"Kan inte hitta en sparsökväg för lightmap-bilder.\n"
+"Spara scenen och försök igen."
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid ""
 "No meshes to bake. Make sure they contain an UV2 channel and that the 'Bake "
 "Light' flag is on."
 msgstr ""
+"Inga mesher att baka. Kontrollera att de innehåller en UV2-kanal och att "
+"\"Baka ljussättning\"-flaggan är på."
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid "Failed creating lightmap images, make sure path is writable."
 msgstr ""
+"Kunde inte skapa lightmap-bilder, kontrollera att sökvägen är skrivbar."
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid "No editor scene root found."
-msgstr ""
+msgstr "Ingen redigerar-scenrot hittades."
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid "Lightmap data is not local to the scene."
-msgstr ""
+msgstr "Lightmap-datan är inte lokal för scenen."
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid ""
@@ -11554,6 +11591,9 @@ msgid ""
 "While this can be fixed by increasing the maximum texture size, it is "
 "recommended you split the scene into more objects instead."
 msgstr ""
+"Maximal texturstorlek är för liten för lightmap-bilderna.\n"
+"Det här kan lösas genom att höja den maximala texturstorleken, men du "
+"rekommenderas dela upp scenen på fler objekt i stället."
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid ""
@@ -11561,143 +11601,154 @@ msgid ""
 "`lightmap_size_hint` value set high enough, and `texel_scale` value of "
 "LightmapGI is not too low."
 msgstr ""
+"Kunde inte skapa lightmap-bilder. Kontrollera att alla markerade mesher som "
+"ska bakas har tillräckligt högt \"lightmap_size_hint\"-värde, och att "
+"\"texel_scale\"-värdet för LightmapGI inte är för lågt."
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid ""
 "Failed fitting a lightmap image into an atlas. This should never happen and "
 "should be reported."
 msgstr ""
+"Kunde inte passa in lightmap-bilden i en atlas. Det här borde aldrig hända "
+"och bör rapporteras."
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid "Bake Lightmaps"
-msgstr ""
+msgstr "Baka lightmaps"
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid "LightMap Bake"
-msgstr ""
+msgstr "LightMap Bake"
 
 #: editor/plugins/lightmap_gi_editor_plugin.cpp
 msgid "Select lightmap bake file:"
-msgstr ""
+msgstr "Välj lightmap-bak-fil:"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Couldn't create a Trimesh collision shape."
-msgstr ""
+msgstr "Kunde inte skapa Trimesh-kollisionsform."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Couldn't create a single collision shape."
-msgstr ""
+msgstr "Kunde inte skapa en ensam kollisionsform."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Couldn't create a simplified collision shape."
-msgstr ""
+msgstr "Kunde inte skapa en förenklad kollisionsform."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Couldn't create any collision shapes."
-msgstr ""
+msgstr "Kunde inte skapa några kollisionsformer alls."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Can't create a collision shape as sibling for the scene root."
-msgstr ""
+msgstr "Kan inte skapa en kollisionform som syskon till scenroten."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Mesh is empty!"
-msgstr ""
+msgstr "Meshen är tom!"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Create Navigation Mesh"
-msgstr ""
+msgstr "Skapa navigationsmesh"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Create Debug Tangents"
-msgstr ""
+msgstr "Skapa felsöknings-tangenter"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "No mesh to unwrap."
-msgstr ""
+msgstr "Ingen mesh att veckla ut."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid ""
 "Mesh cannot unwrap UVs because it does not belong to the edited scene. Make "
 "it unique first."
 msgstr ""
+"Meshen kan inte veckla ut UV för att den inte tillhör scenen som redigeras. "
+"Gör den unik först."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid ""
 "Mesh cannot unwrap UVs because it belongs to another resource which was "
 "imported from another file type. Make it unique first."
 msgstr ""
+"Meshen kan inte veckla ut UV för att den tillhör en annan resurs som "
+"importerades från en annan filtyp. Gör den unik först."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid ""
 "Mesh cannot unwrap UVs because it was imported from another file type. Make "
 "it unique first."
 msgstr ""
+"Meshen kan inte veckla ut UV för att den importerades från en annan filtyp. "
+"Gör den unik först."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Unwrap UV2"
-msgstr ""
+msgstr "Veckla ut UV2"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Contained Mesh is not of type ArrayMesh."
-msgstr ""
+msgstr "Innesluten mesh har inte typen ArrayMesh."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Can't unwrap mesh with blend shapes."
-msgstr ""
+msgstr "Kan inte veckla ut mesh med blend-shapes."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Only triangles are supported for lightmap unwrap."
-msgstr ""
+msgstr "Bara trianglar stöds för lightmap-utveckling."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Normals are required for lightmap unwrap."
-msgstr ""
+msgstr "Normaler krävs för lightmap-utveckling."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "UV Unwrap failed, mesh may not be manifold?"
-msgstr ""
+msgstr "UV-utveckling misslyckades, är meshen inte en mångfald?"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "No mesh to debug."
-msgstr ""
+msgstr "Ingen mesh att felsöka."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Mesh has no UV in layer %d."
-msgstr ""
+msgstr "Meshen har ingen UV i lager %d."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "MeshInstance3D lacks a Mesh."
-msgstr ""
+msgstr "MeshInstance3D saknar mesh."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Mesh has no surface to create outlines from."
-msgstr ""
+msgstr "Meshen har ingen yta som konturer kan skapas ifrån."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Mesh primitive type is not PRIMITIVE_TRIANGLES."
-msgstr ""
+msgstr "Mesh-primitiv-typ är inte PRIMITIVE_TRIANGLES."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Could not create outline."
-msgstr ""
+msgstr "Kunde inte skapa konturer."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Create Outline"
-msgstr ""
+msgstr "Skapa konturer"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 #: scene/resources/visual_shader_particle_nodes.cpp
 msgid "Mesh"
-msgstr ""
+msgstr "Mesh"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Create Collision Shape..."
-msgstr ""
+msgstr "Skapa kollisionsform..."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Create Outline Mesh..."
-msgstr ""
+msgstr "Skapa konturmesh…"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid ""
@@ -11706,78 +11757,87 @@ msgid ""
 "This can be used instead of the StandardMaterial Grow property when using "
 "that property isn't possible."
 msgstr ""
+"Skapar en statisk konturmesh. Konturmeshens normaler vänds ut-och-in "
+"automatiskt.\n"
+"Det här kan användas istället för StandardMaterial:ets Grow-egenskap i de "
+"fall den inte går att använda."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "View UV1"
-msgstr ""
+msgstr "Visa UV1"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "View UV2"
-msgstr ""
+msgstr "Visa UV2"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Unwrap UV2 for Lightmap/AO"
-msgstr ""
+msgstr "Veckla ut UV2 för lightmap/AO"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Create Outline Mesh"
-msgstr ""
+msgstr "Skapa konturmesh"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Outline Size:"
-msgstr ""
+msgstr "Konturstorlek:"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Create Collision Shape"
-msgstr ""
+msgstr "Skapa kollisionsform"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Collision Shape placement"
-msgstr ""
+msgstr "Kollisionsformens placering"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Sibling"
-msgstr ""
+msgstr "Syskon"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Creates collision shapes as Sibling."
-msgstr ""
+msgstr "Skapar kollisionsformer som syskon."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Static Body Child"
-msgstr ""
+msgstr "Statisk kropp-barn"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Creates a StaticBody3D as child and assigns collision shapes to it."
 msgstr ""
+"Skapar en StaticBody3D som barn och tilldelar kollisionsformer till den."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Collision Shape Type"
-msgstr ""
+msgstr "Kollisionsformtyp"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Trimesh"
-msgstr ""
+msgstr "Trimesh"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid ""
 "Creates a polygon-based collision shape.\n"
 "This is the most accurate (but slowest) option for collision detection."
 msgstr ""
+"Skapar en polygonbaserad kollisionsform.\n"
+"Det mest exakta, men långsammaste, alternativet för kollisionsdetektering."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Single Convex"
-msgstr ""
+msgstr "Enstaka konvex"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid ""
 "Creates a single convex collision shape.\n"
 "This is the fastest (but least accurate) option for collision detection."
 msgstr ""
+"Skapar en enda konvex kollisionsform.\n"
+"Det snabbaste, men minst exakta, alternativet för kollisionsdetektering."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Simplified Convex"
-msgstr ""
+msgstr "Förenklad konvex"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid ""
@@ -11785,10 +11845,13 @@ msgid ""
 "This is similar to single collision shape, but can result in a simpler "
 "geometry in some cases, at the cost of accuracy."
 msgstr ""
+"Skapar en förenklad konvex kollisionsform.\n"
+"Liknar enstaka konvex kollisionsform, men kan resultera i enklare geometri i "
+"vissa fall på bekostnad av noggrannhet."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "Multiple Convex"
-msgstr ""
+msgstr "Flerfaldig konvex"
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid ""
@@ -11796,20 +11859,23 @@ msgid ""
 "This is a performance middle-ground between a single convex collision and a "
 "polygon-based collision."
 msgstr ""
+"Skapar en polygonbaserad konvex kollisionsform.\n"
+"En prestanda-medelväg mellan enstaka konvex- och trimesh-baserad "
+"kollisionsform."
 
 #: editor/plugins/mesh_instance_3d_editor_plugin.cpp
 msgid "UV Channel Debug"
-msgstr ""
+msgstr "UV-kanal-felsökning"
 
 #: editor/plugins/mesh_library_editor_plugin.cpp
 msgid "Remove item %d?"
-msgstr ""
+msgstr "Ta bort objekt %d?"
 
 #: editor/plugins/mesh_library_editor_plugin.cpp
 msgid ""
 "Update from existing scene?:\n"
 "%s"
-msgstr ""
+msgstr "Uppdatera från befintlig scen?: %s"
 
 #: editor/plugins/mesh_library_editor_plugin.cpp
 msgid "MeshLibrary"
@@ -11817,366 +11883,373 @@ msgstr "MeshLibrary"
 
 #: editor/plugins/mesh_library_editor_plugin.cpp
 msgid "Add Item"
-msgstr ""
+msgstr "MeshLibrary"
 
 #: editor/plugins/mesh_library_editor_plugin.cpp
 msgid "Remove Selected Item"
-msgstr ""
+msgstr "Lägg till objekt"
 
 #: editor/plugins/mesh_library_editor_plugin.cpp
 msgid "Import from Scene (Ignore Transforms)"
-msgstr ""
+msgstr "Importera från scen (ignorera transforms)"
 
 #: editor/plugins/mesh_library_editor_plugin.cpp
 msgid "Import from Scene (Apply Transforms)"
-msgstr ""
+msgstr "Importera från scen (tillämpa transforms)"
 
 #: editor/plugins/mesh_library_editor_plugin.cpp
 msgid "Update from Scene"
-msgstr ""
+msgstr "Uppdatera från scen"
 
 #: editor/plugins/mesh_library_editor_plugin.cpp
 msgid "Apply without Transforms"
-msgstr ""
+msgstr "Tillämpa utan transforms"
 
 #: editor/plugins/mesh_library_editor_plugin.cpp
 msgid "Apply with Transforms"
-msgstr ""
+msgstr "Tillämpa med transforms"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "No mesh source specified (and no MultiMesh set in node)."
-msgstr ""
+msgstr "Ingen mesh-källa angiven (och ingen MultiMesh inställd i noden)."
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "No mesh source specified (and MultiMesh contains no Mesh)."
-msgstr ""
+msgstr "Ingen mesh-källa angiven (och MultiMesh saknar mesh)."
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Mesh source is invalid (invalid path)."
-msgstr ""
+msgstr "Meshkällan är ogiltig (ogiltig sökväg)."
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Mesh source is invalid (not a MeshInstance3D)."
-msgstr ""
+msgstr "Meshkällan är ogiltig (inte en MeshInstance3D)."
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Mesh source is invalid (contains no Mesh resource)."
-msgstr ""
+msgstr "Meshkällan är ogiltig (innehåller ingen mesh-resurs)."
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "No surface source specified."
-msgstr ""
+msgstr "Ingen yt-källa angiven."
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Surface source is invalid (invalid path)."
-msgstr ""
+msgstr "Yt-källan är ogiltig (ogiltig sökväg)"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Surface source is invalid (no geometry)."
-msgstr ""
+msgstr "Yt-källan är ogiltig (ingen geometri)"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Surface source is invalid (no faces)."
-msgstr ""
+msgstr "Yt-källan är ogiltig (inga sidytor)"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Select a Source Mesh:"
-msgstr ""
+msgstr "Välj en käll-mesh:"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Select a Target Surface:"
-msgstr ""
+msgstr "Välj en mål-yta:"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Populate Surface"
-msgstr ""
+msgstr "Befolka yta"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Populate MultiMesh"
-msgstr ""
+msgstr "Befolka MultiMesh"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Target Surface:"
-msgstr ""
+msgstr "Mål-yta:"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Source Mesh:"
-msgstr ""
+msgstr "Käll-mesh:"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "X-Axis"
-msgstr ""
+msgstr "X-axel"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Y-Axis"
-msgstr ""
+msgstr "Y-axel"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Z-Axis"
-msgstr ""
+msgstr "Z-axel"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Mesh Up Axis:"
-msgstr ""
+msgstr "Meshens upp-axel:"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Random Rotation:"
-msgstr ""
+msgstr "Slumpad rotation:"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Random Tilt:"
-msgstr ""
+msgstr "Slumpad lutning:"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Random Scale:"
-msgstr ""
+msgstr "Slumpad skala:"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Amount:"
-msgstr ""
+msgstr "Antal:"
 
 #: editor/plugins/multimesh_editor_plugin.cpp
 msgid "Populate"
-msgstr ""
+msgstr "Befolka"
 
 #: editor/plugins/navigation_link_2d_editor_plugin.cpp
 msgid "Set start_position"
-msgstr ""
+msgstr "Ställ in start_position"
 
 #: editor/plugins/navigation_link_2d_editor_plugin.cpp
 msgid "Set end_position"
-msgstr ""
+msgstr "Ställ in end_position"
 
 #: editor/plugins/navigation_obstacle_3d_editor_plugin.cpp
 msgid "Set NavigationObstacle3D Vertices"
-msgstr ""
+msgstr "Ställ in NavigationObstacle3D-vertices"
 
 #: editor/plugins/navigation_obstacle_3d_editor_plugin.cpp
 msgid "Edit Vertices"
-msgstr ""
+msgstr "Redigera vertices"
 
 #: editor/plugins/navigation_obstacle_3d_editor_plugin.cpp
 #: editor/plugins/polygon_3d_editor_plugin.cpp
 msgid "Edit Poly"
-msgstr ""
+msgstr "Redigera poly"
 
 #: editor/plugins/navigation_obstacle_3d_editor_plugin.cpp
 #: editor/plugins/polygon_3d_editor_plugin.cpp
 msgid "Edit Poly (Remove Point)"
-msgstr ""
+msgstr "Redigera poly (ta bort punkt)"
 
 #: editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid "Create Navigation Polygon"
-msgstr ""
+msgstr "Skapa navigationspolygon"
 
 #: editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid "Bake NavigationPolygon"
-msgstr ""
+msgstr "Baka navigationspolygon"
 
 #: editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid ""
 "Bakes the NavigationPolygon by first parsing the scene for source geometry "
 "and then creating the navigation polygon vertices and polygons."
 msgstr ""
+"Bakar navigationspolygonen genom att först genomsöka scenen efter "
+"källgeometri och sedan skapa navigationspolygonens vertices och polygoner."
 
 #: editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid "Clear NavigationPolygon"
-msgstr ""
+msgstr "Rensa navigationspolygon"
 
 #: editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid "Clears the internal NavigationPolygon outlines, vertices and polygons."
 msgstr ""
+"Rensar de interna konturerna, verticerna och polygonerna i "
+"navigationspolygonen."
 
 #: editor/plugins/navigation_polygon_editor_plugin.cpp
 msgid ""
 "A NavigationPolygon resource must be set or created for this node to work."
 msgstr ""
+"En navigationspolygon-resurs måste anges eller skapas för att den här noden "
+"ska fungera."
 
 #: editor/plugins/node_3d_editor_gizmos.cpp
 msgid "Unnamed Gizmo"
-msgstr ""
+msgstr "Namnlös gizmo"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Transform Aborted."
-msgstr ""
+msgstr "Transformering avbruten."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Orthogonal"
-msgstr ""
+msgstr "Ortogonal"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Perspective"
-msgstr ""
+msgstr "Perspektiv"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Top Orthogonal"
-msgstr ""
+msgstr "Ortogonal ovanifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Top Perspective"
-msgstr ""
+msgstr "Perspektiv ovanifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Bottom Orthogonal"
-msgstr ""
+msgstr "Ortogonal underifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Bottom Perspective"
-msgstr ""
+msgstr "Perspektiv underifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Left Orthogonal"
-msgstr ""
+msgstr "Ortogonal vänsterifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Left Perspective"
-msgstr ""
+msgstr "Perspektiv vänsterifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Right Orthogonal"
-msgstr ""
+msgstr "Ortogonal högerifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Right Perspective"
-msgstr ""
+msgstr "Perspektiv högerifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Front Orthogonal"
-msgstr ""
+msgstr "Ortogonal framifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Front Perspective"
-msgstr ""
+msgstr "Perspektiv framifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Rear Orthogonal"
-msgstr ""
+msgstr "Ortogonal bakifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Rear Perspective"
-msgstr ""
+msgstr "Perspektiv bakifrån"
 
 #. TRANSLATORS: This will be appended to the view name when Auto Orthogonal is enabled.
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid " [auto]"
-msgstr ""
+msgstr " [auto]"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "X-Axis Transform."
-msgstr ""
+msgstr "X-axel-transformering."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Y-Axis Transform."
-msgstr ""
+msgstr "Y-axel-transformering."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Z-Axis Transform."
-msgstr ""
+msgstr "Z-axel-transformering."
 
 #. TRANSLATORS: This refers to the transform of the view plane.
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "View Plane Transform."
-msgstr ""
+msgstr "Siktplanstransformation."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
+#, fuzzy
 msgid "Keying is disabled (no key inserted)."
-msgstr ""
+msgstr "Nycklar är avaktiverade (ingen nyckel infogades)."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Animation Key Inserted."
-msgstr ""
+msgstr "Animationsnyckel infogad."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "X: %s\n"
-msgstr ""
+msgstr "X: %s\n"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Y: %s\n"
-msgstr ""
+msgstr "Y: %s\n"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Z: %s\n"
-msgstr ""
+msgstr "Z: %s\n"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Size: %s (%.1fMP)\n"
-msgstr ""
+msgstr "Storlek: %s (%.1fMP)\n"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Objects: %d\n"
-msgstr ""
+msgstr "Objekt: %d\n"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Primitives: %d\n"
-msgstr ""
+msgstr "Primitiver: %d\n"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Draw Calls: %d"
-msgstr ""
+msgstr "Ritanrop: %d"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "CPU Time: %s ms"
-msgstr ""
+msgstr "CPU-tid: %s ms"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "GPU Time: %s ms"
-msgstr ""
+msgstr "GPU-tid: %s ms"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "FPS: %d"
-msgstr ""
+msgstr "FPS: %d"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Instantiating:"
-msgstr ""
+msgstr "Instansiering:"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Top View."
-msgstr ""
+msgstr "Ovanifrån."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Bottom View."
-msgstr ""
+msgstr "Underifrån."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Left View."
-msgstr ""
+msgstr "Vänsterifrån."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Right View."
-msgstr ""
+msgstr "Högerifrån."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Front View."
-msgstr ""
+msgstr "Framifrån."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Rear View."
-msgstr ""
+msgstr "Bakifrån."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Align Transform with View"
-msgstr ""
+msgstr "Justera transformation till vy"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Align Rotation with View"
-msgstr ""
+msgstr "Justera rotation till vy"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Set Surface %d Override Material"
-msgstr ""
+msgstr "Ställ in yta %d överskrivningsmaterial"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Set Material Override"
-msgstr ""
+msgstr "Ställ in överskrivningsmaterial"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Can't instantiate: %s."
-msgstr ""
+msgstr "Kan inte instansiera: %s."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Circular dependency found at %s"
-msgstr ""
+msgstr "Rekursiva beroenden hittades vid %s"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 #: editor/plugins/texture_region_editor_plugin.cpp
@@ -12184,162 +12257,162 @@ msgstr ""
 #: editor/project_manager/project_dialog.cpp editor/scene_tree_dock.cpp
 #: scene/resources/visual_shader.cpp
 msgid "None"
-msgstr ""
+msgstr "Inget"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Rotate"
-msgstr ""
+msgstr "Rotera"
 
 #. TRANSLATORS: This refers to the movement that changes the position of an object.
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Translate"
-msgstr ""
+msgstr "Förflytta"
 
 #. TRANSLATORS: Refers to changing the position of a node in the 3D editor.
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Translating:"
-msgstr ""
+msgstr "Förflyttar:"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Rotating %s degrees."
-msgstr ""
+msgstr "Roterar %s grader."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Translating %s."
-msgstr ""
+msgstr "Förflyttar %s."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Rotating %f degrees."
-msgstr ""
+msgstr "Roterar %f grader."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Scaling %s."
-msgstr ""
+msgstr "Skalar om %s."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Auto Orthogonal Enabled"
-msgstr ""
+msgstr "Auto-ortogonal påslagen"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Lock View Rotation"
-msgstr ""
+msgstr "Lås synvinkel"
 
 #. TRANSLATORS: "Normal" as in "normal life", not "normal vector".
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Display Normal"
-msgstr ""
+msgstr "Visa normal"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Display Wireframe"
-msgstr ""
+msgstr "Visa nät"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Display Overdraw"
-msgstr ""
+msgstr "Visa ritningsöverflöd"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Display Lighting"
-msgstr ""
+msgstr "Visa belysning"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Display Unshaded"
-msgstr ""
+msgstr "Visa oskuggat"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Directional Shadow Splits"
-msgstr ""
+msgstr "Riktade skugg-delningar"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Normal Buffer"
-msgstr ""
+msgstr "Normal-buffer"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Shadow Atlas"
-msgstr ""
+msgstr "Skuggatlas"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Directional Shadow Map"
-msgstr ""
+msgstr "Riktade skuggor-karta"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Decal Atlas"
-msgstr ""
+msgstr "Dekalatlas"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "VoxelGI Lighting"
-msgstr ""
+msgstr "VoxelGI-belysning"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "VoxelGI Albedo"
-msgstr ""
+msgstr "VoxelGI-albedo"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "VoxelGI Emission"
-msgstr ""
+msgstr "VoxelGI-utstrålning"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "SDFGI Cascades"
-msgstr ""
+msgstr "SDFGI-cascades"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "SDFGI Probes"
-msgstr ""
+msgstr "SDFGI-sonder"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Scene Luminance"
-msgstr ""
+msgstr "Scen-luminans"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "SSAO"
-msgstr ""
+msgstr "SSAO"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "SSIL"
-msgstr ""
+msgstr "SSIL"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "VoxelGI/SDFGI Buffer"
-msgstr ""
+msgstr "VoxelGI/SDFGI-buffer"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Disable Mesh LOD"
-msgstr ""
+msgstr "Avaktivera mesh-LOD"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "OmniLight3D Cluster"
-msgstr ""
+msgstr "OmniLight3D-kluster"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "SpotLight3D Cluster"
-msgstr ""
+msgstr "SpotLight3D-kluster"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Decal Cluster"
-msgstr ""
+msgstr "Dekalkluster"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "ReflectionProbe Cluster"
-msgstr ""
+msgstr "ReflectionProbe-kluster"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Occlusion Culling Buffer"
-msgstr ""
+msgstr "Ockluderingsgallring-buffer"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Motion Vectors"
-msgstr ""
+msgstr "Rörelsevektorer"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Internal Buffer"
-msgstr ""
+msgstr "Intern buffer"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Display Advanced..."
-msgstr ""
+msgstr "Visa avancerade..."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "View Environment"
-msgstr ""
+msgstr "Visa miljö"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "View Gizmos"
@@ -12347,130 +12420,134 @@ msgstr "Visa gizmon"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "View Grid"
-msgstr ""
+msgstr "Visa rutnät"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "View Information"
-msgstr ""
+msgstr "Visa info"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "View Frame Time"
-msgstr ""
+msgstr "Visa bildrutetid"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Half Resolution"
-msgstr ""
+msgstr "Halv upplösning"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Audio Listener"
-msgstr ""
+msgstr "Ljudlyssnare"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Enable Doppler"
-msgstr ""
+msgstr "Slå på doppler-effekt"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Cinematic Preview"
-msgstr ""
+msgstr "Filmisk förhandsvisning"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Not available when using the OpenGL renderer."
-msgstr ""
+msgstr "Inte tillgänglig när OpenGL-renderaren används."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Freelook Left"
-msgstr ""
+msgstr "Frikolla vänster"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Freelook Right"
-msgstr ""
+msgstr "Frikolla höger"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Freelook Forward"
-msgstr ""
+msgstr "Frikolla framåt"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Freelook Backwards"
-msgstr ""
+msgstr "Frikolla bakåt"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Freelook Up"
-msgstr ""
+msgstr "Frikolla uppåt"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Freelook Down"
-msgstr ""
+msgstr "Frikolla nedåt"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Freelook Speed Modifier"
-msgstr ""
+msgstr "Frikolla hastighetsfaktor"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Freelook Slow Modifier"
-msgstr ""
+msgstr "Frikolla långsam-faktor"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Lock Transformation to X axis"
-msgstr ""
+msgstr "Lås transformering till X-axeln"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Lock Transformation to Y axis"
-msgstr ""
+msgstr "Lås transformering till Y-axeln"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Lock Transformation to Z axis"
-msgstr ""
+msgstr "Lås transformering till Z-axeln"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Lock Transformation to YZ plane"
-msgstr ""
+msgstr "Lås transformering till YZ-planet"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Lock Transformation to XZ plane"
-msgstr ""
+msgstr "Lås transformering till XZ-planet"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Lock Transformation to XY plane"
-msgstr ""
+msgstr "Lås transformering till XY-planet"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Begin Translate Transformation"
-msgstr ""
+msgstr "Påbörja förflyttnings-transformering"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Begin Rotate Transformation"
-msgstr ""
+msgstr "Påbörja rotations-transformering"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Begin Scale Transformation"
-msgstr ""
+msgstr "Påbörja skalnings-transformering"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Toggle Camera Preview"
-msgstr ""
+msgstr "Kameraförhandsvisning av/på"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "View Rotation Locked"
-msgstr ""
+msgstr "Synvinkel låst"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
+#, fuzzy
 msgid ""
 "To zoom further, change the camera's clipping planes (View -> Settings...)"
-msgstr ""
+msgstr "För att zooma längre, ändra kamerans avklippsplan (View -> Settings…)"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Overriding material..."
-msgstr ""
+msgstr "Överskriver material…"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
 "Drag and drop to override the material of any geometry node.\n"
 "Hold %s when dropping to override a specific surface."
 msgstr ""
+"Dra & släpp för att skriva över materialet hos vilken geometri-nod som "
+"helst.\n"
+"Håll in %s och släpp för att skriva över en specifik yta."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "XForm Dialog"
-msgstr ""
+msgstr "XForm-dialog"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
@@ -12480,22 +12557,29 @@ msgid ""
 "Closed eye: Gizmo is hidden.\n"
 "Half-open eye: Gizmo is also visible through opaque surfaces (\"x-ray\")."
 msgstr ""
+"Tryck för att byta mellan synlighetslägen.\n"
+"\n"
+"Öppet öga: Gizmo synligt.\n"
+"Stängt öga: Gizmo gömt.\n"
+"Halvöppet öga: Gizmo syns, även genom ytor (\"röntgen\")."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
+#, fuzzy
 msgid "Snap Nodes to Floor"
-msgstr ""
+msgstr "Magnet-dra noder till golvet"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
+#, fuzzy
 msgid "Couldn't find a solid floor to snap the selection to."
-msgstr ""
+msgstr "Hittade inget fast golv att magnet-dra noder till."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Add Preview Sun to Scene"
-msgstr ""
+msgstr "Lägg till förhandsvisningssol i scenen"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Add Preview Environment to Scene"
-msgstr ""
+msgstr "Lägg till förhandsvisningsmiljö i scenen"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
@@ -12503,10 +12587,13 @@ msgid ""
 "DirectionalLight3D.\n"
 "Preview disabled."
 msgstr ""
+"Scenen innehåller\n"
+"DirectionalLight3D.\n"
+"Förhandsvisning avaktiverad."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Preview disabled."
-msgstr ""
+msgstr "Förhandsvisning avaktiverad."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
@@ -12514,24 +12601,29 @@ msgid ""
 "WorldEnvironment.\n"
 "Preview disabled."
 msgstr ""
+"Scenen innehåller\n"
+"WorldEnvironment.\n"
+"Förhandsvisning avaktiverad."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Drag: Use snap."
-msgstr ""
+msgstr "Dra: Använd magnet."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
 "Groups the selected node with its children. This selects the parent when any "
 "child node is clicked in 2D and 3D view."
 msgstr ""
+"Gruppera den valda noden med dess barn. Då markeras noden om någon av dess "
+"barn-noder klickas på i 2D- och 3D-vyn."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Use Local Space"
-msgstr ""
+msgstr "Använd lokala koordinater"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Use Snap"
-msgstr ""
+msgstr "Använd magnet"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
@@ -12539,6 +12631,9 @@ msgid ""
 "If a DirectionalLight3D node is added to the scene, preview sunlight is "
 "disabled."
 msgstr ""
+"Solljus i förhandsvisning av/på.\n"
+"Solljus i förhandsvisning stängs av om en DirectionalLight3D-nod läggs till "
+"i scenen."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
@@ -12546,230 +12641,237 @@ msgid ""
 "If a WorldEnvironment node is added to the scene, preview environment is "
 "disabled."
 msgstr ""
+"Miljö i förhandsvisning av/på.\n"
+"Miljö i förhandsvisning stängs av om en WorldEnvironment-nod läggs till i "
+"scenen."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Edit Sun and Environment settings."
-msgstr ""
+msgstr "Redigera sol- och miljöinställningar."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Bottom View"
-msgstr ""
+msgstr "Underifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Top View"
-msgstr ""
+msgstr "Ovanifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Rear View"
-msgstr ""
+msgstr "Bakifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Front View"
-msgstr ""
+msgstr "Framifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Left View"
-msgstr ""
+msgstr "Vänsterifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Right View"
-msgstr ""
+msgstr "Högerifrån"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Orbit View Down"
-msgstr ""
+msgstr "Snurra vy nedåt"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Orbit View Left"
-msgstr ""
+msgstr "Snurra vy vänster"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Orbit View Right"
-msgstr ""
+msgstr "Snurra vy höger"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Orbit View Up"
-msgstr ""
+msgstr "Snurra vy uppåt"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Orbit View 180"
-msgstr ""
+msgstr "Snurra vy 180"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Switch Perspective/Orthogonal View"
-msgstr ""
+msgstr "Växla perspektiv-/ortogonal vy"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Insert Animation Key"
-msgstr ""
+msgstr "Infoga animationsnyckel"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Focus Origin"
-msgstr ""
+msgstr "Fokusera på origo"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Focus Selection"
-msgstr ""
+msgstr "Fokusera på markering"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Toggle Freelook"
-msgstr ""
+msgstr "Frikolla av/på"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Decrease Field of View"
-msgstr ""
+msgstr "Minska synfältsvinkel"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Increase Field of View"
-msgstr ""
+msgstr "Öka synfältsvinkel"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Reset Field of View to Default"
-msgstr ""
+msgstr "Återställ synfältsvinkel"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Transform"
-msgstr ""
+msgstr "Transformera"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
+#, fuzzy
 msgid "Snap Object to Floor"
-msgstr ""
+msgstr "Magnet-dra objekt till golvet"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Transform Dialog..."
-msgstr ""
+msgstr "Transfomeringsdialog…"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "1 Viewport"
-msgstr ""
+msgstr "1 vyruta"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "2 Viewports"
-msgstr ""
+msgstr "2 vyrutor"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "2 Viewports (Alt)"
-msgstr ""
+msgstr "2 vyrutor (alt)"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "3 Viewports"
-msgstr ""
+msgstr "3 vyrutor"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "3 Viewports (Alt)"
-msgstr ""
+msgstr "3 vyrutor (alt)"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "4 Viewports"
-msgstr ""
+msgstr "4 vyrutor"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "View Origin"
-msgstr ""
+msgstr "Visa origo"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Settings..."
-msgstr ""
+msgstr "Konfigurera vy…"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Snap Settings"
-msgstr ""
+msgstr "Magnetinställningar"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Translate Snap:"
-msgstr ""
+msgstr "Förflyttningssteg:"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Rotate Snap (deg.):"
-msgstr ""
+msgstr "Rotationssteg (°):"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Scale Snap (%):"
-msgstr ""
+msgstr "Skalsteg (%):"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Viewport Settings"
-msgstr ""
+msgstr "Vyinställningar"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
 "FOV is defined as a vertical value, as the editor camera always uses the "
 "Keep Height aspect mode."
 msgstr ""
+"FOV definieras som ett vertikalt värde (VFOV) eftersom redigerarkameran "
+"alltid använder Behåll höjd-förhållandeläget."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Perspective VFOV (deg.):"
-msgstr ""
+msgstr "Perspektiv-VFOV (°):"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "View Z-Near:"
-msgstr ""
+msgstr "Klipp Z-nära:"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
+#, fuzzy
 msgid "View Z-Far:"
-msgstr ""
+msgstr "Klipp Z-fjärran:"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Transform Change"
-msgstr ""
+msgstr "Ändra transform"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Translate:"
-msgstr ""
+msgstr "Förflytta:"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Rotate (deg.):"
-msgstr ""
+msgstr "Rotera (°):"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Scale (ratio):"
-msgstr ""
+msgstr "Skala om (faktor):"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Transform Type"
-msgstr ""
+msgstr "Transform-typ"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Pre"
-msgstr ""
+msgstr "Pre"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Post"
-msgstr ""
+msgstr "Post"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Preview Sun"
-msgstr ""
+msgstr "Förhandsvisnings-sol"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Sun Direction"
-msgstr ""
+msgstr "Solriktning"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Angular Altitude"
-msgstr ""
+msgstr "Vinkelaltitud"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Azimuth"
-msgstr ""
+msgstr "Azimut"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Sun Color"
-msgstr ""
+msgstr "Solens färg"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Sun Energy"
-msgstr ""
+msgstr "Solens energi"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Shadow Max Distance"
-msgstr ""
+msgstr "Maxavstånd för skuggor"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Add Sun to Scene"
-msgstr ""
+msgstr "Lägg till sol i scenen"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
@@ -12778,46 +12880,50 @@ msgid ""
 "Hold Shift while clicking to also add the preview environment to the current "
 "scene."
 msgstr ""
+"Lägger till en DirectionalLight3D-nod som motsvarar förhandsvisningssolens "
+"inställningar i den aktuella scenen.\n"
+"Håll in Skift när du klickar för att också lägga till förhandsvisningsmiljön "
+"i den aktuella scenen."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Preview Environment"
-msgstr ""
+msgstr "Förhandsvisnings-miljö"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Sky Color"
-msgstr ""
+msgstr "Himmelsfärg"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Ground Color"
-msgstr ""
+msgstr "Markfärg"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Sky Energy"
-msgstr ""
+msgstr "Himmelns energi"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "AO"
-msgstr ""
+msgstr "AO"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Glow"
-msgstr ""
+msgstr "Glöd"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Tonemap"
-msgstr ""
+msgstr "Tonemap"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "GI"
-msgstr ""
+msgstr "GI"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Post Process"
-msgstr ""
+msgstr "Efterbehandling"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Add Environment to Scene"
-msgstr ""
+msgstr "Lägg till miljö i scenen"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
@@ -12825,12 +12931,18 @@ msgid ""
 "the current scene.\n"
 "Hold Shift while clicking to also add the preview sun to the current scene."
 msgstr ""
+"Lägger till en WorldEnvironment-nod som motsvarar förhandsvisningsmiljöns "
+"inställningar i den aktuella scenen.\n"
+"Håll in Skift när du klickar för att också lägga till förhandsvisningssolen "
+"i den aktuella scenen."
 
 #: editor/plugins/occluder_instance_3d_editor_plugin.cpp
 msgid ""
 "Can't determine a save path for the occluder.\n"
 "Save your scene and try again."
 msgstr ""
+"Kan inte hitta en sparsökväg för ockluderaren.\n"
+"Spara scenen och försök igen."
 
 #: editor/plugins/occluder_instance_3d_editor_plugin.cpp
 msgid ""
@@ -12838,71 +12950,76 @@ msgid ""
 "Make sure there is at least one MeshInstance3D node in the scene whose "
 "visual layers are part of the OccluderInstance3D's Bake Mask property."
 msgstr ""
+"Inga mesher att baka.\n"
+"Kontrollera att det finns minst en MeshInstance3D-nod i scenen vars visuella "
+"lager är en del av OccluderInstance3D:ns bakmask-egenskap."
 
 #: editor/plugins/occluder_instance_3d_editor_plugin.cpp
 msgid "Could not save the new occluder at the specified path:"
-msgstr ""
+msgstr "Kunde inte spara ny ockluderare vid den angivna sökvägen:"
 
 #: editor/plugins/occluder_instance_3d_editor_plugin.cpp
 msgid "Bake Occluders"
-msgstr ""
+msgstr "Baka ockluderare"
 
 #: editor/plugins/occluder_instance_3d_editor_plugin.cpp
 msgid "Select occluder bake file:"
-msgstr ""
+msgstr "Välj ockluderar-bakfil:"
 
 #: editor/plugins/parallax_background_editor_plugin.cpp
 msgid "Convert to Parallax2D"
-msgstr ""
+msgstr "Konvertera till Parallax2D"
 
 #: editor/plugins/parallax_background_editor_plugin.cpp
 msgid "ParallaxBackground"
-msgstr ""
+msgstr "Parallax-bakgrund"
 
 #: editor/plugins/particle_process_material_editor_plugin.cpp
 msgid "Hold Shift to scale around midpoint instead of moving."
 msgstr ""
+"Håll in Skift för att skala runt mittpunkten istället för att förflytta."
 
 #: editor/plugins/particle_process_material_editor_plugin.cpp
+#, fuzzy
 msgid "Toggle between minimum/maximum and base value/spread modes."
-msgstr ""
+msgstr "Växla mellan \"minimum/maximum\"- och \"base value/spread\"-läge."
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Remove Point from Curve"
-msgstr ""
+msgstr "Ta bort punkt från kurva"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Remove Out-Control from Curve"
-msgstr ""
+msgstr "Ta bort ut-kontroll från kurva"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Remove In-Control from Curve"
-msgstr ""
+msgstr "Ta bort in-kontroll från kurva"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Split Curve"
-msgstr ""
+msgstr "Dela kurva"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Move Point in Curve"
-msgstr ""
+msgstr "Förflytta punkt i kurva"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Add Point to Curve"
-msgstr ""
+msgstr "Lägg till punkt i kurva"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Move In-Control in Curve"
-msgstr ""
+msgstr "Förflytta in-kontroll i kurva"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Move Out-Control in Curve"
-msgstr ""
+msgstr "Förflytta ut-kontroll i kurva"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Close the Curve"
-msgstr ""
+msgstr "Stäng kurvan"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
@@ -22119,12 +22236,13 @@ msgid ""
 msgstr ""
 
 #: scene/3d/occluder_instance_3d.cpp
+#, fuzzy
 msgid ""
 "Occlusion culling is disabled in the Project Settings, which means occlusion "
 "culling won't be performed in the root viewport.\n"
 "To resolve this, open the Project Settings and enable Rendering > Occlusion "
 "Culling > Use Occlusion Culling."
-msgstr ""
+msgstr "Ockluderingsgallring"
 
 #: scene/3d/occluder_instance_3d.cpp
 msgid ""
