@@ -13031,7 +13031,7 @@ msgstr "Markera punkter"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Shift+Drag: Select Control Points"
-msgstr "Skift+dra: Markera kontrollpunkter "
+msgstr "Skift+dra: Markera kontrollpunkter"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
@@ -13654,7 +13654,7 @@ msgstr "Öppna Godots onlinedokumentation."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Unsaved file."
-msgstr "Osparad fil. "
+msgstr "Osparad fil."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "%s Class Reference"
@@ -14059,8 +14059,9 @@ msgid "Shader Editor"
 msgstr "Shaderredigerare"
 
 #: editor/plugins/shader_editor_plugin.cpp
+#, fuzzy
 msgid "New Shader Include..."
-msgstr "Ny inkluderbar shader"
+msgstr "Ny inkluderbar shader…"
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Load Shader File..."
@@ -14977,7 +14978,7 @@ msgstr "Ogiltig fil, inte en tema-resurs."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Invalid file, same as the edited Theme resource."
-msgstr "Ogiltig fil, samma som temaresursen som redigeras"
+msgstr "Ogiltig fil, samma som temaresursen som redigeras."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Manage Theme Items"
@@ -15322,7 +15323,7 @@ msgstr "Ogiltig fil, inte en PackedScene-resurs."
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Reload the scene to reflect its most actual state."
-msgstr "Läs in scenen på nytt för att återspegla dess senaste tillstånd"
+msgstr "Läs in scenen på nytt för att återspegla dess senaste tillstånd."
 
 #: editor/plugins/tiles/atlas_merging_dialog.cpp
 msgid "Merge TileSetAtlasSource"
@@ -15466,8 +15467,9 @@ msgid "Painting Tiles Property"
 msgstr "Målar brick-egenskap"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
+#, fuzzy
 msgid "Painting:"
-msgstr "Mplar."
+msgstr "Målar:"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "No terrains"
@@ -15487,7 +15489,7 @@ msgstr "Målar terräng"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Can't transform scene tiles."
-msgstr "Kan inte transformera scenbrickor"
+msgstr "Kan inte transformera scenbrickor."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Can't rotate patterns when using non-square tile grid."
@@ -15578,11 +15580,11 @@ msgstr "Skift: Rita rektangel."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Alternatively hold %s with other tools to pick tile."
-msgstr "Alternativt, håll %s med andra verktyg för att välja bricka"
+msgstr "Alternativt, håll %s med andra verktyg för att välja bricka."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Alternatively use RMB to erase tiles."
-msgstr "Alternativt, använd HMK för att sudda brickor"
+msgstr "Alternativt, använd HMK för att sudda brickor."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Rotate Tile Left"
@@ -15770,7 +15772,7 @@ msgstr "Markera valt TileMap-lager"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Toggle grid visibility."
-msgstr "Växla rutnäts-synlighet"
+msgstr "Växla rutnäts-synlighet."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Automatically Replace Tiles with Proxies"
@@ -16115,7 +16117,7 @@ msgstr "Utrymmet (i brickor) mellan varje bildruta i animationen."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Animation speed in frames per second."
-msgstr "Animationsfrekvens i bildrutor/sekund"
+msgstr "Animationsfrekvens i bildrutor/sekund."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
@@ -16287,7 +16289,7 @@ msgstr "Skapa en bricka"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Auto Create Tiles in Non-Transparent Texture Regions?"
-msgstr "Autoskapa brickor i icke-transparenta texturområden"
+msgstr "Autoskapa brickor i icke-transparenta texturområden?"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 #, fuzzy
@@ -17060,7 +17062,7 @@ msgstr "Ta bort varying"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Show generated shader code."
-msgstr "Visa genererad shader-kod"
+msgstr "Visa genererad shader-kod."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Generated Shader Code"
@@ -17475,11 +17477,11 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Base-e Exponential."
-msgstr "Bas e-exponent"
+msgstr "Bas e-exponent."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Base-2 Exponential."
-msgstr "Bas 2-exponent"
+msgstr "Bas 2-exponent."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Finds the nearest integer less than or equal to the parameter."
@@ -17499,7 +17501,7 @@ msgstr "Naturlig logaritm."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Base-2 logarithm."
-msgstr "Bas 2-logaritm"
+msgstr "Bas 2-logaritm."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the greater of two values."
@@ -17557,15 +17559,15 @@ msgstr "Extraherar parameterns tecken (-/+)."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the sine of the parameter."
-msgstr "Returnerar sinus av parametern"
+msgstr "Returnerar sinus av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the hyperbolic sine of the parameter."
-msgstr "Returnerar hyperbolisk sinus av parametern"
+msgstr "Returnerar hyperbolisk sinus av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the square root of the parameter."
-msgstr "Returnerar kvadratroten av parametern"
+msgstr "Returnerar kvadratroten av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -17674,185 +17676,189 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the result of bitwise XOR (a ^ b) operation on the integer."
-msgstr ""
+msgstr "Returnerar resultatet av operationen bitvis XOR (a ^ b) på heltalet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the result of bitwise XOR (a ^ b) operation on the unsigned integer."
 msgstr ""
+"Returnerar resultatet av operationen bitvis XOR (a ^ b) på det positiva "
+"heltalet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Divides two floating-point scalars."
-msgstr ""
+msgstr "Dividerar två flyttals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Divides two integer scalars."
-msgstr ""
+msgstr "Dividerar två heltals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Divides two unsigned integer scalars."
-msgstr ""
+msgstr "Dividerar två positiva heltals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Multiplies two floating-point scalars."
-msgstr ""
+msgstr "Multiplicerar två flyttals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Multiplies two integer scalars."
-msgstr ""
+msgstr "Multiplicerar två heltals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Multiplies two unsigned integer scalars."
-msgstr ""
+msgstr "Multiplicerar två positiva heltals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the remainder of the two floating-point scalars."
-msgstr ""
+msgstr "Returnerar resten av de två flyttals-skalärerna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the remainder of the two integer scalars."
-msgstr ""
+msgstr "Returnerar resten av de två heltals-skalärerna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the remainder of the two unsigned integer scalars."
-msgstr ""
+msgstr "Returnerar resten av de två positiva heltals-skalärerna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Subtracts two floating-point scalars."
-msgstr ""
+msgstr "Subtraherar två flyttals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Subtracts two integer scalars."
-msgstr ""
+msgstr "Subtraherar två heltals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Subtracts two unsigned integer scalars."
-msgstr ""
+msgstr "Subtraherar två positiva heltals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Scalar floating-point constant."
-msgstr ""
+msgstr "Skalär flyttals-konstant."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Scalar integer constant."
-msgstr ""
+msgstr "Skalär heltals-konstant."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Scalar unsigned integer constant."
-msgstr ""
+msgstr "Skalär positiv heltals-konstant."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Scalar floating-point parameter."
-msgstr ""
+msgstr "Skalär flyttals-parameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Scalar integer parameter."
-msgstr ""
+msgstr "Skalär heltals-parameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Scalar unsigned integer parameter."
-msgstr ""
+msgstr "Skalär positiv heltals-parameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Converts screen UV to a SDF."
-msgstr ""
+msgstr "Omvandlar skärm-UV till en SDF."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Casts a ray against the screen SDF and returns the distance travelled."
-msgstr ""
+msgstr "Skickar en stråle mot skärm-SDF:en och returnerar avståndet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Converts a SDF to screen UV."
-msgstr ""
+msgstr "Omvandlar en SDF till skärm-UV."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Performs a SDF texture lookup."
-msgstr ""
+msgstr "Utför en SDF-textur-lookup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Performs a SDF normal texture lookup."
-msgstr ""
+msgstr "Utför en SDF-normaltextur-lookup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Function to be applied on texture coordinates."
-msgstr ""
+msgstr "Funktion som ska tillämpas på texturkoordinaterna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Polar coordinates conversion applied on texture coordinates."
-msgstr ""
+msgstr "Polärkoortinatomvandling som tillämpas på texturkoordinaterna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Perform the cubic texture lookup."
-msgstr ""
+msgstr "Utför kubisk textur-looup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Perform the curve texture lookup."
-msgstr ""
+msgstr "Utför kurv-textur-looup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Perform the three components curve texture lookup."
-msgstr ""
+msgstr "Utför trekomponentskurv-textur-looup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
+#, fuzzy
 msgid ""
 "Returns the depth value obtained from the depth prepass in a linear space."
 msgstr ""
+"Returnerar djupvärdet som erhölls från djup-prepasset i en linjär rymd."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Reconstructs the World Position of the Node from the depth texture."
-msgstr ""
+msgstr "Rekonstruerar världspositionen av en nod utifrån djuptexturen."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Unpacks the Screen Normal Texture in World Space"
-msgstr ""
+msgstr "Packar upp Skärmnormaltexturen i världskoordinater"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Perform the 2D texture lookup."
-msgstr ""
+msgstr "Utför 2D textur-looup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Perform the 2D-array texture lookup."
-msgstr ""
+msgstr "Utför 2D-array-textur-looup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Perform the 3D texture lookup."
-msgstr ""
+msgstr "Utför 3D textur-looup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Apply panning function on texture coordinates."
-msgstr ""
+msgstr "Tillämpa panoreringsfunktion på texturkooordinaterna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Apply scaling function on texture coordinates."
-msgstr ""
+msgstr "Tillämpa skalningsfunktion på texturkooordinaterna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Cubic texture parameter lookup."
-msgstr ""
+msgstr "Kubisk texturparameter-lookup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "2D texture parameter lookup."
-msgstr ""
+msgstr "2D-texturparameter-lookup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "2D texture parameter lookup with triplanar."
-msgstr ""
+msgstr "2D-texturparameter-lookup med triplanar."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "2D array of textures parameter lookup."
-msgstr ""
+msgstr "2D-texturarray-parameter-lookup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "3D texture parameter lookup."
-msgstr ""
+msgstr "3D-texturparameter-lookup."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Transform function."
-msgstr ""
+msgstr "Transformera funktion."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Transform operator."
-msgstr ""
+msgstr "Transformera operatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -17885,23 +17891,23 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Calculates the inverse of a transform."
-msgstr ""
+msgstr "Beräknar inversen av en transformation."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Calculates the transpose of a transform."
-msgstr ""
+msgstr "Beräknar transponeringen av en transformation."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Sums two transforms."
-msgstr ""
+msgstr "Adderar två transformationer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Divides two transforms."
-msgstr ""
+msgstr "Dividerar två transformationer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Multiplies two transforms."
-msgstr ""
+msgstr "Multiplicerar två transformationer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Performs per-component multiplication of two transforms."
@@ -17909,39 +17915,45 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Subtracts two transforms."
-msgstr ""
+msgstr "Subtraherar två transformationer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Multiplies vector by transform."
-msgstr ""
+msgstr "Multiplicerar vektor med transformation."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Transform constant."
-msgstr ""
+msgstr "Transformation-konstant."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Transform parameter."
-msgstr ""
+msgstr "Transformation-parameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "The distance fade effect fades out each pixel based on its distance to "
 "another object."
 msgstr ""
+"Avståndsmattnings-effekten mattar av varje pixel baserat på dess avstånd "
+"till ett annat objekt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "The proximity fade effect fades out each pixel based on its distance to "
 "another object."
 msgstr ""
+"Närhetsmattnings-effekten mattar av varje pixel baserat på dess avstånd till "
+"ett annat objekt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns a random value between the minimum and maximum input values."
-msgstr ""
+msgstr "Returnerar ett slumpat värde inom den övre och undre gränsen."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Remaps a given input from the input range to the output range."
 msgstr ""
+"Returnerar ett slumpat värde från och med den undre till och med den övre "
+"gränsen."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -17951,11 +17963,11 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Vector function."
-msgstr ""
+msgstr "Vektorfunktion."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Vector operator."
-msgstr ""
+msgstr "Vektoroperatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Composes vector from scalars."
@@ -17998,20 +18010,24 @@ msgid ""
 "(Fragment/Light mode only) (Vector) Derivative in 'x' using local "
 "differencing."
 msgstr ""
+"(Endast i fragment-/ljusläge) (vektor) Derivata i \"x\" m.h.a lokal "
+"ändringskvot."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "(Fragment/Light mode only) (Vector) Derivative in 'y' using local "
 "differencing."
 msgstr ""
+"(Endast i fragment-/ljusläge) (vektor) Derivata i \"y\" m.h.a lokal "
+"ändringskvot."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the distance between two points."
-msgstr ""
+msgstr "Returnerar avståndet mellan två koordinater."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Calculates the dot product of two vectors."
-msgstr ""
+msgstr "Beräknar skalärprodukten av två vektorer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -18029,19 +18045,20 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Calculates the length of a vector."
-msgstr ""
+msgstr "Beräknar vektorns längd."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Linear interpolation between two vectors."
-msgstr ""
+msgstr "Linjär interpolering mellan två vektorer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Linear interpolation between two vectors using scalar."
-msgstr ""
+msgstr "Linjär interpolering mellan två vektorer med en skalär."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Performs a fused multiply-add operation (a * b + c) on vectors."
 msgstr ""
+"Utför en sammanslagen multiplicera-addera-operation (a * b + c) på vektorer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Calculates the normalize product of vector."
@@ -18049,11 +18066,11 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "1.0 - vector"
-msgstr ""
+msgstr "1,0 - vektor"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "1.0 / vector"
-msgstr ""
+msgstr "1,0 / vektor"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -18073,6 +18090,11 @@ msgid ""
 "'edge1'. Otherwise the return value is interpolated between 0.0 and 1.0 "
 "using Hermite polynomials."
 msgstr ""
+"SmoothStep-funktion( vektor(gräns0), vektor(gräns1), vektor(x) ).\n"
+"\n"
+"Returnerar 0,0 om ’x’ är mindre än ’gräns0’ och 1,0 om x är större än "
+"’gräns1’. Annars interpoleras värdet mellan 0,0 och 1,0 m.h.a. "
+"Hermitepolynom."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -18082,6 +18104,11 @@ msgid ""
 "'edge1'. Otherwise the return value is interpolated between 0.0 and 1.0 "
 "using Hermite polynomials."
 msgstr ""
+"SmoothStep-funktion( skalär(gräns0), skalär(gräns1), vektor(x) ).\n"
+"\n"
+"Returnerar 0,0 om ’x’ är mindre än ’gräns0’ och 1,0 om x är större än "
+"’gräns1’. Annars interpoleras värdet mellan 0,0 och 1,0 m.h.a. "
+"Hermitepolynom."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -18089,6 +18116,9 @@ msgid ""
 "\n"
 "Returns 0.0 if 'x' is smaller than 'edge' and otherwise 1.0."
 msgstr ""
+"Stegfunction( vektor(gräns), vektor(x) ).\n"
+"\n"
+"Returnerar 0,0 om ’x’ är mindre än ’gräns0’ och annars 1,0."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -18096,101 +18126,106 @@ msgid ""
 "\n"
 "Returns 0.0 if 'x' is smaller than 'edge' and otherwise 1.0."
 msgstr ""
+"Stegfunction( skalär(gräns), vektor(x) ).\n"
+"\n"
+"Returnerar 0,0 om ’x’ är mindre än ’gräns0’ och annars 1,0."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "(Fragment/Light mode only) (Vector) Sum of absolute derivative in 'x' and "
 "'y'."
 msgstr ""
+"(Endast i fragment-/ljusläge)(vektor) Summan av absoluta derivata i x och y."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Adds 2D vector to 2D vector."
-msgstr ""
+msgstr "Adderar två 2D-vektorer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Adds 3D vector to 3D vector."
-msgstr ""
+msgstr "Adderar två 3D-vektorer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Adds 4D vector to 4D vector."
-msgstr ""
+msgstr "Adderar två 4D-vektorer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Divides 2D vector by 2D vector."
-msgstr ""
+msgstr "Dividerar 2D-vektor med 2D-vektor."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Divides 3D vector by 3D vector."
-msgstr ""
+msgstr "Dividerar 3D-vektor med 3D-vektor."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Divides 4D vector by 4D vector."
-msgstr ""
+msgstr "Dividerar 4D-vektor med 4D-vektor."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Multiplies 2D vector by 2D vector."
-msgstr ""
+msgstr "Multiplicerar 2D-vektor med 2D-vektor."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Multiplies 3D vector by 3D vector."
-msgstr ""
+msgstr "Multiplicerar 3D-vektor med 3D-vektor."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Multiplies 4D vector by 4D vector."
-msgstr ""
+msgstr "Multiplicerar 4D-vektor med 4D-vektor."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the remainder of the two 2D vectors."
-msgstr ""
+msgstr "Returnerar resten av de två 2D-vektorerna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the remainder of the two 3D vectors."
-msgstr ""
+msgstr "Returnerar resten av de två 3D-vektorerna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the remainder of the two 4D vectors."
-msgstr ""
+msgstr "Returnerar resten av de två 4D-vektorerna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Subtracts 2D vector from 2D vector."
-msgstr ""
+msgstr "Subtraherar två 2D-vektorer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Subtracts 3D vector from 3D vector."
-msgstr ""
+msgstr "Subtraherar två 3D-vektorer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Subtracts 4D vector from 4D vector."
-msgstr ""
+msgstr "Subtraherar två 3D-vektorer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "2D vector constant."
-msgstr ""
+msgstr "2D-vektor-konstant."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "2D vector parameter."
-msgstr ""
+msgstr "2D-vektor-parameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "3D vector constant."
-msgstr ""
+msgstr "3D-vektor-konstant."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "3D vector parameter."
-msgstr ""
+msgstr "3D-vektor-parameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "4D vector constant."
-msgstr ""
+msgstr "4D-vektor-konstant."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "4D vector parameter."
-msgstr ""
+msgstr "4D-vektor-parameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "A rectangular area with a description string for better graph organization."
 msgstr ""
+"En rektangulär area med en beskrivningstext för bättre diagramorganisering."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -18209,7 +18244,7 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "A reference to an existing parameter."
-msgstr ""
+msgstr "En referens till en befintlig parameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Get varying parameter."
@@ -18227,39 +18262,39 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Edit Visual Property: %s"
-msgstr ""
+msgstr "Redigera visuell egenskap: %s"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Visual Shader Mode Changed"
-msgstr ""
+msgstr "VisualShader-läge ändrat"
 
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "Voxel GI data is not local to the scene."
-msgstr ""
+msgstr "VoxelGI-data är inte lokalt för scenen."
 
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "Voxel GI data is part of an imported resource."
-msgstr ""
+msgstr "VoxelGI-data är en del av en importerad resurs."
 
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "Voxel GI data is an imported resource."
-msgstr ""
+msgstr "VoxelGI-data är en importerad resurs."
 
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "Bake VoxelGI"
-msgstr ""
+msgstr "Baka VoxelGI"
 
 #: editor/plugins/voxel_gi_editor_plugin.cpp
 msgid "Select path for VoxelGI Data File"
-msgstr ""
+msgstr "Ange sökväg för VoxelGI-datafil"
 
 #: editor/project_manager.cpp
 msgid "Go Online and Open Asset Library"
-msgstr ""
+msgstr "Gå online och öppna asset-bibliotek"
 
 #: editor/project_manager.cpp
 msgid "Are you sure to run %d projects at once?"
-msgstr ""
+msgstr "Vill du verkligen köra %d projekt samtidigt?"
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18267,30 +18302,42 @@ msgid ""
 "Please edit the project and set the main scene in the Project Settings under "
 "the \"Application\" category."
 msgstr ""
+"Kan inte köra projekt: Projektet har ingen huvudscen angiven.\n"
+"Redigera projektet och ställ in huvudscenen i projektinställningarna under "
+"\"Application\"-kategorin."
 
 #: editor/project_manager.cpp
 msgid ""
 "Can't run project: Assets need to be imported first.\n"
 "Please edit the project to trigger the initial import."
 msgstr ""
+"Kan inte köra projekt: Assets måste importeras först.\n"
+"Redigera projektet för att trigga initial import."
 
 #: editor/project_manager.cpp
 msgid ""
 "Can't open project at '%s'.\n"
 "Project file doesn't exist or is inaccessible."
 msgstr ""
+"Kan inte öppna projekt vid \"%s\".\n"
+"Projektfilen finns inte eller är otillgänglig."
 
 #: editor/project_manager.cpp
 msgid ""
 "Can't open project at '%s'.\n"
 "Failed to start the editor."
 msgstr ""
+"Kan inte öppna projekt vid \"%s\".\n"
+"Kunde inte starta redigeraren."
 
 #: editor/project_manager.cpp
 msgid ""
 "You requested to open %d projects in parallel. Do you confirm?\n"
 "Note that usual checks for engine version compatibility will be bypassed."
 msgstr ""
+"Du försökte öppna %d projekt parallellt. Bekräfta detta?\n"
+"Notera att vanliga kontroller för motorversionskompatibilitet kommer att "
+"förbises."
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18305,6 +18352,16 @@ msgid ""
 "Warning: You won't be able to open the project with previous versions of the "
 "engine anymore."
 msgstr ""
+"Det valda projektet \"%s\" anger inte sin stödda Godot-version i sin "
+"konfigurationsfil (\"project.godot\").\n"
+"\n"
+"Projektsökväg: %s\n"
+"\n"
+"Om du går vidare med öppnandet kommer den att konverteras till Godots "
+"aktuella konfigurationsfilformat.\n"
+"\n"
+"Varning: Du kommer inte längre att kunna öppna projektet i tidigare "
+"versioner av Godot."
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18324,10 +18381,25 @@ msgid ""
 "Warning: If you select a conversion option, you won't be able to open the "
 "project with previous versions of the engine anymore."
 msgstr ""
+"Det valda projektet \"%s\" generades av Godot 3.x och måste konverteras till "
+"Godot 4.x.\n"
+"\n"
+"Projektsökväg: %s\n"
+"\n"
+"Du har 3 val:\n"
+"- Konvertera bara konfigurationsfilen (\"project.godot\"). Använd den för "
+"att öppna projektet utan att försöka konvertera dess scener, resurser eller "
+"skript.\n"
+"- Konvertera hela projektet, inklusive scener, resurser och skript "
+"(rekommenderas om du uppgraderar).\n"
+"- Gör ingenting och avbryt.\n"
+"\n"
+"Varning: Om du väljer ett konverteringsalternativ kommer du inte längre att "
+"kunna öppna projektet i tidigare versioner av Godot."
 
 #: editor/project_manager.cpp
 msgid "Convert project.godot Only"
-msgstr ""
+msgstr "Konvertera bara projekt.godot"
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18341,10 +18413,19 @@ msgid ""
 "Warning: You won't be able to open the project with previous versions of the "
 "engine anymore."
 msgstr ""
+"Det valda projektet \"%s\" genererades av en äldre motorversion, och måste "
+"konverteras till den här versionen.\n"
+"\n"
+"Projektsökväg: %s\n"
+"\n"
+"Vill du konvertera det?\n"
+"\n"
+"Varning: Du kommer inte längre att kunna öppna projektet i tidigare "
+"versioner av Godot."
 
 #: editor/project_manager.cpp
 msgid "Convert project.godot"
-msgstr ""
+msgstr "Konvertera projekt.godot"
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18355,6 +18436,12 @@ msgid ""
 "The project settings were created by a newer engine version, whose settings "
 "are not compatible with this version."
 msgstr ""
+"Kan inte öppna projektet \"%s\" vid sökvägen:\n"
+"\n"
+"%s\n"
+"\n"
+"Projektinställningarna skapades av en nyare motorversion vars inställningar "
+"inte är kompatibla med den här versionen."
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18363,6 +18450,11 @@ msgid ""
 "loss.\n"
 "\n"
 msgstr ""
+"Varning: Det här projektet använder flyttal med dubbel precision, men den "
+"här\n"
+"versionen av Godot använder enkel precision. Data kan förloras om du öppnar "
+"projektet.\n"
+"\n"
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18370,6 +18462,10 @@ msgid ""
 "the Mono module. If you proceed you will not be able to use any C# scripts.\n"
 "\n"
 msgstr ""
+"Varning: Det här projektet använder C#, men det här Godot-bygget har inte\n"
+"Mono-modulen. Om du fortsätter kommer du inte att kunna använda några C#-"
+"skript.\n"
+"\n"
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18377,6 +18473,9 @@ msgid ""
 "Godot %s.\n"
 "\n"
 msgstr ""
+"Varning: Projektet redigerades senast i Godot %s. Att öppna det kommer att "
+"ändra det till Godot %s.\n"
+"\n"
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18386,86 +18485,94 @@ msgid ""
 "%s\n"
 "\n"
 msgstr ""
+"Varning: Det här projektet använder följande funktioner som inte stöds i det "
+"här Godot-bygget:\n"
+"\n"
+"%s\n"
+"\n"
 
 #: editor/project_manager.cpp
 msgid "Open anyway? Project will be modified."
-msgstr ""
+msgstr "Öppna ändå? Projektet kommer att modifieras."
 
 #: editor/project_manager.cpp
 msgid "Remove %d projects from the list?"
-msgstr ""
+msgstr "Ta bort %d gamla projekt från listan?"
 
 #: editor/project_manager.cpp
 msgid "Remove this project from the list?"
-msgstr ""
+msgstr "Ta bort det här projektet från listan?"
 
 #: editor/project_manager.cpp
 msgid ""
 "Remove all missing projects from the list?\n"
 "The project folders' contents won't be modified."
 msgstr ""
+"Ta bort alla projekt som saknas från listan?\n"
+"Projektmapparna innehåll kommer inte att påverkas."
 
 #: editor/project_manager.cpp
 msgid "Couldn't load project at '%s'. It may be missing or corrupted."
 msgstr ""
+"Kunde inte läsa in projekt vid \"%s\". Det kanske saknas eller är korrupt."
 
 #: editor/project_manager.cpp editor/project_manager/project_dialog.cpp
 msgid "Couldn't save project at '%s' (error %d)."
-msgstr ""
+msgstr "Kunde inte spara projekt vid \"%s\" (felkod %d)."
 
 #: editor/project_manager.cpp
 msgid "Tag name can't be empty."
-msgstr ""
+msgstr "Namnet får inte vara tomt."
 
 #: editor/project_manager.cpp
 msgid "Tag name can't contain spaces."
-msgstr ""
+msgstr "Namnet får inte innehålla blanksteg."
 
 #: editor/project_manager.cpp
 msgid "These characters are not allowed in tags: %s."
-msgstr ""
+msgstr "Följande tecken är otillåtna i etiketter: %s."
 
 #: editor/project_manager.cpp
 msgid "Tag name must be lowercase."
-msgstr ""
+msgstr "Namnet måste skrivas med gemener."
 
 #. TRANSLATORS: This refers to the application where users manage their Godot projects.
 #: editor/project_manager.cpp
 msgctxt "Application"
 msgid "Project Manager"
-msgstr ""
+msgstr "Projekthanterare"
 
 #: editor/project_manager.cpp
 msgid "Settings"
-msgstr ""
+msgstr "Inställningar"
 
 #: editor/project_manager.cpp
 msgid "Projects"
-msgstr ""
+msgstr "Projekt"
 
 #: editor/project_manager.cpp
 msgid "New Project"
-msgstr ""
+msgstr "Nytt projekt"
 
 #: editor/project_manager.cpp
 msgid "Import Project"
-msgstr ""
+msgstr "Importera projekt"
 
 #: editor/project_manager.cpp
 msgid "Scan"
-msgstr ""
+msgstr "Skanna"
 
 #: editor/project_manager.cpp
 msgid "Scan Projects"
-msgstr ""
+msgstr "Skanna projekt"
 
 #: editor/project_manager.cpp
 msgid "Loading, please wait..."
-msgstr ""
+msgstr "Läser in, vänta…"
 
 #: editor/project_manager.cpp
 msgid "Filter Projects"
-msgstr ""
+msgstr "Filtrera projekt"
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18473,18 +18580,21 @@ msgid ""
 "To filter projects by name and full path, the query must contain at least "
 "one `/` character."
 msgstr ""
+"Det här fältet filtrerar projekt efter namn och sista sökvägsbit.\n"
+"För att filtrera projekt efter namn och full sökväg måste förfrågan "
+"innehålla minst ett \"/\"-tecken."
 
 #: editor/project_manager.cpp
 msgid "Last Edited"
-msgstr ""
+msgstr "Senast ändrat"
 
 #: editor/project_manager.cpp
 msgid "Tags"
-msgstr ""
+msgstr "Etiketter"
 
 #: editor/project_manager.cpp
 msgid "You don't have any projects yet."
-msgstr ""
+msgstr "Du har inga projekt än."
 
 #: editor/project_manager.cpp
 msgid ""
@@ -18492,60 +18602,67 @@ msgid ""
 "importing one that exists, or by downloading a project template from the "
 "Asset Library!"
 msgstr ""
+"Kom igång genom att skapa ett nytt,\n"
+"Importera ett befintligt eller hämta en projektmall från asset-biblioteket!"
 
 #: editor/project_manager.cpp editor/project_manager/project_dialog.cpp
 msgid "Create New Project"
-msgstr ""
+msgstr "Skapa nytt projekt"
 
 #: editor/project_manager.cpp editor/project_manager/project_dialog.cpp
 msgid "Import Existing Project"
-msgstr ""
+msgstr "Importera befintligt projekt"
 
 #: editor/project_manager.cpp
 msgid ""
 "Note: The Asset Library requires an online connection and involves sending "
 "data over the internet."
 msgstr ""
+"Notera: Asset-biblioteket kräver en internetuppkoppling och skickar data "
+"över nätet."
 
 #: editor/project_manager.cpp
 msgid "Edit Project"
-msgstr ""
+msgstr "Redigera projekt"
 
 #: editor/project_manager.cpp editor/project_manager/project_dialog.cpp
 msgid "Rename Project"
-msgstr ""
+msgstr "Byt namn på projekt"
 
 #: editor/project_manager.cpp
 msgid "Manage Tags"
-msgstr ""
+msgstr "Hantera etiketter"
 
 #: editor/project_manager.cpp
 msgid "Remove Project"
-msgstr ""
+msgstr "Ta bort projekt"
 
 #: editor/project_manager.cpp
 msgid "Remove Missing"
-msgstr ""
+msgstr "Ta bort saknade"
 
 #: editor/project_manager.cpp
 msgid ""
 "Asset Library not available (due to using Web editor, or because SSL support "
 "disabled)."
 msgstr ""
+"Asset-bibliotek ej tillgängligt (Webbredigeraren används, eller så är SSL-"
+"stöd avaktiverat)."
 
 #: editor/project_manager.cpp
 msgid "Select a Folder to Scan"
-msgstr ""
+msgstr "Välj en mapp att skanna"
 
 #: editor/project_manager.cpp
 msgid "Remove All"
-msgstr ""
+msgstr "Ta bort alla"
 
 #: editor/project_manager.cpp
 msgid "Convert Full Project"
-msgstr ""
+msgstr "Konvertera hela projektet"
 
 #: editor/project_manager.cpp
+#, fuzzy
 msgid ""
 "This option will perform full project conversion, updating scenes, resources "
 "and scripts from Godot 3 to work in Godot 4.\n"
@@ -18557,168 +18674,191 @@ msgid ""
 "IMPORTANT: Make sure to backup your project before converting, as this "
 "operation makes it impossible to open it in older versions of Godot."
 msgstr ""
+"Det här alternativet utför en komplett projektkonvertering och uppdaterar "
+"scener, resurser och skript från Godot 3 för användning i Godot 4.\n"
+"\n"
+"Notera att det här är efter bästa ansträngning och är till för att "
+"underlätta, projektet kommer inte att kunna köras som det är och behöver "
+"fortfarande justeras manuellt.\n"
+"\n"
+"VIKTIGT: Säkerhetskopiera projektet innan du konverterar det, eftersom den "
+"här åtgärden gör det omöjligt att öppna projektet i tidigare versioner av "
+"Godot."
 
 #: editor/project_manager.cpp
 msgid "Manage Project Tags"
-msgstr ""
+msgstr "Hantera projektetiketter"
 
 #: editor/project_manager.cpp
 msgid "Project Tags"
-msgstr ""
+msgstr "Projektetiketter"
 
 #: editor/project_manager.cpp
 msgid "Click tag to remove it from the project."
-msgstr ""
+msgstr "Tryck på etikett för att ta bort den från projektet."
 
 #: editor/project_manager.cpp
 msgid "All Tags"
-msgstr ""
+msgstr "Alla etiketter"
 
 #: editor/project_manager.cpp
 msgid "Click tag to add it to the project."
-msgstr ""
+msgstr "Tryck på etikett för att lägga till den i projektet."
 
 #: editor/project_manager.cpp
 msgid "Create New Tag"
-msgstr ""
+msgstr "Skapa ny etikett"
 
 #: editor/project_manager.cpp
 msgid "Tags are capitalized automatically when displayed."
-msgstr ""
+msgstr "Etiketter formateras automatiskt med stor bokstav när de visas."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "It would be a good idea to name your project."
-msgstr ""
+msgstr "Det är en bra idé att namnge ditt projekt."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Invalid \".zip\" project file; it is not in ZIP format."
-msgstr ""
+msgstr "Ogiltig \".zip\"-projektfil; den är inte av ZIP-format."
 
 #: editor/project_manager/project_dialog.cpp
 msgid ""
 "Invalid \".zip\" project file; it doesn't contain a \"project.godot\" file."
 msgstr ""
+"Ogiltig \".zip\"-projektfil; den innehåller ingen \"project.godot\"-fil."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Valid project found at path."
-msgstr ""
+msgstr "Giltigt projekt hittat i sökväg."
 
 #: editor/project_manager/project_dialog.cpp
 msgid ""
 "Please choose a \"project.godot\", a directory with one, or a \".zip\" file."
 msgstr ""
+"Var vänlig välj en \"project.godot\"-fil, en mapp där en finns eller en \"."
+"zip\"-fil."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "The path specified is invalid."
-msgstr ""
+msgstr "Den angivna sökvägen är ogiltig."
 
 #: editor/project_manager/project_dialog.cpp
+#, fuzzy
 msgid ""
 "The directory name specified contains invalid characters or trailing "
 "whitespace."
 msgstr ""
+"Det angivna sökvägsnamnet innehåller otillåtna tecken eller överflödiga "
+"blanksteg."
 
 #: editor/project_manager/project_dialog.cpp
 msgid ""
 "Creating a project at the engine's working directory or executable directory "
 "is not allowed, as it would prevent the project manager from starting."
 msgstr ""
+"Otillåtet att skapa ett projekt i motorns arbetssökväg eller körbar fil-"
+"sökväg, eftersom det skulle hindra projekthanteraren från att starta."
 
 #: editor/project_manager/project_dialog.cpp
 msgid ""
 "You cannot save a project at the selected path. Please create a subfolder or "
 "choose a new path."
 msgstr ""
+"Du kan inte spara ett projekt vid den angivna sökvägen. Skapa en undermapp "
+"eller välj en ny sökväg."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "The parent directory of the path specified doesn't exist."
-msgstr ""
+msgstr "Den överordnade mappen i den angivna sökvägen finns inte."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "The project folder already exists and is empty."
-msgstr ""
+msgstr "Projektmappen finns redan och är tom."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "The project folder will be automatically created."
-msgstr ""
+msgstr "Projektmappen kommer att skapas automatiskt."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "The path specified doesn't exist."
-msgstr ""
+msgstr "Den angivna sökvägen finns inte."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "The project folder exists and is empty."
-msgstr ""
+msgstr "Projektmappen finns och är tom."
 
 #: editor/project_manager/project_dialog.cpp
 msgid ""
 "The selected path is not empty. Choosing an empty folder is highly "
 "recommended."
 msgstr ""
+"Den angivna sökvägen är inte tom. Du rekommenderas starkt att välja en tom "
+"mapp."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "New Game Project"
-msgstr ""
+msgstr "Nytt spelprojekt"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Supports desktop platforms only."
-msgstr ""
+msgstr "Stödjer endast stationära plattformar."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Advanced 3D graphics available."
-msgstr ""
+msgstr "Tillgång till avancerad 3D-grafik."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Can scale to large complex scenes."
-msgstr ""
+msgstr "Kan skalas upp till stora, komplexa scener."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Uses RenderingDevice backend."
-msgstr ""
+msgstr "Använder RenderingDevice-backend."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Slower rendering of simple scenes."
-msgstr ""
+msgstr "Långsammare rendering av enkla scener."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Supports desktop + mobile platforms."
-msgstr ""
+msgstr "Stödjer stationära- och mobilplattformar."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Less advanced 3D graphics."
-msgstr ""
+msgstr "Mindre avancerad 3D-grafik."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Less scalable for complex scenes."
-msgstr ""
+msgstr "Mindre skalbar för komplexa scener."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Fast rendering of simple scenes."
-msgstr ""
+msgstr "Snabb rendering av enkla scener."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Supports desktop, mobile + web platforms."
-msgstr ""
+msgstr "Stödjer stationära-, webb- och mobilplattformar."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Least advanced 3D graphics (currently work-in-progress)."
-msgstr ""
+msgstr "Minst avancerad 3D-grafik (under uppbyggnad)."
 
 #: editor/project_manager/project_dialog.cpp
+#, fuzzy
 msgid "Intended for low-end/older devices."
-msgstr ""
+msgstr "Avsedd för lågpris- och äldre enheter."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Uses OpenGL 3 backend (OpenGL 3.3/ES 3.0/WebGL2)."
-msgstr ""
+msgstr "Använder OpenGL 3 som backend (OpenGL 3.3/ES 3.0/WebGL2)."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Fastest rendering of simple scenes."
-msgstr ""
+msgstr "Snabbast rendering av enkla scener."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Warning: This folder is not empty"
-msgstr ""
+msgstr "Varning: Den här mappen är inte tom"
 
 #: editor/project_manager/project_dialog.cpp
 msgid ""
@@ -18727,596 +18867,630 @@ msgid ""
 "\n"
 "Are you sure you wish to continue?"
 msgstr ""
+"Du håller på att skapa ett Godot-projekt i en mapp som inte är tom.\n"
+"Allt innehåll i mappen kommer att importeras som projektresurser!\n"
+"\n"
+"Vill du verkligen fortsätta?"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Couldn't create project directory, check permissions."
-msgstr ""
+msgstr "Kunde inte skapa projektmapp, kontrollera åtkomst."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Couldn't create project.godot in project path."
-msgstr ""
+msgstr "Kunde inte skapa project.godot i projektsökväg."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Couldn't create icon.svg in project path."
-msgstr ""
+msgstr "Kunde inte skapa icon.svg i projektsökväg."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Error opening package file, not in ZIP format."
-msgstr ""
+msgstr "Fel när paketfilen skulle öppnas, inte en ZIP-fil."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "The following files failed extraction from package:"
-msgstr ""
+msgstr "Följande filer kunde inte extraheras från paketet:"
 
 #: editor/project_manager/project_dialog.cpp
 msgid ""
 "Couldn't load project at '%s' (error %d). It may be missing or corrupted."
 msgstr ""
+"Kunde inte läsa in projekt vid \"%s\" (felkod %d). Det kanske saknas eller "
+"är korrupt."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Import & Edit"
-msgstr ""
+msgstr "Importera & redigera"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Create & Edit"
-msgstr ""
+msgstr "Skapa & redigera"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Install Project:"
-msgstr ""
+msgstr "Installera projekt:"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Install & Edit"
-msgstr ""
+msgstr "Installera & redigera"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Project Name:"
-msgstr ""
+msgstr "Projektnamn:"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Project Path:"
-msgstr ""
+msgstr "Projektsökväg:"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Project Installation Path:"
-msgstr ""
+msgstr "Projektinstallationssökväg:"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Renderer:"
-msgstr ""
+msgstr "Renderare:"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "The renderer can be changed later, but scenes may need to be adjusted."
 msgstr ""
+"Renderingsläget kan ändras senare, men scener kan komma att behöva justeras."
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Version Control Metadata:"
-msgstr ""
+msgstr "Versionshantering-metadata:"
 
 #: editor/project_manager/project_dialog.cpp
 msgid "Git"
-msgstr ""
+msgstr "Git"
 
 #: editor/project_manager/project_list.cpp
 msgid "This project was last edited in a different Godot version: "
-msgstr ""
+msgstr "Projektet ändrades senast i en annan version av Godot: "
 
 #: editor/project_manager/project_list.cpp
 msgid "This project uses features unsupported by the current build:"
-msgstr ""
+msgstr "Projektet använder funktioner som inte stöds av det aktuella bygget:"
 
 #: editor/project_manager/project_list.cpp
 msgid "Error: Project is missing on the filesystem."
-msgstr ""
+msgstr "Fel: Projektet saknas från filsystemet."
 
 #: editor/project_manager/project_list.cpp
+#, fuzzy
 msgid "Last edited timestamp"
-msgstr ""
+msgstr "Senast redigerade tidsstämpel"
 
 #: editor/project_manager/project_list.cpp
 msgid "Missing Project"
-msgstr ""
+msgstr "Projekt saknas"
 
 #: editor/project_manager/quick_settings_dialog.cpp
 msgid "Restart Now"
-msgstr ""
+msgstr "Starta om nu"
 
 #: editor/project_manager/quick_settings_dialog.cpp
 msgid "Quick Settings"
-msgstr ""
+msgstr "Snabbinställningar"
 
 #: editor/project_manager/quick_settings_dialog.cpp
 msgid "Interface Theme"
-msgstr ""
+msgstr "Gränssnittstema"
 
 #: editor/project_manager/quick_settings_dialog.cpp
 msgid "Custom preset can be further configured in the editor."
-msgstr ""
+msgstr "Anpassad förinställning kan konfigureras ytterligare i redigeraren."
 
 #: editor/project_manager/quick_settings_dialog.cpp
 msgid "Display Scale"
-msgstr ""
+msgstr "Visningsskala"
 
 #: editor/project_manager/quick_settings_dialog.cpp
 msgid "Network Mode"
-msgstr ""
+msgstr "Nätverksläge"
 
 #: editor/project_manager/quick_settings_dialog.cpp
 msgid "Directory Naming Convention"
-msgstr ""
+msgstr "Sökvägsnamnkonvention"
 
 #: editor/project_manager/quick_settings_dialog.cpp
 msgid ""
 "Settings changed! The project manager must be restarted for changes to take "
 "effect."
 msgstr ""
+"Inställningar ändrade! Projekthanteraren måste startas om för att ändringar "
+"ska träda i kraft."
 
 #: editor/project_settings_editor.cpp
 msgid "Add Project Setting"
-msgstr ""
+msgstr "Lägg till projektinställning"
 
 #: editor/project_settings_editor.cpp
 msgid "Delete Item"
-msgstr ""
+msgstr "Radera objekt"
 
 #: editor/project_settings_editor.cpp
 msgid "(All)"
-msgstr ""
+msgstr "(Alla)"
 
 #: editor/project_settings_editor.cpp
 msgid "Add Input Action"
-msgstr ""
+msgstr "Lägg till inmatningshandling"
 
 #: editor/project_settings_editor.cpp
 msgid "Change Action deadzone"
-msgstr ""
+msgstr "Ändra handligs-dödzon"
 
 #: editor/project_settings_editor.cpp
 msgid "Change Input Action Event(s)"
-msgstr ""
+msgstr "Ändra inmatinghandlings-händelse(r)"
 
 #: editor/project_settings_editor.cpp
 msgid "Erase Input Action"
-msgstr ""
+msgstr "Radera inmatningshandling"
 
 #: editor/project_settings_editor.cpp
 msgid "Rename Input Action"
-msgstr ""
+msgstr "Byt namn på inmatningshandling"
 
 #: editor/project_settings_editor.cpp
 msgid "Update Input Action Order"
-msgstr ""
+msgstr "Uppdatera inmatningshandling"
 
 #: editor/project_settings_editor.cpp
 msgid "Project Settings (project.godot)"
-msgstr ""
+msgstr "Projektinställningar (projekt.godot)"
 
 #: editor/project_settings_editor.cpp
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Avancerade inställningar"
 
 #: editor/project_settings_editor.cpp
 msgid "Select a Setting or Type its Name"
-msgstr ""
+msgstr "Markera en inställning eller skriv dess namn"
 
 #: editor/project_settings_editor.cpp
 msgid "Changed settings will be applied to the editor after restarting."
-msgstr ""
+msgstr "Ändrade inställningar kommer att tillämpas vid omstart av redigeraren."
 
 #: editor/project_settings_editor.cpp
 msgid "Input Map"
-msgstr ""
+msgstr "Inmatningskarta"
 
 #: editor/project_settings_editor.cpp
 msgid "Localization"
-msgstr ""
+msgstr "Lokalisering"
 
 #: editor/project_settings_editor.cpp
 msgid "Globals"
-msgstr ""
+msgstr "Globaler"
 
 #: editor/project_settings_editor.cpp
 msgid "Autoload"
-msgstr ""
+msgstr "Autoload"
 
 #: editor/project_settings_editor.cpp
 msgid "Shader Globals"
-msgstr ""
+msgstr "Shader-globaler"
 
 #: editor/project_settings_editor.cpp
 msgid "Plugins"
-msgstr ""
+msgstr "Plugin"
 
 #: editor/project_settings_editor.cpp
 msgid "Import Defaults"
-msgstr ""
+msgstr "Importstandarder"
 
 #: editor/property_selector.cpp
 msgid "Select Property"
-msgstr ""
+msgstr "Välj egenskap"
 
 #: editor/property_selector.cpp
 msgid "Select Virtual Method"
-msgstr ""
+msgstr "Välj virtuell metod"
 
 #: editor/rename_dialog.cpp
 msgid "Batch Rename"
-msgstr ""
+msgstr "Byt namn på flera"
 
 #: editor/rename_dialog.cpp
 msgid "Prefix:"
-msgstr ""
+msgstr "Prefix:"
 
 #: editor/rename_dialog.cpp
 msgid "Suffix:"
-msgstr ""
+msgstr "Suffix:"
 
 #: editor/rename_dialog.cpp
 msgid "Use Regular Expressions"
-msgstr ""
+msgstr "Använd reguljärt uttryck"
 
 #: editor/rename_dialog.cpp
 msgid "Substitute"
-msgstr ""
+msgstr "Ersättning"
 
 #: editor/rename_dialog.cpp
 msgid "Node name."
-msgstr ""
+msgstr "Nodens namn."
 
 #: editor/rename_dialog.cpp
 msgid "Node's parent name, if available."
-msgstr ""
+msgstr "Namn på nodens förälder, om den finns."
 
 #: editor/rename_dialog.cpp
 msgid "Node type."
-msgstr ""
+msgstr "Nodtyp."
 
 #: editor/rename_dialog.cpp
 msgid "Current scene name."
-msgstr ""
+msgstr "Namn på aktuell scen."
 
 #: editor/rename_dialog.cpp
 msgid "Root node name."
-msgstr ""
+msgstr "Rot-nodens namn."
 
 #: editor/rename_dialog.cpp
 msgid ""
 "Sequential integer counter.\n"
 "Compare counter options."
 msgstr ""
+"Sekventiell heltalsräknare.\n"
+"Jämför räknar-alternativ."
 
 #: editor/rename_dialog.cpp
 msgid "Per-level Counter"
-msgstr ""
+msgstr "Per nivå-räknare"
 
 #: editor/rename_dialog.cpp
 msgid "If set, the counter restarts for each group of child nodes."
-msgstr ""
+msgstr "Om vald börjar räknaren om för varje grupp av barn-noder."
 
 #: editor/rename_dialog.cpp
 msgid "Initial value for the counter."
-msgstr ""
+msgstr "Startvärde för räknaren."
 
 #: editor/rename_dialog.cpp
 msgid "Step"
-msgstr ""
+msgstr "Steg"
 
 #: editor/rename_dialog.cpp
 msgid "Amount by which counter is incremented for each node."
-msgstr ""
+msgstr "Hur mycket ökar räknaren för varje nod."
 
 #: editor/rename_dialog.cpp
 msgid "Padding"
-msgstr ""
+msgstr "Utfyllnad"
 
 #: editor/rename_dialog.cpp
+#, fuzzy
 msgid ""
 "Minimum number of digits for the counter.\n"
 "Missing digits are padded with leading zeros."
 msgstr ""
+"Minsta antal siffror för räknaren. Siffror som saknas fylls ut med nollor "
+"före talet."
 
 #: editor/rename_dialog.cpp
 msgid "Post-Process"
-msgstr ""
+msgstr "Efterbehandling"
 
 #: editor/rename_dialog.cpp
 msgid "Style"
-msgstr ""
+msgstr "Stil"
 
 #: editor/rename_dialog.cpp
 msgid "PascalCase to snake_case"
-msgstr ""
+msgstr "PascalCase till snake_case"
 
 #: editor/rename_dialog.cpp
 msgid "snake_case to PascalCase"
-msgstr ""
+msgstr "snake_case till PascalCase"
 
 #: editor/rename_dialog.cpp
 msgid "Case"
-msgstr ""
+msgstr "Versaler/gemener"
 
 #: editor/rename_dialog.cpp
 msgid "To Lowercase"
-msgstr ""
+msgstr "Till gemener"
 
 #: editor/rename_dialog.cpp
 msgid "To Uppercase"
-msgstr ""
+msgstr "Till versaler"
 
 #: editor/rename_dialog.cpp
 msgid "Reset"
-msgstr ""
+msgstr "Återställ"
 
 #: editor/rename_dialog.cpp
 msgid "Regular Expression Error:"
-msgstr ""
+msgstr "Fel i reguljärt uttryck:"
 
 #: editor/rename_dialog.cpp
 msgid "At character %s"
-msgstr ""
+msgstr "Vid tecken %s"
 
 #: editor/reparent_dialog.cpp editor/scene_tree_dock.cpp
 msgid "Reparent Node"
-msgstr ""
+msgstr "Byt förälder till nod"
 
 #: editor/reparent_dialog.cpp
 msgid "Select new parent:"
-msgstr ""
+msgstr "Välj ny förälder:"
 
 #: editor/reparent_dialog.cpp
 msgid "Keep Global Transform"
-msgstr ""
+msgstr "Behåll global transfomation"
 
 #: editor/reparent_dialog.cpp
 msgid "Reparent"
-msgstr ""
+msgstr "Byt förälder"
 
 #: editor/run_instances_dialog.cpp
 msgid "Run Instances"
-msgstr ""
+msgstr "Kör instanser"
 
 #: editor/run_instances_dialog.cpp
 msgid "Enable Multiple Instances"
-msgstr ""
+msgstr "Tillåt flera instanser"
 
 #: editor/run_instances_dialog.cpp
+#, fuzzy
 msgid "Main Run Args:"
-msgstr ""
+msgstr "Huvud-körargument:"
 
 #: editor/run_instances_dialog.cpp
+#, fuzzy
 msgid "Main Feature Tags:"
-msgstr ""
+msgstr "Huvud-featuretaggar:"
 
 #: editor/run_instances_dialog.cpp
 msgid "Space-separated arguments, example: host player1 blue"
-msgstr ""
+msgstr "Blankstegsseparerade argument, ex: värd spelare1 blå"
 
 #: editor/run_instances_dialog.cpp
 msgid "Comma-separated tags, example: demo, steam, event"
-msgstr ""
+msgstr "Kommaseparerade etiketter, ex: demo, steam, evenemang"
 
 #: editor/run_instances_dialog.cpp
 msgid "Instance Configuration"
-msgstr ""
+msgstr "Instanskonfiguration"
 
 #: editor/run_instances_dialog.cpp
 msgid "Override Main Run Args"
-msgstr ""
+msgstr "Skriv över huvud-körargument"
 
 #: editor/run_instances_dialog.cpp
+#, fuzzy
 msgid "Launch Arguments"
-msgstr ""
+msgstr "Startargument"
 
 #: editor/run_instances_dialog.cpp
 msgid "Override Main Tags"
-msgstr ""
+msgstr "Skriv över huvud-featuretaggar"
 
 #: editor/run_instances_dialog.cpp
 msgid "Feature Tags"
-msgstr ""
+msgstr "Featuretaggar"
 
 #: editor/scene_create_dialog.cpp
 msgid "Pick Root Node Type"
-msgstr ""
+msgstr "Välj rotnods-typ"
 
 #: editor/scene_create_dialog.cpp
 msgid "Pick"
-msgstr ""
+msgstr "Välj"
 
 #: editor/scene_create_dialog.cpp
 msgid "Scene name is empty."
-msgstr ""
+msgstr "Scenens namn är tomt."
 
 #: editor/scene_create_dialog.cpp
 msgid "File name invalid."
-msgstr ""
+msgstr "Ogiltigt filnamn."
 
 #: editor/scene_create_dialog.cpp
 msgid "File name begins with a dot."
-msgstr ""
+msgstr "Filnamnet börjar med punkt."
 
 #: editor/scene_create_dialog.cpp
 msgid "File already exists."
-msgstr ""
+msgstr "Filen finns redan."
 
 #: editor/scene_create_dialog.cpp
 msgid "Leave empty to derive from scene name"
-msgstr ""
+msgstr "Lämna tomt för att derivera från scenens namn"
 
 #: editor/scene_create_dialog.cpp
 msgid "Invalid root node name."
-msgstr ""
+msgstr "Ogiltigt rotnodsnamn."
 
 #: editor/scene_create_dialog.cpp
 msgid "Invalid root node name characters have been replaced."
-msgstr ""
+msgstr "Ogiltiga tecken i rotnodsnamnet har ersatts."
 
 #: editor/scene_create_dialog.cpp
 msgid "Root Type:"
-msgstr ""
+msgstr "Rottyp:"
 
 #: editor/scene_create_dialog.cpp editor/scene_tree_dock.cpp
 msgid "2D Scene"
-msgstr ""
+msgstr "2D-scen"
 
 #: editor/scene_create_dialog.cpp editor/scene_tree_dock.cpp
 msgid "3D Scene"
-msgstr ""
+msgstr "3D-scen"
 
 #: editor/scene_create_dialog.cpp editor/scene_tree_dock.cpp
 msgid "User Interface"
-msgstr ""
+msgstr "Användargränssnitt"
 
 #: editor/scene_create_dialog.cpp
 msgid "Scene Name:"
-msgstr ""
+msgstr "Scenens namn:"
 
 #: editor/scene_create_dialog.cpp
 msgid "Root Name:"
-msgstr ""
+msgstr "Rotens namn:"
 
 #: editor/scene_create_dialog.cpp
 msgid ""
 "When empty, the root node name is derived from the scene name based on the "
 "\"editor/naming/node_name_casing\" project setting."
 msgstr ""
+"Om det lämnas tomt deriveras namnet på rot-noden från scenen baserat på "
+"\"editor/naming/node_name_casing\"-projektinställningen."
 
 #: editor/scene_create_dialog.cpp
 msgid "Scene name is valid."
-msgstr ""
+msgstr "Scenens namn är giltigt."
 
 #: editor/scene_create_dialog.cpp
 msgid "Root node valid."
-msgstr ""
+msgstr "Rot-noden är giltig."
 
 #: editor/scene_create_dialog.cpp
 msgid "Create New Scene"
-msgstr ""
+msgstr "Skapa ny scen"
 
 #: editor/scene_tree_dock.cpp
 msgid "No parent to instantiate a child at."
-msgstr ""
+msgstr "Ingen förälder att instansiera ett barn hos."
 
 #: editor/scene_tree_dock.cpp
 msgid "No parent to instantiate the scenes at."
-msgstr ""
+msgstr "Ingen förälder att instansiera scenerna hos."
 
 #: editor/scene_tree_dock.cpp
 msgid "Error loading scene from %s"
-msgstr ""
+msgstr "Fel när scen lästes in från %s"
 
 #: editor/scene_tree_dock.cpp
 msgid "Error instantiating scene from %s"
-msgstr ""
+msgstr "Fel när scen instansierades från %s"
 
 #: editor/scene_tree_dock.cpp
 msgid ""
 "Cannot instantiate the scene '%s' because the current scene exists within "
 "one of its nodes."
 msgstr ""
+"Kan inte instansiera scenen \"%s\" eftersom den aktuella scenen finns inom "
+"någon av dess noder."
 
 #: editor/scene_tree_dock.cpp
 msgid "Instantiate Scene"
 msgid_plural "Instantiate Scenes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Instansiera scen"
+msgstr[1] "Instansiera scener"
 
 #: editor/scene_tree_dock.cpp
 msgid "Error loading audio stream from %s"
-msgstr ""
+msgstr "Fel när ljudström lästes in från %s"
 
 #: editor/scene_tree_dock.cpp
+#, fuzzy
 msgid "Create AudioStreamPlayer"
 msgid_plural "Create AudioStreamPlayers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Skapa ljudströmsspelare"
+msgstr[1] "Skapa ljudströmsspelare"
 
 #: editor/scene_tree_dock.cpp
 msgid "Replace with Branch Scene"
-msgstr ""
+msgstr "Ersätt med gren-scen"
 
 #: editor/scene_tree_dock.cpp
 msgid "Instantiate Child Scene"
-msgstr ""
+msgstr "Instansiera barnscen"
 
 #: editor/scene_tree_dock.cpp
 msgid "Detach Script"
-msgstr ""
+msgstr "Lösgör skript"
 
 #: editor/scene_tree_dock.cpp
 msgid "This operation can't be done on the tree root."
-msgstr ""
+msgstr "Den här åtgärden kan inte utföras på trädroten."
 
 #: editor/scene_tree_dock.cpp
 msgid "Move Node in Parent"
-msgstr ""
+msgstr "Flytta nod i förälder"
 
 #: editor/scene_tree_dock.cpp
 msgid "Move Nodes in Parent"
-msgstr ""
+msgstr "Flytta noder i förälder"
 
 #: editor/scene_tree_dock.cpp
 msgid "Duplicate Node(s)"
-msgstr ""
+msgstr "Duplicera nod(er)"
 
 #: editor/scene_tree_dock.cpp
 msgid "Can't reparent nodes in inherited scenes, order of nodes can't change."
 msgstr ""
+"Kan inte byta förälder på noder i ärvda scener, nodernas ordning får inte "
+"ändras."
 
 #: editor/scene_tree_dock.cpp
 msgid "Node must belong to the edited scene to become root."
-msgstr ""
+msgstr "Noden måste tillhöra den redigerade scenen för att kunna bli rot."
 
 #: editor/scene_tree_dock.cpp
 msgid "Instantiated scenes can't become root"
-msgstr ""
+msgstr "Instansierade scener kan inte bli rot"
 
 #: editor/scene_tree_dock.cpp
 msgid "Make node as Root"
-msgstr ""
+msgstr "Gör nod till rot"
 
 #: editor/scene_tree_dock.cpp
 msgid "Delete %d nodes and any children?"
-msgstr ""
+msgstr "Radera %d noder och eventuella barn?"
 
 #: editor/scene_tree_dock.cpp
 msgid "Delete %d nodes?"
-msgstr ""
+msgstr "Radera %d noder?"
 
 #: editor/scene_tree_dock.cpp
 msgid "Delete the root node \"%s\"?"
-msgstr ""
+msgstr "Radera rot-noden \"%s\"?"
 
 #: editor/scene_tree_dock.cpp
 msgid "Delete node \"%s\" and its children?"
-msgstr ""
+msgstr "Radera noden \"%s\" och dess barn?"
 
 #: editor/scene_tree_dock.cpp
 msgid "Delete node \"%s\"?"
-msgstr ""
+msgstr "Radera noden \"%s\"?"
 
 #: editor/scene_tree_dock.cpp
 msgid "Some nodes are referenced by animation tracks."
-msgstr ""
+msgstr "Några noder har referenser från animationsspår."
 
 #: editor/scene_tree_dock.cpp
 msgid ""
 "Saving the branch as a scene requires having a scene open in the editor."
 msgstr ""
+"En scen måste vara öppen i redigeraren för att kunna spara grenen som en "
+"scen."
 
 #: editor/scene_tree_dock.cpp
 msgid ""
 "Saving the branch as a scene requires selecting only one node, but you have "
 "selected %d nodes."
 msgstr ""
+"För att spara grenen som en scen måste en enda nod vara markerad, men du har "
+"markerat %d noder."
 
 #: editor/scene_tree_dock.cpp
+#, fuzzy
 msgid ""
 "Can't save the root node branch as an instantiated scene.\n"
 "To create an editable copy of the current scene, duplicate it using the "
 "FileSystem dock context menu\n"
 "or create an inherited scene using Scene > New Inherited Scene... instead."
 msgstr ""
+"Kan inte spara rotnod-grenen som en instansierad scen.\n"
+"Duplicera den aktuella scenen med filsystem-kontextmenyn för att göra en "
+"redigerbar kopia av den aktuella scenen,\n"
+"ellerskapa en ärvd scen med Scen > Ny ärvd scen… istället. "
 
 #: editor/scene_tree_dock.cpp
 msgid ""
