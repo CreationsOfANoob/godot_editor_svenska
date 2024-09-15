@@ -902,7 +902,7 @@ msgstr "Ändra spårsökväg"
 
 #: editor/animation_track_editor.cpp
 msgid "Toggle this track on/off."
-msgstr "Spår av/på."
+msgstr "Spår på/av."
 
 #: editor/animation_track_editor.cpp
 msgid "Use Blend"
@@ -5343,7 +5343,7 @@ msgstr "Sök i hjälp…"
 
 #: editor/editor_node.cpp
 msgid "Online Documentation"
-msgstr "Webb-dokumentation"
+msgstr "Onlinedokumentation"
 
 #: editor/editor_node.cpp
 msgid "Forum"
@@ -5495,7 +5495,7 @@ msgstr ""
 
 #: editor/editor_node.cpp editor/plugins/script_editor_plugin.cpp
 msgid "Discard local changes and reload"
-msgstr "Överge lokala ändringar och ladda om"
+msgstr "Förkasta lokala ändringar och ladda om"
 
 #: editor/editor_node.cpp editor/plugins/script_editor_plugin.cpp
 msgid "Keep local changes and overwrite"
@@ -8915,7 +8915,7 @@ msgstr "Markera och förflytta punkter, skapa punkter med HMK."
 #: editor/plugins/animation_blend_space_1d_editor.cpp
 #: editor/plugins/animation_blend_space_2d_editor.cpp
 msgid "Enable snap and show grid."
-msgstr "Slå på magnet och visa rutnät."
+msgstr "Slå på snäpp och visa rutnät."
 
 #: editor/plugins/animation_blend_space_1d_editor.cpp
 #: editor/plugins/animation_blend_space_2d_editor.cpp
@@ -9042,7 +9042,7 @@ msgstr "Radera nod(er)"
 
 #: editor/plugins/animation_blend_tree_editor_plugin.cpp
 msgid "Toggle Filter On/Off"
-msgstr "Växla filter av/på"
+msgstr "Växla filter på/av"
 
 #: editor/plugins/animation_blend_tree_editor_plugin.cpp
 msgid "Change Filter"
@@ -9361,7 +9361,7 @@ msgstr "Lagring"
 #: editor/plugins/animation_player_editor_plugin.cpp
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Toggle Autoplay"
-msgstr "Autospela av/på"
+msgstr "Autospela på/av"
 
 #: editor/plugins/animation_player_editor_plugin.cpp
 msgid "Create New Animation"
@@ -9562,7 +9562,7 @@ msgstr "Nästa (Autokö):"
 
 #: editor/plugins/animation_player_editor_plugin.cpp
 msgid "Toggle Animation Bottom Panel"
-msgstr "Nedre animationspanel av/på"
+msgstr "Nedre animationspanel på/av"
 
 #: editor/plugins/animation_state_machine_editor.cpp
 msgid "Move Node"
@@ -9673,7 +9673,7 @@ msgstr "Animationsträd"
 
 #: editor/plugins/animation_tree_editor_plugin.cpp
 msgid "Toggle AnimationTree Bottom Panel"
-msgstr "Nedre animationsträd-panel av/på"
+msgstr "Nedre animationsträd-panel på/av"
 
 #: editor/plugins/asset_library_editor_plugin.cpp
 #: editor/plugins/editor_plugin_settings.cpp
@@ -9960,7 +9960,7 @@ msgstr "Förhandsvisa"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Configure Snap"
-msgstr "Konfigurera magnet"
+msgstr "Konfigurera snäpp"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Grid Offset:"
@@ -10311,72 +10311,72 @@ msgstr "Linjalläge"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Toggle smart snapping."
-msgstr "Smart magnet på/av."
+msgstr "Smart snäpp på/av."
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Use Smart Snap"
-msgstr "Använd smart magnet"
+msgstr "Använd smart snäpp"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Toggle grid snapping."
-msgstr "Rutnätsmagnet av/på."
+msgstr "Rutnätssnäpp på/av."
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Use Grid Snap"
-msgstr "Använd rutnätsmagnet"
+msgstr "Använd rutnätssnäpp"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Snapping Options"
-msgstr "Magnetinställningar"
+msgstr "Snäppinställningar"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Use Rotation Snap"
-msgstr "Använd rotationsmagnet"
+msgstr "Använd rotationssnäpp"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Use Scale Snap"
-msgstr "Använd skalningsmagnet"
+msgstr "Använd skalningssnäpp"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Snap Relative"
-msgstr "Relativ magnet"
+msgstr "Relativ snäpp"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Use Pixel Snap"
-msgstr "Använd pixelmagnet"
+msgstr "Använd pixelsnäpp"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Snap to Parent"
-msgstr "Föräldramagnet"
+msgstr "Föräldrasnäpp"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Snap to Node Anchor"
-msgstr "Magnet till nod-ankare"
+msgstr "Snäpp till nod-ankare"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Snap to Node Sides"
-msgstr "Magnet till nod-sidor"
+msgstr "Snäpp till nod-sidor"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Snap to Node Center"
-msgstr "Magnet till nod-mittpunkt"
+msgstr "Snäpp till nod-mittpunkt"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Snap to Other Nodes"
-msgstr "Magnet till andra noder"
+msgstr "Snäpp till andra noder"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Snap to Guides"
-msgstr "Magnet till stödlinjer"
+msgstr "Snäpp till stödlinjer"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Smart Snapping"
-msgstr "Smart magnet"
+msgstr "Smart snäpp"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Configure Snap..."
-msgstr "Konfigurera magnet..."
+msgstr "Konfigurera snäpp…"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 #: editor/plugins/node_3d_editor_plugin.cpp
@@ -10429,11 +10429,11 @@ msgstr "Visa"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Show When Snapping"
-msgstr "Visa vid magnet"
+msgstr "Visa vid snäpp"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Toggle Grid"
-msgstr "Rutnät av/på"
+msgstr "Rutnät på/av"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 #: editor/plugins/polygon_2d_editor_plugin.cpp
@@ -11001,7 +11001,7 @@ msgstr "Smoothstep"
 #: editor/plugins/gradient_texture_2d_editor_plugin.cpp
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Toggle Grid Snap"
-msgstr "Växla rutnätsmagnet"
+msgstr "Växla rutnätssnäpp"
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid "Debug with External Editor"
@@ -11009,7 +11009,7 @@ msgstr "Felsök med extern redigerare"
 
 #: editor/plugins/debugger_editor_plugin.cpp
 msgid "Toggle Debugger Bottom Panel"
-msgstr "Nedre felsökningspanel av/på"
+msgstr "Nedre felsökningspanel på/av"
 
 #: editor/plugins/debugger_editor_plugin.cpp
 #, fuzzy
@@ -11530,11 +11530,12 @@ msgstr "Byt färg på gradientpunkt"
 
 #: editor/plugins/gradient_editor_plugin.cpp
 msgid "Reverse Gradient"
-msgstr "Vänd om gradient"
+msgstr "Spegla gradient"
 
 #: editor/plugins/gradient_editor_plugin.cpp
+#, fuzzy
 msgid "Reverse/Mirror Gradient"
-msgstr "Vänd om/spegla gradient"
+msgstr "Spegla gradient"
 
 #: editor/plugins/gradient_texture_2d_editor_plugin.cpp
 msgid "Move GradientTexture2D Fill Point"
@@ -12520,7 +12521,7 @@ msgstr "Påbörja skalnings-transformering"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Toggle Camera Preview"
-msgstr "Kameraförhandsvisning av/på"
+msgstr "Kameraförhandsvisning på/av"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "View Rotation Locked"
@@ -12564,14 +12565,12 @@ msgstr ""
 "Halvöppet öga: Gizmo syns, även genom ytor (\"röntgen\")."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
-#, fuzzy
 msgid "Snap Nodes to Floor"
-msgstr "Magnet-dra noder till golvet"
+msgstr "Snäpp noder till golvet"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
-#, fuzzy
 msgid "Couldn't find a solid floor to snap the selection to."
-msgstr "Hittade inget fast golv att magnet-dra noder till."
+msgstr "Hittade inget fast golv att snäppa noder till."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Add Preview Sun to Scene"
@@ -12607,7 +12606,7 @@ msgstr ""
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Drag: Use snap."
-msgstr "Dra: Använd magnet."
+msgstr "Dra: Använd snäpp."
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
@@ -12623,7 +12622,7 @@ msgstr "Använd lokala koordinater"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Use Snap"
-msgstr "Använd magnet"
+msgstr "Använd snäpp"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid ""
@@ -12631,7 +12630,7 @@ msgid ""
 "If a DirectionalLight3D node is added to the scene, preview sunlight is "
 "disabled."
 msgstr ""
-"Solljus i förhandsvisning av/på.\n"
+"Solljus i förhandsvisning på/av.\n"
 "Solljus i förhandsvisning stängs av om en DirectionalLight3D-nod läggs till "
 "i scenen."
 
@@ -12641,7 +12640,7 @@ msgid ""
 "If a WorldEnvironment node is added to the scene, preview environment is "
 "disabled."
 msgstr ""
-"Miljö i förhandsvisning av/på.\n"
+"Miljö i förhandsvisning på/av.\n"
 "Miljö i förhandsvisning stängs av om en WorldEnvironment-nod läggs till i "
 "scenen."
 
@@ -12711,7 +12710,7 @@ msgstr "Fokusera på markering"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Toggle Freelook"
-msgstr "Frikolla av/på"
+msgstr "Frikolla på/av"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Decrease Field of View"
@@ -12731,9 +12730,8 @@ msgid "Transform"
 msgstr "Transformera"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
-#, fuzzy
 msgid "Snap Object to Floor"
-msgstr "Magnet-dra objekt till golvet"
+msgstr "Snäpp objekt till golvet"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Transform Dialog..."
@@ -12774,7 +12772,7 @@ msgstr "Konfigurera vy…"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Snap Settings"
-msgstr "Magnetinställningar"
+msgstr "Snäppinställningar"
 
 #: editor/plugins/node_3d_editor_plugin.cpp
 msgid "Translate Snap:"
@@ -13024,196 +13022,199 @@ msgstr "Stäng kurvan"
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Clear Curve Points"
-msgstr ""
+msgstr "Rensa kurvpunkter"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Select Points"
-msgstr ""
+msgstr "Markera punkter"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Shift+Drag: Select Control Points"
-msgstr ""
+msgstr "Skift+dra: Markera kontrollpunkter "
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Click: Add Point"
-msgstr ""
+msgstr "Klicka: Lägg till punkt"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Left Click: Split Segment (in curve)"
-msgstr ""
+msgstr "VMK: Dela segment (i kurva)"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Right Click: Delete Point"
-msgstr ""
+msgstr "HMK: Radera punkt"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 msgid "Select Control Points (Shift+Drag)"
-msgstr ""
+msgstr "Markera kontrollpunkter (skift+dra)"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Add Point (in empty space)"
-msgstr ""
+msgstr "Lägg till punkt (i tomrummet)"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Delete Point"
-msgstr ""
+msgstr "Radera punkt"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Close Curve"
-msgstr ""
+msgstr "Stäng kurva"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Clear Points"
-msgstr ""
+msgstr "Rensa punkter"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Please Confirm..."
-msgstr ""
+msgstr "Bekräfta…"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Remove all curve points?"
-msgstr ""
+msgstr "Ta bort alla kurvpunkter?"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Mirror Handle Angles"
-msgstr ""
+msgstr "Spegla greppvinklar"
 
 #: editor/plugins/path_2d_editor_plugin.cpp
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Mirror Handle Lengths"
-msgstr ""
+msgstr "Spegla grepplängder"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Curve Point #"
-msgstr ""
+msgstr "Kurvpunkt #"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Handle In #"
-msgstr ""
+msgstr "In-grepp #"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Handle Out #"
-msgstr ""
+msgstr "Ut-grepp #"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Handle Tilt #"
-msgstr ""
+msgstr "Grepplutning #"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Set Curve Point Position"
-msgstr ""
+msgstr "Ställ in kurvpunktsposition"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Set Curve Out Position"
-msgstr ""
+msgstr "Ställ in kurvans utposition"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Set Curve In Position"
-msgstr ""
+msgstr "Ställ in kurvans inposition"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Set Curve Point Tilt"
-msgstr ""
+msgstr "Ställ in kurvpunktens lutning"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Split Path"
-msgstr ""
+msgstr "Dela bana"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Remove Path Point"
-msgstr ""
+msgstr "Ta bort banpunkt"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Reset Out-Control Point"
-msgstr ""
+msgstr "Återställ ut-kontrollpunkt"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Reset In-Control Point"
-msgstr ""
+msgstr "Återställ in-kontrollpunkt"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Reset Point Tilt"
-msgstr ""
+msgstr "Återställ punktens lutning"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Shift+Click: Select multiple Points"
-msgstr ""
+msgstr "Skift+klicka: Markera fler punker"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Select Control Points"
-msgstr ""
+msgstr "Markera kontrollpunkter"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Shift+Click: Drag out Control Points"
-msgstr ""
+msgstr "Skift+klicka: Dra ut kontrollpunkter"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Select Tilt Handles"
-msgstr ""
+msgstr "Markera lutningsgrepp"
 
 #: editor/plugins/path_3d_editor_plugin.cpp
 msgid "Split Segment (in curve)"
-msgstr ""
+msgstr "Dela segment (i kurva)"
 
 #: editor/plugins/physical_bone_3d_editor_plugin.cpp
 msgid "Move Joint"
-msgstr ""
+msgstr "Flytta led"
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Plugin name cannot be blank."
-msgstr ""
+msgstr "Plugin-namn får inte lämnas blankt."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Subfolder name is not a valid folder name."
-msgstr ""
+msgstr "Undermappens namn är inget giltigt mappnamn."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Subfolder cannot be one which already exists."
-msgstr ""
+msgstr "Undermapp får inte redan finnas."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Script extension must match chosen language extension (.%s)."
 msgstr ""
+"Skripttillägg måste överensstämma med det valda språkets tillägg (.%s)."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid ""
 "C# doesn't support activating the plugin on creation because the project "
 "must be built first."
 msgstr ""
+"C# stödjer inte aktivering av plugin vid skapelse eftersom projektet måste "
+"byggas först."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Edit a Plugin"
-msgstr ""
+msgstr "Redigera ett plugin"
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Create a Plugin"
-msgstr ""
+msgstr "Skapa ett plugin"
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Update"
-msgstr ""
+msgstr "Uppdatera"
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Plugin Name:"
-msgstr ""
+msgstr "Namn på plugin:"
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Required. This name will be displayed in the list of plugins."
-msgstr ""
+msgstr "Obligatoriskt. Namnet kommer att visas i plugin-listan."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Subfolder:"
-msgstr ""
+msgstr "Undermapp:"
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid ""
@@ -13222,27 +13223,37 @@ msgid ""
 "If left empty, the folder will be named after the plugin name converted to "
 "`snake_case`."
 msgstr ""
+"Frivilligt. Mappnamnet ska som regel använda ormnotation (ex. \"foo_bar\", "
+"undvik blanksteg och specialtecken).\n"
+"Om fältet lämnas tomt namnges mappen efter pluginnamnet, konverterat till "
+"ormnotation."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid ""
 "Optional. This description should be kept relatively short (up to 5 lines).\n"
 "It will display when hovering the plugin in the list of plugins."
 msgstr ""
+"Frivilligt. Beskrivningen bör hållas kort (upp till 5 rader).\n"
+"Den visas vid hovring över pluginnet i plugin-listan."
 
 #: editor/plugins/plugin_config_dialog.cpp
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Author:"
-msgstr ""
+msgstr "Upphovsperson:"
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Optional. The author's username, full name, or organization name."
 msgstr ""
+"Frivilligt. Upphovspersonens användarnamn, fullständiga namn eller "
+"organisationsnamn."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid ""
 "Optional. A human-readable version identifier used for informational "
 "purposes only."
 msgstr ""
+"Frivilligt. En människoläsbar versionidentifierare som endast används i "
+"informationssyfte."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid ""
@@ -13250,796 +13261,818 @@ msgid ""
 "Note that a plugin may use several languages at once by adding more scripts "
 "to the plugin."
 msgstr ""
+"Obligatoriskt. Skriptspråket som ska användas i skriptet.\n"
+"Notera att plugin kan använda flera språk genom att lägga till fler skript i "
+"pluginnet."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Script Name:"
-msgstr ""
+msgstr "Namn på skript:"
 
 #: editor/plugins/plugin_config_dialog.cpp
+#, fuzzy
 msgid ""
 "Optional. The path to the script (relative to the add-on folder). If left "
 "empty, will default to \"plugin.gd\"."
 msgstr ""
+"Frivilligt. Sökvägen till skriptet (relativt till plugin-mappen).\n"
+"Om fältet lämnas tomt används \"plugin.gd\"."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Activate now?"
-msgstr ""
+msgstr "Aktivera nu?"
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Plugin name is valid."
-msgstr ""
+msgstr "Pluginnamnet är giltigt."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Script extension is valid."
-msgstr ""
+msgstr "Skripttillägget är giltigt."
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Subfolder name is valid."
-msgstr ""
+msgstr "Undermappens namn är giltigt."
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid ""
 "The skeleton property of the Polygon2D does not point to a Skeleton2D node"
-msgstr ""
+msgstr "Skelett-egenskapen i Polygon2D pekar inte på en Skeleton2D-nod"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Sync Bones"
-msgstr ""
+msgstr "Synka ben"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid ""
 "No texture in this polygon.\n"
 "Set a texture to be able to edit UV."
 msgstr ""
+"Ingen textur i den här polygonen. Ställ in en textur för att kunna redigera "
+"UV."
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Create UV Map"
-msgstr ""
+msgstr "Skapa UV-karta"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid ""
 "Polygon 2D has internal vertices, so it can no longer be edited in the "
 "viewport."
 msgstr ""
+"Polygon2D har interna vertices och kan därför inte längre redigeras i "
+"vyrutan."
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Create Polygon & UV"
-msgstr ""
+msgstr "Skapa polygon & UV"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Create Internal Vertex"
-msgstr ""
+msgstr "Skapa intern vertex"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Remove Internal Vertex"
-msgstr ""
+msgstr "Ta bort intern vertex"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Invalid Polygon (need 3 different vertices)"
-msgstr ""
+msgstr "Ogiltig polygon (3 olika vertices krävs)"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Add Custom Polygon"
-msgstr ""
+msgstr "Lägg till anpassad polygon"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Remove Custom Polygon"
-msgstr ""
+msgstr "Ta bort anpassad polygon"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Transform UV Map"
-msgstr ""
+msgstr "Transformera UV-karta"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Transform Polygon"
-msgstr ""
+msgstr "Transformera polygon"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Paint Bone Weights"
-msgstr ""
+msgstr "Måla benvikter"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Open Polygon 2D UV editor."
-msgstr ""
+msgstr "Öppna Polygon2D-UV-redigerare."
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Polygon 2D UV Editor"
-msgstr ""
+msgstr "Polygon2D-UV-redigerare"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "UV"
-msgstr ""
+msgstr "UV"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Points"
-msgstr ""
+msgstr "Punkter"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Polygons"
-msgstr ""
+msgstr "Polygoner"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Bones"
-msgstr ""
+msgstr "Ben"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Move Points"
-msgstr ""
+msgstr "Förflytta punkter"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid ": Rotate"
-msgstr ""
+msgstr ": Rotera"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Shift: Move All"
-msgstr ""
+msgstr "Skift: Förflytta alla"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Shift: Scale"
-msgstr ""
+msgstr "Skift: Skala"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Move Polygon"
-msgstr ""
+msgstr "Förflytta polygon"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Rotate Polygon"
-msgstr ""
+msgstr "Rotera polygon"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Scale Polygon"
-msgstr ""
+msgstr "Skala om polygon"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Create a custom polygon. Enables custom polygon rendering."
-msgstr ""
+msgstr "Skapa anpassad polygon. Möjliggör anpassat polygon-rendering."
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid ""
 "Remove a custom polygon. If none remain, custom polygon rendering is "
 "disabled."
 msgstr ""
+"Ta bort anpassad polygon. Om ingen finns kvar avaktiveras anpassat polygon-"
+"rendering."
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Paint weights with specified intensity."
-msgstr ""
+msgstr "Måla vikter med angiven intensitet."
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Unpaint weights with specified intensity."
-msgstr ""
+msgstr "Omåla vikter med angiven intensitet."
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Radius:"
-msgstr ""
+msgstr "Radie:"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Copy Polygon to UV"
-msgstr ""
+msgstr "Kopiera polygon till UV"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Copy UV to Polygon"
-msgstr ""
+msgstr "Kopiera UV till polygon"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Clear UV"
-msgstr ""
+msgstr "Rensa UV"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Grid Settings"
-msgstr ""
+msgstr "Rutnätsinställningar"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Snap"
-msgstr ""
+msgstr "Snäpp"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Enable Snap"
-msgstr ""
+msgstr "Slå på snäpp"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Show Grid"
-msgstr ""
+msgstr "Visa rutnät"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Configure Grid:"
-msgstr ""
+msgstr "Konfigurera rutnät:"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Grid Offset X:"
-msgstr ""
+msgstr "Rutförskjutning X:"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Grid Offset Y:"
-msgstr ""
+msgstr "Rutförskjutning Y:"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Grid Step X:"
-msgstr ""
+msgstr "Rutsteg X:"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Grid Step Y:"
-msgstr ""
+msgstr "Rutsteg Y:"
 
 #: editor/plugins/polygon_2d_editor_plugin.cpp
 msgid "Sync Bones to Polygon"
-msgstr ""
+msgstr "Synka ben till polygon"
 
 #: editor/plugins/polygon_3d_editor_plugin.cpp
 msgid "Create Polygon3D"
-msgstr ""
+msgstr "Skapa Polygon3D"
 
 #: editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "ERROR: Couldn't load resource!"
-msgstr ""
+msgstr "Fel: Resursen kunde inte läsas in!"
 
 #: editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "Add Resource"
-msgstr ""
+msgstr "Lägg till resurs"
 
 #: editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "Rename Resource"
-msgstr ""
+msgstr "Byt namn på resurs"
 
 #: editor/plugins/resource_preloader_editor_plugin.cpp
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Delete Resource"
-msgstr ""
+msgstr "Radera resurs"
 
 #: editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "Resource clipboard is empty!"
-msgstr ""
+msgstr "Resurs-urklipp är tomt!"
 
 #: editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "Paste Resource"
-msgstr ""
+msgstr "Klistra in resurs"
 
 #: editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "Load Resource"
-msgstr ""
+msgstr "Läs in resurs"
 
 #: editor/plugins/resource_preloader_editor_plugin.cpp
 msgid "Toggle ResourcePreloader Bottom Panel"
-msgstr ""
+msgstr "Nedre resursförinläsning-panel på/av"
 
 #: editor/plugins/root_motion_editor_plugin.cpp
 msgid "Path to AnimationMixer is invalid"
-msgstr ""
+msgstr "Sökväg till AnimationMixer är ogiltig"
 
 #: editor/plugins/root_motion_editor_plugin.cpp
 msgid ""
 "AnimationMixer has no valid root node path, so unable to retrieve track "
 "names."
 msgstr ""
+"AnimationMixer har ingen giltig rotnods-sökväg, kan inte hämta spårnamn."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Can't open '%s'. The file could have been moved or deleted."
-msgstr ""
+msgstr "Kan inte öppna \"%s\". Filen kan ha ändrats eller tagits bort."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Close and save changes?"
-msgstr ""
+msgstr "Stäng & spara ändringar?"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Error writing TextFile:"
-msgstr ""
+msgstr "Fel när textfil skrevs:"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Error saving file!"
-msgstr ""
+msgstr "Fel när filen sparades!"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Error while saving theme."
-msgstr ""
+msgstr "Fel när temat skulle sparas."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Error Saving"
-msgstr ""
+msgstr "Fel vid sparande"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Error importing theme."
-msgstr ""
+msgstr "Fel vid import av tema."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Error Importing"
-msgstr ""
+msgstr "Fel vid import"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "New Text File..."
-msgstr ""
+msgstr "Ny textfil..."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Open File"
-msgstr ""
+msgstr "Öppna fil"
 
 #: editor/plugins/script_editor_plugin.cpp
 #: editor/plugins/script_text_editor.cpp
 msgid "Could not load file at:"
-msgstr ""
+msgstr "Kunde inte läsa in fil vid:"
 
 #: editor/plugins/script_editor_plugin.cpp
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Save File As..."
-msgstr ""
+msgstr "Spara fil som..."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Can't obtain the script for reloading."
-msgstr ""
+msgstr "Kunde inte erhålla skriptet för att ladda om det."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Reload only takes effect on tool scripts."
-msgstr ""
+msgstr "Omladdning träder bara i kraft på verktygsskript."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Cannot run the edited file because it's not a script."
-msgstr ""
+msgstr "Kan inte köra den redigerade filen eftersom den inte är ett skript."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Cannot run the script because it contains errors, check the output log."
 msgstr ""
+"Kan inte köra skriptet eftersom det innehåller fel, kontrollera "
+"utmatningsloggen."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Cannot run the script because it doesn't extend EditorScript."
-msgstr ""
+msgstr "Kan inte köra skriptet eftersom det inte förlänger EditorScript."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid ""
 "Cannot run the script because it's not a tool script (add the @tool "
 "annotation at the top)."
 msgstr ""
+"Kan inte köra skriptet eftersom det inte är ett verktygsskript (lägg till "
+"@tool högst upp)."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Cannot run the script because it's not a tool script."
-msgstr ""
+msgstr "Kan inte köra skriptet eftersom det inte är ett verktygsskript."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Import Theme"
-msgstr ""
+msgstr "Importera tema"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Error while saving theme"
-msgstr ""
+msgstr "Fel när temat skulle sparas"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Error saving"
-msgstr ""
+msgstr "Fel vid sparande"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Save Theme As..."
-msgstr ""
+msgstr "Spara tema som…"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Open '%s' in Godot online documentation."
-msgstr ""
+msgstr "Öppna \"%s\" i Godots onlinedokumentation."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Open in Online Docs"
-msgstr ""
+msgstr "Öppna i onlinedokumentation"
 
 #: editor/plugins/script_editor_plugin.cpp
 #: editor/plugins/text_shader_editor.cpp
 msgid "Online Docs"
-msgstr ""
+msgstr "Onlinedokumentation"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Open Godot online documentation."
-msgstr ""
+msgstr "Öppna Godots onlinedokumentation."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Unsaved file."
-msgstr ""
+msgstr "Osparad fil. "
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "%s Class Reference"
-msgstr ""
+msgstr "%s-klassreferens"
 
 #: editor/plugins/script_editor_plugin.cpp
 #: editor/plugins/script_text_editor.cpp
 msgid "Find Next"
-msgstr ""
+msgstr "Nästa"
 
 #: editor/plugins/script_editor_plugin.cpp
 #: editor/plugins/script_text_editor.cpp
 msgid "Find Previous"
-msgstr ""
+msgstr "Föregående"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Filter Scripts"
-msgstr ""
+msgstr "Filtrera skript"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Toggle alphabetical sorting of the method list."
-msgstr ""
+msgstr "Alfabetisk ordning av metodlistan på/av."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Sort"
-msgstr ""
+msgstr "Sortera"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Next Script"
-msgstr ""
+msgstr "Nästa skript"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Previous Script"
-msgstr ""
+msgstr "Föregående skript"
 
 #: editor/plugins/script_editor_plugin.cpp
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "File"
-msgstr ""
+msgstr "Arkiv"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Open..."
-msgstr ""
+msgstr "Öppna…"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Save All"
-msgstr ""
+msgstr "Spara alla"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Soft Reload Tool Script"
-msgstr ""
+msgstr "Mjukomladda verktygsskript"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Copy Script Path"
-msgstr ""
+msgstr "Kopiera skriptsökväg"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "History Previous"
-msgstr ""
+msgstr "Historik föregående"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "History Next"
-msgstr ""
+msgstr "Historik nästa"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Import Theme..."
-msgstr ""
+msgstr "Importera tema…"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Reload Theme"
-msgstr ""
+msgstr "Läs in tema igen"
 
 #: editor/plugins/script_editor_plugin.cpp
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Save Theme"
-msgstr ""
+msgstr "Spara tema"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Close All"
-msgstr ""
+msgstr "Stäng alla"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Close Docs"
-msgstr ""
+msgstr "Stäng dokumentation"
 
 #: editor/plugins/script_editor_plugin.cpp editor/project_manager.cpp
 #: platform/android/export/export_plugin.cpp
 #: platform/ios/export/export_plugin.cpp platform/web/export/export_plugin.cpp
 msgid "Run"
-msgstr ""
+msgstr "Kör"
 
 #: editor/plugins/script_editor_plugin.cpp
 #: editor/plugins/script_text_editor.cpp editor/plugins/text_editor.cpp
 #: editor/plugins/text_shader_editor.cpp
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Search"
-msgstr ""
+msgstr "Sök"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Search the reference documentation."
-msgstr ""
+msgstr "Sök i referensdokumentationen."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Go to previous edited document."
-msgstr ""
+msgstr "Gå till senast redigerade dokument."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Go to next edited document."
-msgstr ""
+msgstr "Gå till nästa redigerade dokument."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Make the script editor floating."
-msgstr ""
+msgstr "Gör skriptredigeraren svävande."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Discard"
-msgstr ""
+msgstr "Förkasta"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "The following files are newer on disk."
-msgstr ""
+msgstr "Följande filer är nyare på disk."
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "What action should be taken?:"
-msgstr ""
+msgstr "Vilken åtgärd ska tas?:"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Search Results"
-msgstr ""
+msgstr "Sökresultat"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Toggle Search Results Bottom Panel"
-msgstr ""
+msgstr "Nedre sökresultat-panel på/av"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "There are unsaved changes in the following built-in script(s):"
-msgstr ""
+msgstr "Det finns osparade ändringar i följande inbyggda skript:"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Save changes to the following script(s) before quitting?"
-msgstr ""
+msgstr "Spara ändringar till följande skript innan avslutning?"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Reopen Closed Script"
-msgstr ""
+msgstr "Öppna stängda skript igen"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Clear Recent Scripts"
-msgstr ""
+msgstr "Rensa senaste skript"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Uppercase"
-msgstr ""
+msgstr "Versaler"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Lowercase"
-msgstr ""
+msgstr "Gemener"
 
 #: editor/plugins/script_editor_plugin.cpp
 msgid "Capitalize"
-msgstr ""
+msgstr "Vers. första bokst."
 
 #: editor/plugins/script_editor_plugin.h
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #: editor/plugins/script_editor_plugin.h
 msgid "Plain Text"
-msgstr ""
+msgstr "Ren text"
 
 #: editor/plugins/script_editor_plugin.h
 msgid "JSON"
-msgstr ""
+msgstr "JSON"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Connections to method:"
-msgstr ""
+msgstr "Kopplingar till metod:"
 
 #: editor/plugins/script_text_editor.cpp
 #: scene/resources/visual_shader_nodes.cpp
 msgid "Source"
-msgstr ""
+msgstr "Källa"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Target"
-msgstr ""
+msgstr "Mål"
 
 #. TRANSLATORS: Script error pointing to a line and column number.
 #: editor/plugins/script_text_editor.cpp
 msgid "Error at (%d, %d):"
-msgstr ""
+msgstr "Fel vid (%d, %d):"
 
 #: editor/plugins/script_text_editor.cpp
 msgid ""
 "Missing connected method '%s' for signal '%s' from node '%s' to node '%s'."
 msgstr ""
+"Kopplad metod \"s\" saknas för signalen \"%s\" från nod \"%s\" till nod "
+"\"%s\"."
 
 #: editor/plugins/script_text_editor.cpp
 msgid "[Ignore]"
-msgstr ""
+msgstr "[Ignorera]"
 
 #: editor/plugins/script_text_editor.cpp editor/plugins/text_shader_editor.cpp
 msgid "Line %d (%s):"
-msgstr ""
+msgstr "Rad %d (%s):"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Line %d:"
-msgstr ""
+msgstr "Rad %d:"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Go to Function"
-msgstr ""
+msgstr "Gå till funktion"
 
 #: editor/plugins/script_text_editor.cpp
 msgid ""
 "The resource does not have a valid path because it has not been saved.\n"
 "Please save the scene or resource that contains this resource and try again."
 msgstr ""
+"Resursen har ingen giltig sökväg eftersom den inte har sparats.\n"
+"Spara scenen eller resursen som innehåller den här resursen och försök igen."
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Preloading internal resources is not supported."
-msgstr ""
+msgstr "Förinläsning av interna resurser stöds inte."
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Can't drop nodes without an open scene."
-msgstr ""
+msgstr "Kan inte släppa noder utan en öppen scen."
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Can't drop nodes because script '%s' does not inherit Node."
-msgstr ""
+msgstr "Kan inte släppa noder eftersom skriptet \"%s\" inte ärver från Node."
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Lookup Symbol"
-msgstr ""
+msgstr "Hoppa till definition"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Pick Color"
-msgstr ""
+msgstr "Välj förg"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Line"
-msgstr ""
+msgstr "Rad"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Folding"
-msgstr ""
+msgstr "Ihopfällning"
 
 #: editor/plugins/script_text_editor.cpp editor/plugins/text_editor.cpp
 msgid "Convert Case"
-msgstr ""
+msgstr "Konvertera gemener/versaler"
 
 #: editor/plugins/script_text_editor.cpp editor/plugins/text_editor.cpp
 msgid "Syntax Highlighter"
-msgstr ""
+msgstr "Syntaxmarkering"
 
 #: editor/plugins/script_text_editor.cpp editor/plugins/text_editor.cpp
 #: editor/plugins/text_shader_editor.cpp
 msgid "Bookmarks"
-msgstr ""
+msgstr "Bokmärken"
 
 #: editor/plugins/script_text_editor.cpp editor/plugins/text_editor.cpp
 #: editor/plugins/text_shader_editor.cpp
 msgid "Go To"
-msgstr ""
+msgstr "Gå till"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Delete Line"
-msgstr ""
+msgstr "Radera rad"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Unindent"
-msgstr ""
+msgstr "Minska indrag"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Toggle Comment"
-msgstr ""
+msgstr "Kommentar på/av"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Fold/Unfold Line"
-msgstr ""
+msgstr "Vik ihop/ut rad"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Fold All Lines"
-msgstr ""
+msgstr "Vik ihop alla rader"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Create Code Region"
-msgstr ""
+msgstr "Skapa kodregion"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Unfold All Lines"
-msgstr ""
+msgstr "Vik upp alla rader"
 
 #: editor/plugins/script_text_editor.cpp
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Duplicate Selection"
-msgstr ""
+msgstr "Duplicera markering"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Duplicate Lines"
-msgstr ""
+msgstr "Duplicera rader"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Evaluate Selection"
-msgstr ""
+msgstr "Utvärdera markering"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Toggle Word Wrap"
-msgstr ""
+msgstr "Radbyte på/av"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Trim Trailing Whitespace"
-msgstr ""
+msgstr "Beskär överflödiga blanksteg"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Trim Final Newlines"
-msgstr ""
+msgstr "Beskär radbryt i slutet"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Convert Indent to Spaces"
-msgstr ""
+msgstr "Konvertera indrag till blanksteg"
 
 #: editor/plugins/script_text_editor.cpp
+#, fuzzy
 msgid "Convert Indent to Tabs"
-msgstr ""
+msgstr "Konvertera indrag till tabbar"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Auto Indent"
-msgstr ""
+msgstr "Automatiskt indrag"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Find in Files..."
-msgstr ""
+msgstr "Sök i filer…"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Replace in Files..."
-msgstr ""
+msgstr "Ersätt i filer…"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Contextual Help"
-msgstr ""
+msgstr "Kontextuell hjälp"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Toggle Bookmark"
-msgstr ""
+msgstr "Bokmärke på/av"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Go to Next Bookmark"
-msgstr ""
+msgstr "Nästa bokmärke"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Go to Previous Bookmark"
-msgstr ""
+msgstr "Föregående bokmärke"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Remove All Bookmarks"
-msgstr ""
+msgstr "Rensa alla bokmärken"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Go to Function..."
-msgstr ""
+msgstr "Gå till funktion..."
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Go to Line..."
-msgstr ""
+msgstr "Gå till rad..."
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Toggle Breakpoint"
-msgstr ""
+msgstr "Brytpunkt på/av"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Remove All Breakpoints"
-msgstr ""
+msgstr "Rensa alla brytpunkter"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Go to Next Breakpoint"
-msgstr ""
+msgstr "Nästa brytpunkt"
 
 #: editor/plugins/script_text_editor.cpp
 msgid "Go to Previous Breakpoint"
-msgstr ""
+msgstr "Föregående brytpunkt"
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Save changes to the following shaders(s) before quitting?"
-msgstr ""
+msgstr "Spara ändringar till följande shader(s) innan avslutning?"
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "There are unsaved changes in the following built-in shaders(s):"
-msgstr ""
+msgstr "Det finns osparade ändringar i följande inbyggd(a) shader(s):"
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Shader Editor"
-msgstr ""
+msgstr "Shaderredigerare"
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "New Shader Include..."
-msgstr ""
+msgstr "Ny inkluderbar shader"
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Load Shader File..."
-msgstr ""
+msgstr "Läs in shaderfil..."
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Load Shader Include File..."
-msgstr ""
+msgstr "Läs in inkluderbar shaderfil..."
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Save File"
-msgstr ""
+msgstr "Spara fil"
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Open File in Inspector"
@@ -14047,741 +14080,753 @@ msgstr "Öppna fil i Granskare"
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Close File"
-msgstr ""
+msgstr "Stäng fil"
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Make the shader editor floating."
-msgstr ""
+msgstr "Gör shaderredigeraren svävande."
 
 #: editor/plugins/shader_editor_plugin.cpp
 msgid "Toggle Shader Editor Bottom Panel"
-msgstr ""
+msgstr "Nedre shaderredigerar-panel på/av"
 
 #: editor/plugins/shader_file_editor_plugin.cpp
+#, fuzzy
 msgid "No valid shader stages found."
-msgstr ""
+msgstr "Inga giltiga shader-stadier hittades."
 
 #: editor/plugins/shader_file_editor_plugin.cpp
 msgid "Shader stage compiled without errors."
-msgstr ""
+msgstr "Shader-stadie kompilerades utan fel."
 
 #: editor/plugins/shader_file_editor_plugin.cpp
 msgid ""
 "File structure for '%s' contains unrecoverable errors:\n"
 "\n"
 msgstr ""
+"Filstrukturen för \"%s\" innehåller fel som inte kan återställas:\n"
+"\n"
 
 #: editor/plugins/shader_file_editor_plugin.cpp
 msgid "ShaderFile"
-msgstr ""
+msgstr "ShaderFile"
 
 #: editor/plugins/shader_file_editor_plugin.cpp
 msgid "Toggle ShaderFile Bottom Panel"
-msgstr ""
+msgstr "Nedre ShaderFile-panel på/av"
 
 #: editor/plugins/skeleton_2d_editor_plugin.cpp
 msgid "This skeleton has no bones, create some children Bone2D nodes."
-msgstr ""
+msgstr "Det här skelettet har inga ben, skapa några Bone2D-barnnoder."
 
 #: editor/plugins/skeleton_2d_editor_plugin.cpp
 msgid "Set Rest Pose to Bones"
-msgstr ""
+msgstr "Ställ in vilopose till ben"
 
 #: editor/plugins/skeleton_2d_editor_plugin.cpp
 msgid "Create Rest Pose from Bones"
-msgstr ""
+msgstr "Skapa vilopose från ben"
 
 #: editor/plugins/skeleton_2d_editor_plugin.cpp
 msgid "Skeleton2D"
-msgstr ""
+msgstr "Skeleton2D"
 
 #: editor/plugins/skeleton_2d_editor_plugin.cpp
 msgid "Reset to Rest Pose"
-msgstr ""
+msgstr "Återställ till vilopose"
 
 #: editor/plugins/skeleton_2d_editor_plugin.cpp
 msgid "Overwrite Rest Pose"
-msgstr ""
+msgstr "Skriv över vilopose"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Set Bone Transform"
-msgstr ""
+msgstr "Ställ in ben-transform"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Set Bone Rest"
-msgstr ""
+msgstr "Ställ in ben-vila"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Cannot create a physical skeleton for a Skeleton3D node with no bones."
-msgstr ""
+msgstr "Kan inte skapa ett fysiskt skelett för en Skeleton3D-nod utan ben."
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Create physical bones"
-msgstr ""
+msgstr "Skapa fysiska ben"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Cannot export a SkeletonProfile for a Skeleton3D node with no bones."
-msgstr ""
+msgstr "Kan inte exportera en skelettprofil för ett Skeleton3D utan ben."
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Export Skeleton Profile As..."
-msgstr ""
+msgstr "Exportera skelettprofil som…"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Set Bone Parentage"
-msgstr ""
+msgstr "Ställ in ben-föräldraskap"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Skeleton3D"
-msgstr ""
+msgstr "Skeleton3D"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Reset All Bone Poses"
-msgstr ""
+msgstr "Återställ alla benposer"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Reset Selected Poses"
-msgstr ""
+msgstr "Återställ markerade benposer"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
+#, fuzzy
 msgid "Apply All Poses to Rests"
-msgstr ""
+msgstr "Tillämpa alla poser till vilor"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Apply Selected Poses to Rests"
-msgstr ""
+msgstr "Tillämpa markerade poser till vilor"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Create Physical Skeleton"
-msgstr ""
+msgstr "Skapa fysiska ben"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Export Skeleton Profile"
-msgstr ""
+msgstr "Exportera skelettprofil"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid ""
 "Edit Mode\n"
 "Show buttons on joints."
 msgstr ""
+"Redigeringsläge\n"
+"Visa knappar på ben."
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Insert key (based on mask) for bones with an existing track."
-msgstr ""
+msgstr "Infoga nyckel (baserat på mask) för ben med befintliga spår."
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Insert key (based on mask) for all bones."
-msgstr ""
+msgstr "Infoga nyckel (baserat på mask) för alla ben."
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Insert Key (All Bones)"
-msgstr ""
+msgstr "Infoga nyckel (alla ben)"
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Bone Transform"
-msgstr ""
+msgstr "Ben-transform"
 
 #: editor/plugins/skeleton_ik_3d_editor_plugin.cpp
 msgid "Play IK"
-msgstr ""
+msgstr "Spela IK"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Create MeshInstance2D"
-msgstr ""
+msgstr "Skapa MeshInstance2D"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "MeshInstance2D Preview"
-msgstr ""
+msgstr "MeshInstance2D-förhandsvisning"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Create Polygon2D"
-msgstr ""
+msgstr "Skapa Polygon2D"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Polygon2D Preview"
-msgstr ""
+msgstr "Polygon2D-förhandsvisning"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Create CollisionPolygon2D"
-msgstr ""
+msgstr "Skapa CollisionPolygon2D"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "CollisionPolygon2D Preview"
-msgstr ""
+msgstr "CollisionPolygon2D-förhandsvisning"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Create LightOccluder2D"
-msgstr ""
+msgstr "Skapa LightOccluder2D"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "LightOccluder2D Preview"
-msgstr ""
+msgstr "LightOccluder2D-förhandsvisning"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Can't convert a sprite from a foreign scene."
-msgstr ""
+msgstr "Kan inte konvertera en sprite från en främmande scen."
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Can't convert an empty sprite to mesh."
-msgstr ""
+msgstr "Kan inte konvertera en tom sprite till en mesh."
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Invalid geometry, can't replace by mesh."
-msgstr ""
+msgstr "Felaktig geometri, kan inte ersättas av mesh."
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Convert to MeshInstance2D"
-msgstr ""
+msgstr "Konvertera till MeshInstance2D"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Invalid geometry, can't create polygon."
-msgstr ""
+msgstr "Felaktig geometri, kan inte skapa polygon."
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Convert to Polygon2D"
-msgstr ""
+msgstr "Konvertera till Polygon2D"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Invalid geometry, can't create collision polygon."
-msgstr ""
+msgstr "Felaktig geometri, kan inte skapa kollisionspolygon."
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Create CollisionPolygon2D Sibling"
-msgstr ""
+msgstr "Skapa CollisionPolygon2D-syskon"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Invalid geometry, can't create light occluder."
-msgstr ""
+msgstr "Felaktig geometri, kan inte skapa ljusockluderare."
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Create LightOccluder2D Sibling"
-msgstr ""
+msgstr "Skapa LightOccluder2D-syskon"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Sprite2D"
-msgstr ""
+msgstr "Sprite2D"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Simplification:"
-msgstr ""
+msgstr "Förenkling:"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Shrink (Pixels):"
-msgstr ""
+msgstr "Krymp (pixlar):"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Grow (Pixels):"
-msgstr ""
+msgstr "Väx (pixlar):"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 msgid "Update Preview"
-msgstr ""
+msgstr "Uppdatera förhandsvisning"
 
 #: editor/plugins/sprite_2d_editor_plugin.cpp
 #: editor/plugins/tiles/atlas_merging_dialog.cpp
 msgid "Settings:"
-msgstr ""
+msgstr "Inställningar:"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "No Frames Selected"
-msgstr ""
+msgstr "Inga bildrutor markerade"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Add %d Frame(s)"
-msgstr ""
+msgstr "Lägg till %d bildrutor"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Add Frame"
-msgstr ""
+msgstr "Lägg till bildruta"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Unable to load images"
-msgstr ""
+msgstr "Kunde inte läsa in bilder"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "ERROR: Couldn't load frame resource!"
-msgstr ""
+msgstr "Fel: Kunde inte läsa in bildrute-resurs!"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Paste Frame(s)"
-msgstr ""
+msgstr "Klistra in bildrutor"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Paste Texture"
-msgstr ""
+msgstr "Klistra in textur"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Add Empty"
-msgstr ""
+msgstr "Lägg till tom"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Move Frame"
-msgstr ""
+msgstr "Förflytta bildruta"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Delete Animation?"
-msgstr ""
+msgstr "Radera animation?"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Change Animation FPS"
-msgstr ""
+msgstr "Ändra animationens bildfrekvens"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Set Frame Duration"
-msgstr ""
+msgstr "Ställ in bildrute-tid"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "(empty)"
-msgstr ""
+msgstr "(tom)"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Animations:"
-msgstr ""
+msgstr "Animationer:"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Animation Speed"
-msgstr ""
+msgstr "Animationshastighet"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Filter Animations"
-msgstr ""
+msgstr "Filtrera animationer"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Delete Animation"
-msgstr ""
+msgstr "Radera animationer"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "This resource does not have any animations."
-msgstr ""
+msgstr "Resursen har inga animationer."
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Animation Frames:"
-msgstr ""
+msgstr "Animationsbildrutor:"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Frame Duration:"
-msgstr ""
+msgstr "Bildrute-tid:"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 #: editor/plugins/texture_region_editor_plugin.cpp
 msgid "Zoom Reset"
-msgstr ""
+msgstr "Återställ zoom"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Add frame from file"
-msgstr ""
+msgstr "Lägg till bildruta från fil"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Add frames from sprite sheet"
-msgstr ""
+msgstr "Lägg till bildrutor från spritesheet"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Delete Frame"
-msgstr ""
+msgstr "Radera bildruta"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Copy Frame(s)"
-msgstr ""
+msgstr "Kopiera bildrutor"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Insert Empty (Before Selected)"
-msgstr ""
+msgstr "Infoga tom (innan markerad)"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Insert Empty (After Selected)"
-msgstr ""
+msgstr "Infoga tom (efter markerad)"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Move Frame Left"
-msgstr ""
+msgstr "Flytta bildruta åt vänster"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Move Frame Right"
-msgstr ""
+msgstr "Flytta bildruta åt höger"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Select Frames"
-msgstr ""
+msgstr "Markera bildrutor"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Frame Order"
-msgstr ""
+msgstr "Bildrute-ordning"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "As Selected"
-msgstr ""
+msgstr "Som markerade"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "By Row"
-msgstr ""
+msgstr "Efter rad"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Left to Right, Top to Bottom"
-msgstr ""
+msgstr "Från vänster, uppifrån och ned"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Left to Right, Bottom to Top"
-msgstr ""
+msgstr "Från vänster, nedifrån och upp"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Right to Left, Top to Bottom"
-msgstr ""
+msgstr "Från höger, uppifrån och ned"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Right to Left, Bottom to Top"
-msgstr ""
+msgstr "Från höger, nedifrån och upp"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "By Column"
-msgstr ""
+msgstr "Efter kolumn"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Top to Bottom, Left to Right"
-msgstr ""
+msgstr "Uppifrån och ned, från vänster"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Top to Bottom, Right to Left"
-msgstr ""
+msgstr "Uppifrån och ned, från höger"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Bottom to Top, Left to Right"
-msgstr ""
+msgstr "Nedifrån och upp, från vänster"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Bottom to Top, Right to Left"
-msgstr ""
+msgstr "Nedifrån och upp, från höger"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Select None"
-msgstr ""
+msgstr "Välj inga"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Toggle Settings Panel"
-msgstr ""
+msgstr "Inställningspanel på/av"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Horizontal"
-msgstr ""
+msgstr "Vågrät"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Vertical"
-msgstr ""
+msgstr "Lodrät"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 #: modules/multiplayer/editor/editor_network_profiler.cpp
 msgid "Size"
-msgstr ""
+msgstr "Storlek"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Separation"
-msgstr ""
+msgstr "Separering"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Offset"
-msgstr ""
+msgstr "Förskjutning"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Create Frames from Sprite Sheet"
-msgstr ""
+msgstr "Skapa bildrutor från spritesheet"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
+#, fuzzy
 msgid "SpriteFrames"
-msgstr ""
+msgstr "SpriteFrames"
 
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "Toggle SpriteFrames Bottom Panel"
-msgstr ""
+msgstr "Nedre SpriteFrames-panel på/av"
 
 #: editor/plugins/text_shader_editor.cpp
 msgid "Warnings should be fixed to prevent errors."
-msgstr ""
+msgstr "Varningar bör åtgärdas för att undvika fel."
 
 #: editor/plugins/text_shader_editor.cpp
 msgid ""
 "This shader has been modified on disk.\n"
 "What action should be taken?"
 msgstr ""
+"Den här shadern har modifierats på disk.\n"
+"Vilken åtgärd ska tas?"
 
 #: editor/plugins/text_shader_editor.cpp
 msgid "Reload"
-msgstr ""
+msgstr "Läs in på nytt"
 
 #: editor/plugins/text_shader_editor.cpp
 msgid "Resave"
-msgstr ""
+msgstr "Spara på nytt"
 
 #: editor/plugins/texture_editor_plugin.cpp
 msgid "%s Mipmaps"
-msgstr ""
+msgstr "%s mipmaps"
 
 #: editor/plugins/texture_editor_plugin.cpp
 msgid "Memory: %s"
-msgstr ""
+msgstr "Minne: %s"
 
 #: editor/plugins/texture_editor_plugin.cpp
 msgid "No Mipmaps"
-msgstr ""
+msgstr "Inga mipmaps"
 
 #: editor/plugins/texture_region_editor_plugin.cpp
 msgid "Set Region Rect"
-msgstr ""
+msgstr "Ställ in region-rektangel"
 
 #: editor/plugins/texture_region_editor_plugin.cpp
 msgid "Set Margin"
-msgstr ""
+msgstr "Ställ in marginal"
 
 #: editor/plugins/texture_region_editor_plugin.cpp
 msgid "Region Editor"
-msgstr ""
+msgstr "Region-redigerare"
 
 #: editor/plugins/texture_region_editor_plugin.cpp
 msgid "Snap Mode:"
-msgstr ""
+msgstr "Snäppläge:"
 
 #: editor/plugins/texture_region_editor_plugin.cpp
 msgid "Pixel Snap"
-msgstr ""
+msgstr "Pixelsnäpp"
 
 #: editor/plugins/texture_region_editor_plugin.cpp
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Grid Snap"
-msgstr ""
+msgstr "Rutsnäpp"
 
 #: editor/plugins/texture_region_editor_plugin.cpp
+#, fuzzy
 msgid "Auto Slice"
-msgstr ""
+msgstr "Autodela"
 
 #: editor/plugins/texture_region_editor_plugin.cpp
 msgid "Step:"
-msgstr ""
+msgstr "Steg:"
 
 #: editor/plugins/texture_region_editor_plugin.cpp
 msgid "Separation:"
-msgstr ""
+msgstr "Separering:"
 
 #: editor/plugins/texture_region_editor_plugin.cpp
 msgid "Edit Region"
-msgstr ""
+msgstr "Redigera region"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Styleboxes"
-msgstr ""
+msgstr "Styleboxar"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "1 color"
 msgid_plural "{num} colors"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 färg"
+msgstr[1] "{num} färger"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "No colors found."
-msgstr ""
+msgstr "Inga färger hittades."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "1 constant"
 msgid_plural "{num} constants"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 konstant"
+msgstr[1] "{num} konstanter"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "No constants found."
-msgstr ""
+msgstr "Inga konstanter hittades."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "1 font"
 msgid_plural "{num} fonts"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 font"
+msgstr[1] "{num} typsnitt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "No fonts found."
-msgstr ""
+msgstr "Inga typsnitt hittades."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "1 font size"
 msgid_plural "{num} font sizes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 teckenstorlek"
+msgstr[1] "{num} teckenstorlek"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "No font sizes found."
-msgstr ""
+msgstr "Inga teckenstorlekar hittades."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "1 icon"
 msgid_plural "{num} icons"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 icon"
+msgstr[1] "{num} ikoner"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "No icons found."
-msgstr ""
+msgstr "Inga ikoner hittades."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "1 stylebox"
 msgid_plural "{num} styleboxes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 stylebox"
+msgstr[1] "{num} styleboxar"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "No styleboxes found."
-msgstr ""
+msgstr "Inga styleboxar hittades."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "{num} currently selected"
 msgid_plural "{num} currently selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 markerad"
+msgstr[1] "{num} markerade"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Nothing was selected for the import."
-msgstr ""
+msgstr "Ingenting markerades för importen."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Importing Theme Items"
-msgstr ""
+msgstr "Importerar temaobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Importing items {n}/{n}"
-msgstr ""
+msgstr "Importerar objekt {n}/{n}"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Updating the editor"
-msgstr ""
+msgstr "Uppdaterar redigeraren"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Finalizing"
-msgstr ""
+msgstr "Slutför"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Import Theme Items"
-msgstr ""
+msgstr "Importera temaobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Filter Items"
-msgstr ""
+msgstr "Filtrera objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "With Data"
-msgstr ""
+msgstr "Med data"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select by data type:"
-msgstr ""
+msgstr "Markera enligt datatyp:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible color items."
-msgstr ""
+msgstr "Markera alla synliga färgobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible color items and their data."
-msgstr ""
+msgstr "Markera alla synliga färgobjekt och deras data."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Deselect all visible color items."
-msgstr ""
+msgstr "Avmarkera alla synliga färgobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible constant items."
-msgstr ""
+msgstr "Markera alla synliga konstantobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible constant items and their data."
-msgstr ""
+msgstr "Markera alla synliga konstantobjekt och deras data."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Deselect all visible constant items."
-msgstr ""
+msgstr "Avmarkera alla synliga konstantobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible font items."
-msgstr ""
+msgstr "Markera alla synliga typsnittsobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible font items and their data."
-msgstr ""
+msgstr "Markera alla synliga typsnittsobjekt och deras data."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Deselect all visible font items."
-msgstr ""
+msgstr "Avmarkera alla synliga typsnittsobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Font sizes"
-msgstr ""
+msgstr "Teckenstorlekar"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible font size items."
-msgstr ""
+msgstr "Markera alla synliga teckenstorleksobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible font size items and their data."
-msgstr ""
+msgstr "Markera alla synliga teckenstorleksobjekt och deras data."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Deselect all visible font size items."
-msgstr ""
+msgstr "Avmarkera alla synliga teckenstorleksobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible icon items."
-msgstr ""
+msgstr "Markera alla synliga ikonobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible icon items and their data."
-msgstr ""
+msgstr "Markera alla synliga ikonobjekt och deras data."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Deselect all visible icon items."
-msgstr ""
+msgstr "Avmarkera alla synliga ikonobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible stylebox items."
-msgstr ""
+msgstr "Markera alla synliga stylebox-objekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all visible stylebox items and their data."
-msgstr ""
+msgstr "Markera alla synliga stylebox-objekt och deras data."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Deselect all visible stylebox items."
-msgstr ""
+msgstr "Avmarkera alla synliga stylebox-objekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid ""
 "Caution: Adding icon data may considerably increase the size of your Theme "
 "resource."
 msgstr ""
+"Varning: Att lägga till ikondata kan avsevärt höja storleken på din tema-"
+"resurs."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Collapse types."
-msgstr ""
+msgstr "Fäll ihop typer."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Expand types."
-msgstr ""
+msgstr "Fäll ut typer."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all Theme items."
-msgstr ""
+msgstr "Markera alla temaobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select With Data"
-msgstr ""
+msgstr "Markera med data"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select all Theme items with item data."
-msgstr ""
+msgstr "Markera alla temaobjekt med objektdata."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Deselect All"
-msgstr ""
+msgstr "Avmarkera alla"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Deselect all Theme items."
-msgstr ""
+msgstr "Avmarkera alla temaobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Import Selected"
-msgstr ""
+msgstr "Importera markerade"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid ""
@@ -14789,508 +14834,523 @@ msgid ""
 "closing this window.\n"
 "Close anyway?"
 msgstr ""
+"Importera objekt-fliken har några markerade objekt. Markeringen kommer att "
+"förkastas när det här fönstret stängs.\n"
+"Stäng ändå?"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove Type"
-msgstr ""
+msgstr "Ta bort typ"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid ""
 "Select a theme type from the list to edit its items.\n"
 "You can add a custom type or import a type with its items from another theme."
 msgstr ""
+"Välj en tematyp från listan för att redigera dess objekt.\n"
+"Du kan lägga till en anpassad typ eller importera en typ och dess objekt "
+"från ett annat tema."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove All Color Items"
-msgstr ""
+msgstr "Ta bort alla färgobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Rename Item"
-msgstr ""
+msgstr "Byt namn på objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove All Constant Items"
-msgstr ""
+msgstr "Ta bort alla konstantobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove All Font Items"
-msgstr ""
+msgstr "Ta bort alla typsnittsobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove All Font Size Items"
-msgstr ""
+msgstr "Ta bort alla teckenstorleksobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove All Icon Items"
-msgstr ""
+msgstr "Ta bort alla ikonobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove All StyleBox Items"
-msgstr ""
+msgstr "Ta bort alla stylebox-objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid ""
 "This theme type is empty.\n"
 "Add more items to it manually or by importing from another theme."
 msgstr ""
+"Den här tematypen är tom.\n"
+"Lägg till objekt manuellt eller genom att importera dem från ett annat tema."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove Theme Item"
-msgstr ""
+msgstr "Ta bort temaobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Theme Type"
-msgstr ""
+msgstr "Lägg till tematyp"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Create Theme Item"
-msgstr ""
+msgstr "Skapa temaobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove Theme Type"
-msgstr ""
+msgstr "Ta bort tematyp"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove Data Type Items From Theme"
-msgstr ""
+msgstr "Ta bort datatypobjekt från tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove Class Items From Theme"
-msgstr ""
+msgstr "Ta bort klassobjekt från tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove Custom Items From Theme"
-msgstr ""
+msgstr "Ta bort anpassade objekt från tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove All Items From Theme"
-msgstr ""
+msgstr "Ta bort alla objekt från tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Color Item"
-msgstr ""
+msgstr "Lägg till färgobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Constant Item"
-msgstr ""
+msgstr "Lägg till konstantobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Font Item"
-msgstr ""
+msgstr "Lägg till typsnittsobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Font Size Item"
-msgstr ""
+msgstr "Lägg till teckenstorleksobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Icon Item"
-msgstr ""
+msgstr "Lägg till ikonobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Stylebox Item"
-msgstr ""
+msgstr "Lägg till stylebox-objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Rename Color Item"
-msgstr ""
+msgstr "Byt namn på färgobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Rename Constant Item"
-msgstr ""
+msgstr "Byt namn på konstantobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Rename Font Item"
-msgstr ""
+msgstr "Byt namn på typsnittsobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Rename Font Size Item"
-msgstr ""
+msgstr "Byt namn på teckenstorleksobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Rename Icon Item"
-msgstr ""
+msgstr "Byt namn på ikonobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Rename Stylebox Item"
-msgstr ""
+msgstr "Byt namn på stylebox-objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Rename Theme Item"
-msgstr ""
+msgstr "Byt namn på temaobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Invalid file, not a Theme resource."
-msgstr ""
+msgstr "Ogiltig fil, inte en tema-resurs."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Invalid file, same as the edited Theme resource."
-msgstr ""
+msgstr "Ogiltig fil, samma som temaresursen som redigeras"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Manage Theme Items"
-msgstr ""
+msgstr "Hantera temaobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Edit Items"
-msgstr ""
+msgstr "Redigera objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Types:"
-msgstr ""
+msgstr "Typer:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Type:"
-msgstr ""
+msgstr "Lägg till typ:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Item:"
-msgstr ""
+msgstr "Lägg till objekt:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add StyleBox Item"
-msgstr ""
+msgstr "Lägg till stylebox-objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove Items:"
-msgstr ""
+msgstr "Ta bort objekt:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove Class Items"
-msgstr ""
+msgstr "Ta bort klassobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove Custom Items"
-msgstr ""
+msgstr "Ta bort anpassade objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Remove All Items"
-msgstr ""
+msgstr "Ta bort alla objetk"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Theme Item"
-msgstr ""
+msgstr "Lägg till temaobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Old Name:"
-msgstr ""
+msgstr "Gammalt namn:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Import Items"
-msgstr ""
+msgstr "Importera objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Default Theme"
-msgstr ""
+msgstr "Standardtema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Editor Theme"
-msgstr ""
+msgstr "Redigerartema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select Another Theme Resource:"
-msgstr ""
+msgstr "Välj en annan temaresurs:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Theme Resource"
-msgstr ""
+msgstr "Temaresurs"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Another Theme"
-msgstr ""
+msgstr "Ett annat tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Filter the list of types or create a new custom type:"
-msgstr ""
+msgstr "Filtrera listan över typer eller skapa en ny anpassad typ:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Available Node-based types:"
-msgstr ""
+msgstr "Tillgängliga nodbaserade typer:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Type name is empty!"
-msgstr ""
+msgstr "Typens namn är tomt!"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Are you sure you want to create an empty type?"
-msgstr ""
+msgstr "Vill du verkligen skapa en tom typ?"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Confirm Item Rename"
-msgstr ""
+msgstr "Bekräfta namnändring av objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Cancel Item Rename"
-msgstr ""
+msgstr "Avbryt namnändring av objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Override Item"
-msgstr ""
+msgstr "Skriv över objekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Unpin this StyleBox as a main style."
-msgstr ""
+msgstr "Släpp den här styleboxen som e huvudstil."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid ""
 "Pin this StyleBox as a main style. Editing its properties will update the "
 "same properties in all other StyleBoxes of this type."
 msgstr ""
+"Fäst den här styleboxen som en huvudstil. Om du ändrar dess egenskaper "
+"kommer alla andra styleboxar av samma typ också att ändras."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Item Type"
-msgstr ""
+msgstr "Lägg till objekttyp"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Type"
-msgstr ""
+msgstr "Lägg till typ"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Override All Default Theme Items"
-msgstr ""
+msgstr "Skriv över alla standard-temaobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Override Theme Item"
-msgstr ""
+msgstr "Skriv över temaobjekt"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Set Color Item in Theme"
-msgstr ""
+msgstr "Ställ in färgobjekt i tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Set Constant Item in Theme"
-msgstr ""
+msgstr "Ställ in konstantobjekt i tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Set Font Size Item in Theme"
-msgstr ""
+msgstr "Ställ in teckenstorlekobjekt i tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Set Font Item in Theme"
-msgstr ""
+msgstr "Ställ in typsnittsobjekt i tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Set Icon Item in Theme"
-msgstr ""
+msgstr "Ställ in ikonobjekt i tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Set Stylebox Item in Theme"
-msgstr ""
+msgstr "Ställ in stylebox-objekt i tema"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Pin Stylebox"
-msgstr ""
+msgstr "Fäst stylebox"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Unpin Stylebox"
-msgstr ""
+msgstr "Släpp stylebox"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Set Theme Type Variation"
-msgstr ""
+msgstr "Ställ in tematypvariant"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Set Variation Base Type"
-msgstr ""
+msgstr "Ställ in variantens grundtyp"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Set Base Type"
-msgstr ""
+msgstr "Ställ in grundtyp"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add a type from a list of available types or create a new one."
-msgstr ""
+msgstr "Lägg killen typ från listan med tillgängliga typer eller skapa en ny."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Show Default"
-msgstr ""
+msgstr "Visa standard"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Show default type items alongside items that have been overridden."
-msgstr ""
+msgstr "Visa standard-typobjekt bredvid objekt som har skrivits över."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Override All"
-msgstr ""
+msgstr "Skriv över alla"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Override all default type items."
-msgstr ""
+msgstr "Skriv över alla standard-typobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Base Type"
-msgstr ""
+msgstr "Grundtyp"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select the variation base type from a list of available types."
-msgstr ""
+msgstr "Välj grundtypsvariant ur en lista med tillgängliga typer."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid ""
 "A type associated with a built-in class cannot be marked as a variation of "
 "another type."
 msgstr ""
+"En typ som associerats med en inbyggd klass kan inte märkas som en variant "
+"av en annan typ."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Theme:"
-msgstr ""
+msgstr "Tema:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Manage Items..."
-msgstr ""
+msgstr "Hantera objekt..."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add, remove, organize and import Theme items."
-msgstr ""
+msgstr "Lägg till, ta bort, organisera och importera temaobjekt."
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Add Preview"
-msgstr ""
+msgstr "Lägg till förhandsvisning"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Default Preview"
-msgstr ""
+msgstr "Standard-förhandsvisning"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Select UI Scene:"
-msgstr ""
+msgstr "Välj UI-scen:"
 
 #: editor/plugins/theme_editor_plugin.cpp
 msgid "Toggle Theme Bottom Panel"
-msgstr ""
+msgstr "Nedre tema-panel på/av"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid ""
 "Toggle the control picker, allowing to visually select control types for "
 "edit."
 msgstr ""
+"Växla kontrollväljaren för att visuellt kunna välja kontrolltyper att "
+"redigera."
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Toggle Button"
-msgstr ""
+msgstr "Toggleknapp"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Disabled Button"
-msgstr ""
+msgstr "Avaktiverad knapp"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Item"
-msgstr ""
+msgstr "Objekt"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Disabled Item"
-msgstr ""
+msgstr "Avaktiverat objekt"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Check Item"
-msgstr ""
+msgstr "Kryssobjekt"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Checked Item"
-msgstr ""
+msgstr "Kryssat objekt"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Radio Item"
-msgstr ""
+msgstr "Radioobjekt"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Checked Radio Item"
-msgstr ""
+msgstr "Valt radioobjekt"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Named Separator"
-msgstr ""
+msgstr "Namngiven delare"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Submenu"
-msgstr ""
+msgstr "Undermeny"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Subitem 1"
-msgstr ""
+msgstr "Underobjekt 1"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Subitem 2"
-msgstr ""
+msgstr "Underobjekt 2"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Has"
-msgstr ""
+msgstr "Har"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Many"
-msgstr ""
+msgstr "Många"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Disabled LineEdit"
-msgstr ""
+msgstr "Avaktiverad LineEdit"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Tab 1"
-msgstr ""
+msgstr "Flik 1"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Tab 2"
-msgstr ""
+msgstr "Flik 2"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Tab 3"
-msgstr ""
+msgstr "Flik 3"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Editable Item"
-msgstr ""
+msgstr "Redigerbart objekt"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Subtree"
-msgstr ""
+msgstr "Underträd"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Has,Many,Options"
-msgstr ""
+msgstr "Har,Många,Alternativ"
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Invalid path, the PackedScene resource was probably moved or removed."
 msgstr ""
+"Ogiltig sökväg, PackedScene-resursen kan ha flyttats eller tagits bort."
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Invalid PackedScene resource, must have a Control node at its root."
-msgstr ""
+msgstr "Ogiltig PackedScene-resurs, måste ha en kontrollnod som rot."
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Invalid file, not a PackedScene resource."
-msgstr ""
+msgstr "Ogiltig fil, inte en PackedScene-resurs."
 
 #: editor/plugins/theme_editor_preview.cpp
 msgid "Reload the scene to reflect its most actual state."
-msgstr ""
+msgstr "Läs in scenen på nytt för att återspegla dess senaste tillstånd"
 
 #: editor/plugins/tiles/atlas_merging_dialog.cpp
 msgid "Merge TileSetAtlasSource"
-msgstr ""
+msgstr "Slå ihop TileSetAtlasSource"
 
 #: editor/plugins/tiles/atlas_merging_dialog.cpp
 msgid "%s (ID: %d)"
-msgstr ""
+msgstr "%s (ID: %d)"
 
 #: editor/plugins/tiles/atlas_merging_dialog.cpp
 msgid "Atlas Merging"
-msgstr ""
+msgstr "Slå ihop Atlasar"
 
 #: editor/plugins/tiles/atlas_merging_dialog.cpp
 msgid "Merge (Keep original Atlases)"
-msgstr ""
+msgstr "Slå ihop (behåll originalatlasar)"
 
 #: editor/plugins/tiles/atlas_merging_dialog.cpp
 msgid "Merge"
-msgstr ""
+msgstr "Slå ihop"
 
 #: editor/plugins/tiles/atlas_merging_dialog.cpp
 msgid "Next Line After Column"
-msgstr ""
+msgstr "Nästa rad efter kolumn"
 
 #: editor/plugins/tiles/atlas_merging_dialog.cpp
 msgid "Please select two atlases or more."
-msgstr ""
+msgstr "Välj två eller fler atlasar."
 
 #: editor/plugins/tiles/tile_atlas_view.cpp
 msgid ""
@@ -15298,6 +15358,9 @@ msgid ""
 "Atlas coordinates: %s\n"
 "Alternative: 0"
 msgstr ""
+"Källa: %d\n"
+"Atlaskoordinater: %s\n"
+"Alternativ: 0"
 
 #: editor/plugins/tiles/tile_atlas_view.cpp
 msgid ""
@@ -15305,481 +15368,505 @@ msgid ""
 "Atlas coordinates: %s\n"
 "Alternative: %d"
 msgstr ""
+"Källa: %d\n"
+"Atlaskoordinater: %s\n"
+"Alternativ: %d"
 
 #: editor/plugins/tiles/tile_atlas_view.cpp
 msgid ""
 "The selected atlas source has no valid texture. Assign a texture in the "
 "TileSet bottom tab."
 msgstr ""
+"Den valda atlasresurs-källan har ingen giltig textur. Tilldela en textur i "
+"den nedre TileSet-fliken."
 
 #: editor/plugins/tiles/tile_atlas_view.cpp
 msgid "Base Tiles"
-msgstr ""
+msgstr "Grundbrickor"
 
 #: editor/plugins/tiles/tile_atlas_view.cpp
 msgid "Alternative Tiles"
-msgstr ""
+msgstr "Alternativa brickor"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Reset Polygons"
-msgstr ""
+msgstr "Återställ polygoner"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Clear Polygons"
-msgstr ""
+msgstr "Rensapolygoner"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Rotate Polygons Right"
-msgstr ""
+msgstr "Rotera polygoner åt höger"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Rotate Polygons Left"
-msgstr ""
+msgstr "Rotera polygoner åt vänster"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Flip Polygons Horizontally"
-msgstr ""
+msgstr "Spegla polygoner vågrätt"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Flip Polygons Vertically"
-msgstr ""
+msgstr "Spegla polygoner lodrätt"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Edit Polygons"
-msgstr ""
+msgstr "Redigera polygoner"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Expand editor"
-msgstr ""
+msgstr "Expandera redigerare"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Add polygon tool"
-msgstr ""
+msgstr "Lägg till polygoner-verktyg"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Edit points tool"
-msgstr ""
+msgstr "Redigera punkter-verktyg"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Delete points tool"
-msgstr ""
+msgstr "Radera punkter-verktyg"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Reset to default tile shape"
-msgstr ""
+msgstr "Återställ till standard-brickform"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Rotate Right"
-msgstr ""
+msgstr "Rotera vänster"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Rotate Left"
-msgstr ""
+msgstr "Rotera höger"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Flip Horizontally"
-msgstr ""
+msgstr "Spegla vågrätt"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Flip Vertically"
-msgstr ""
+msgstr "Spegla lodrätt"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Disable Snap"
-msgstr ""
+msgstr "Stäng av snäpp"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Half-Pixel Snap"
-msgstr ""
+msgstr "Halvpixel-snäpp"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
+#, fuzzy
 msgid "Painting Tiles Property"
-msgstr ""
+msgstr "Målar brick-egenskap"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Painting:"
-msgstr ""
+msgstr "Mplar."
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "No terrains"
-msgstr ""
+msgstr "Inga terränger"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "No terrain"
-msgstr ""
+msgstr "Ingen terräng"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Painting Terrain Set"
-msgstr ""
+msgstr "Målar terrängsätt"
 
 #: editor/plugins/tiles/tile_data_editors.cpp
 msgid "Painting Terrain"
-msgstr ""
+msgstr "Målar terräng"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Can't transform scene tiles."
-msgstr ""
+msgstr "Kan inte transformera scenbrickor"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Can't rotate patterns when using non-square tile grid."
-msgstr ""
+msgstr "Kan inte rotera mönster med ett icke-kvadratiskt rutnät."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "No Texture Atlas Source (ID: %d)"
-msgstr ""
+msgstr "Ingen texturaötlaskälla (ID: %d)"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Scene Collection Source (ID: %d)"
-msgstr ""
+msgstr "Scensamlingskälla (ID: %d)"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Empty Scene Collection Source (ID: %d)"
-msgstr ""
+msgstr "Tom scensamlingskälla (ID: %d)"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Unknown Type Source (ID: %d)"
-msgstr ""
+msgstr "Okänd typ-källa (ID: %d)"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Add TileSet pattern"
-msgstr ""
+msgstr "Lägg till TileSet-mönster"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Remove TileSet patterns"
-msgstr ""
+msgstr "Ta bort TileSet-mönster"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Index: %d"
-msgstr ""
+msgstr "Index: %d"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
 msgid "Tile with Invalid Scene"
-msgstr ""
+msgstr "Bricka med ogiltig scen"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid ""
 "The selected scene collection source has no scenes. Add scenes in the "
 "TileSet bottom tab."
 msgstr ""
+"Den valda scensamlingskällan har inga scener. Lägg till scener i den nedre "
+"TileSet-fliken."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Delete tiles"
-msgstr ""
+msgstr "Radera brickor"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Drawing Rect:"
-msgstr ""
+msgstr "Ritar rektangel:"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Change selection"
-msgstr ""
+msgstr "Ändra markering"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Move tiles"
-msgstr ""
+msgstr "Förflytta brickor"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Paint tiles"
-msgstr ""
+msgstr "Måla brickor"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Paste tiles"
-msgstr ""
+msgstr "Klistra in brickor"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Selection"
-msgstr ""
+msgstr "Markering"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Shift: Draw line."
-msgstr ""
+msgstr "Skift: Rita linje."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Shift: Draw rectangle."
-msgstr ""
+msgstr "Skift: Rita rektangel."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Alternatively hold %s with other tools to pick tile."
-msgstr ""
+msgstr "Alternativt, håll %s med andra verktyg för att välja bricka"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Alternatively use RMB to erase tiles."
-msgstr ""
+msgstr "Alternativt, använd HMK för att sudda brickor"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Rotate Tile Left"
-msgstr ""
+msgstr "Vrid bricka till vänster"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Rotate Tile Right"
-msgstr ""
+msgstr "Vrid bricka till höger"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Flip Tile Horizontally"
-msgstr ""
+msgstr "Spegla bricka vågrätt"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Flip Tile Vertically"
-msgstr ""
+msgstr "Spegla bricka lodrätt"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Contiguous"
-msgstr ""
+msgstr "Angränsande"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Place Random Tile"
-msgstr ""
+msgstr "Lägg slumpad bricka"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid ""
 "Modifies the chance of painting nothing instead of a randomly selected tile."
 msgstr ""
+"Ändrar sannolikheten att inte lägga någonting istället för en slumpad bricka."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Scattering:"
-msgstr ""
+msgstr "Spridning:"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Tiles"
-msgstr ""
+msgstr "Brickor"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid ""
 "This TileMap's TileSet has no source configured. Go to the TileSet bottom "
 "panel to add one."
 msgstr ""
+"Den här TileMap:ens TileSet har ingen angiven källa. Gå till den nedere "
+"TileSet-panelen för att lägga till en."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Sort sources"
-msgstr ""
+msgstr "Sortera källor"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Sort by ID (Ascending)"
-msgstr ""
+msgstr "Sortera efter ID (stigande)"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Sort by ID (Descending)"
-msgstr ""
+msgstr "Sortera efter ID (fallande)"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Invalid source selected."
-msgstr ""
+msgstr "Ogiltig källa vald."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Patterns"
-msgstr ""
+msgstr "Mönster"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Drag and drop or paste a TileMap selection here to store a pattern."
 msgstr ""
+"Dra & släpp eller klistra in en TileMap-markering här för att lagra ett "
+"mönster."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Paint terrain"
-msgstr ""
+msgstr "Måla terräng"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Matches Corners and Sides"
-msgstr ""
+msgstr "Matchar hörn och kanter"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Matches Corners Only"
-msgstr ""
+msgstr "Matchar bara hörn"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Matches Sides Only"
-msgstr ""
+msgstr "Matchar bara kanter"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Terrain Set %d (%s)"
-msgstr ""
+msgstr "Terrängsätt %d (%s)"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid ""
 "Connect mode: paints a terrain, then connects it with the surrounding tiles "
 "with the same terrain."
 msgstr ""
+"Kopplingsläge: Målar en terrängtyp och kopplar sedan ihop den med "
+"omkringliggande brickor av samma terrängtyp."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
+#, fuzzy
 msgid ""
 "Path mode: paints a terrain, then connects it to the previous tile painted "
 "within the same stroke."
 msgstr ""
+"Stigläge: Målar en terrängtyp och kopplar sedan ihop den med den senast "
+"målade brickan i samma penseldrag."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Terrains"
-msgstr ""
+msgstr "Terränger"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "No Layers"
-msgstr ""
+msgstr "Inga lager"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
+#, fuzzy
 msgid "Replace Tiles with Proxies"
-msgstr ""
+msgstr "Ersätt brickor med platshållare"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Extract TileMap layers as individual TileMapLayer nodes"
-msgstr ""
+msgstr "Extrahera TileMap-lager som individuella TileMapLayer-noder"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Can't edit multiple layers at once."
-msgstr ""
+msgstr "Kan inte redigera flera lager samtidigt."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "The selected TileMap has no layer to edit."
-msgstr ""
+msgstr "Den markerade TileMap:en har inget lager att redigera."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "The edited layer is disabled or invisible"
-msgstr ""
+msgstr "Det redigera lagret är avstängt eller osynligt"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid ""
 "The edited TileMap or TileMapLayer node has no TileSet resource.\n"
 "Create or load a TileSet resource in the Tile Set property in the inspector."
 msgstr ""
+"Den redigerade TileMap- eller TileMapLayer-noden har ingen TileSet-resurs.\n"
+"Skapa eller läs in en TileSet-resurs i Brick-sätt-egenskapen i Granskaren."
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Select Next Tile Map Layer"
-msgstr ""
+msgstr "Välj nästa TileMap-lager"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Select Previous Tile Map Layer"
-msgstr ""
+msgstr "Välj föregående TileMap-lager"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "TileMap Layers"
-msgstr ""
+msgstr "TileMap-lager"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Select previous layer"
-msgstr ""
+msgstr "Välj föregående lager"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Select next layer"
-msgstr ""
+msgstr "Välj nästa lager"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Select all layers"
-msgstr ""
+msgstr "Välj alla lager"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Select all TileMapLayers in scene"
-msgstr ""
+msgstr "Välj alla TileMapLayer:s i den här scenen"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Highlight Selected TileMap Layer"
-msgstr ""
+msgstr "Markera valt TileMap-lager"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Toggle grid visibility."
-msgstr ""
+msgstr "Växla rutnäts-synlighet"
 
 #: editor/plugins/tiles/tile_map_layer_editor.cpp
 msgid "Automatically Replace Tiles with Proxies"
-msgstr ""
+msgstr "Ersätt automatiskt brickor med platshållare"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "Remove Tile Proxies"
-msgstr ""
+msgstr "Ta bort brick-platshållare"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
+#, fuzzy
 msgid "Create Alternative-level Tile Proxy"
-msgstr ""
+msgstr "Skapa brick-platshållare på alternativ-nivå"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
+#, fuzzy
 msgid "Create Coords-level Tile Proxy"
-msgstr ""
+msgstr "Skapa brick-platshållare på koords-nivå"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
+#, fuzzy
 msgid "Create source-level Tile Proxy"
-msgstr ""
+msgstr "Skapa brick-platshållare på käll-nivå"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "Delete All Invalid Tile Proxies"
-msgstr ""
+msgstr "Radera alla ogiltiga brick-platshållare"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "Delete All Tile Proxies"
-msgstr ""
+msgstr "Radera alla brick-platshållare"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "Tile Proxies Management"
-msgstr ""
+msgstr "Brick-platshållar-hantering"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "Source-level proxies"
-msgstr ""
+msgstr "Platshållare på käll-nivå"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "Coords-level proxies"
-msgstr ""
+msgstr "Platshållare på koords-nivå"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "Alternative-level proxies"
-msgstr ""
+msgstr "Platshållare på alternativ-nivå"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "Add a new tile proxy:"
-msgstr ""
+msgstr "Lägg till en ny brick-platshhållare:"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "From Source"
-msgstr ""
+msgstr "Från källa"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "From Coords"
-msgstr ""
+msgstr "Från koords"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "From Alternative"
-msgstr ""
+msgstr "Från alternativ"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "To Source"
-msgstr ""
+msgstr "Till källa"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "To Coords"
-msgstr ""
+msgstr "Till koords"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "To Alternative"
-msgstr ""
+msgstr "Till alternativ"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "Global actions:"
-msgstr ""
+msgstr "Globala åtgärder:"
 
 #: editor/plugins/tiles/tile_proxies_manager_dialog.cpp
 msgid "Clear Invalid"
-msgstr ""
+msgstr "Rensa ogiltiga"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Atlas"
-msgstr ""
+msgstr "Atlas"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Base Tile"
-msgstr ""
+msgstr "Grundbricka"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Alternative Tile"
-msgstr ""
+msgstr "Alternativbricka"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
@@ -15788,141 +15875,147 @@ msgid ""
 "Atlas coordinates: %s\n"
 "Alternative: %d"
 msgstr ""
+"Vald bricka:\n"
+"Källa: %d\n"
+"Atlaskoordinater: %s\n"
+"Alternativ: %d"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Rendering"
-msgstr ""
+msgstr "Rendering"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Texture Origin"
-msgstr ""
+msgstr "Texturursprung"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Modulate"
-msgstr ""
+msgstr "Modulera"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Z Index"
-msgstr ""
+msgstr "Z-index"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Y Sort Origin"
-msgstr ""
+msgstr "Y-sorteringsorigo"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Occlusion Layer %d"
-msgstr ""
+msgstr "Ockluderingslager %d"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Probability"
-msgstr ""
+msgstr "Sannolikhet"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Physics"
-msgstr ""
+msgstr "Fysik"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Physics Layer %d"
-msgstr ""
+msgstr "Fysiklager %d"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "No physics layers"
-msgstr ""
+msgstr "Inga fysiklager"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "Create and customize physics layers in the inspector of the TileSet resource."
-msgstr ""
+msgstr "Skapa och anpassa fysiklager i Granskaren för TileSet-resursen."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Navigation Layer %d"
-msgstr ""
+msgstr "Navigationslager %d"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "No navigation layers"
-msgstr ""
+msgstr "Inga navigationslager"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "Create and customize navigation layers in the inspector of the TileSet "
 "resource."
-msgstr ""
+msgstr "Skapa och anpassa navigationslager i Granskaren för TileSet-resursen."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Custom Data"
-msgstr ""
+msgstr "Egna data"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Custom Data %d"
-msgstr ""
+msgstr "Egna data %d"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "No custom data layers"
-msgstr ""
+msgstr "Inga egna datalager"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "Create and customize custom data layers in the inspector of the TileSet "
 "resource."
-msgstr ""
+msgstr "Skapa och anpassa egna datalager i Granskaren för TileSet-resursen."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Select a property editor"
-msgstr ""
+msgstr "Välj en egenskapsredigerare"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "TileSet is in read-only mode. Make the resource unique to edit TileSet "
 "properties."
 msgstr ""
+"TileSet:et är i endast-läs-läge. Gör resursen unik för att redigera TileSet-"
+"egenskaper."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Paint properties."
-msgstr ""
+msgstr "Måla egenskaper."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Create tiles"
-msgstr ""
+msgstr "Skapa brickor"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Create a tile"
-msgstr ""
+msgstr "Skapa en bricka"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Remove tiles"
-msgstr ""
+msgstr "Ta bort brickor"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Move a tile"
-msgstr ""
+msgstr "Flytta en bricka"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Select tiles"
-msgstr ""
+msgstr "Markera brickor"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Resize a tile"
-msgstr ""
+msgstr "Skala om en bricka"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Remove tile"
-msgstr ""
+msgstr "Ta bort en bricka"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Create tile alternatives"
-msgstr ""
+msgstr "Skapa brick-alternativ"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Remove Tiles Outside the Texture"
-msgstr ""
+msgstr "Ta bort brickor utanför texturen"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Create tiles in non-transparent texture regions"
-msgstr ""
+msgstr "Skapa brickor i icke-transparenta texturområden"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Remove tiles in fully transparent texture regions"
-msgstr ""
+msgstr "Ta bort brickor i helt transparenta texturområden"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
@@ -15930,70 +16023,99 @@ msgid ""
 "The tile's unique identifier within this TileSet. Each tile stores its "
 "source ID, so changing one may make tiles invalid."
 msgstr ""
+"Brickans unika identifierare i det här TileSet:et. Varje bricka lagrar sitt "
+"eget käll-ID, så att ändra det kan göra brickor ogiltiga."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "The human-readable name for the atlas. Use a descriptive name here for "
 "organizational purposes (such as \"terrain\", \"decoration\", etc.)."
 msgstr ""
+"Det människoläsbara namnet på atlasen. Använd ett deskriptivt namn i "
+"organisationssyfte (som \"terräng\", \"dekor\" etc)."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "The image from which the tiles will be created."
-msgstr ""
+msgstr "Bilden från vilken brickorna kommer att skapas."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
+#, fuzzy
 msgid ""
 "The margins on the image's edges that should not be selectable as tiles (in "
 "pixels). Increasing this can be useful if you download a tilesheet image "
 "that has margins on the edges (e.g. for attribution)."
 msgstr ""
+"Bildens sidomarginaler son inte ska vara valbara som brickor (i pixlar). Det "
+"kan hjälpa att öka den här inställningen om du har hämtat en tilesheet-bild "
+"med sidomarginaler (för exempelvis erkännanden)."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
+#, fuzzy
 msgid ""
 "The separation between each tile on the atlas in pixels. Increasing this can "
 "be useful if the tilesheet image you're using contains guides (such as "
 "outlines between every tile)."
 msgstr ""
+"Marginalen mellan varje bricka i atlasen (i pixlar). Det kan hjälpa att öka "
+"den här inställningen om bilden du använder innehåller exempelvis stödlinjer "
+"mellan varje rad och kolumn."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
+#, fuzzy
 msgid ""
 "The size of each tile on the atlas in pixels. In most cases, this should "
 "match the tile size defined in the TileMap property (although this is not "
 "strictly necessary)."
 msgstr ""
+"Storleken på varje bricka i atlasen. I de flesta fall bör detta motsvara "
+"brickstorleken som definieras i TileMap-egenskaperna (men det är inte strikt "
+"nödvändigt)."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
+#, fuzzy
 msgid ""
 "If checked, adds a 1-pixel transparent edge around each tile to prevent "
 "texture bleeding when filtering is enabled. It's recommended to leave this "
 "enabled unless you're running into rendering issues due to texture padding."
 msgstr ""
+"När den här inställningen är påslagen läggs en transparent ram om en (1) "
+"pixel till runt varje bricka för att förhindra färgutfall mellan brickor när "
+"filtrering är påslaget. Den här inställningen bör vara på om du inte stöder "
+"på renderingsproblem med textur-padding."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
+#, fuzzy
 msgid ""
 "The position of the tile's top-left corner in the atlas. The position and "
 "size must be within the atlas and can't overlap another tile.\n"
 "Each painted tile has associated atlas coords, so changing this property may "
 "cause your TileMaps to not display properly."
 msgstr ""
+"Positionen av brickans övre vänstra hörn i atlasen. Positionen och storleken "
+"måste vara inuti atlasen och får inte överlappa med en annan bricka.\n"
+"Varje målad bricka har tillhörande atlaskoordinater, så om du ändrar den här "
+"egenskapen kan dina TileMap:s komma att sluta visas korrekt."
 
+# Innebär unit size att b=h?
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "The unit size of the tile."
-msgstr ""
+msgstr "Brickans enhetsstorlek."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "Number of columns for the animation grid. If number of columns is lower than "
 "number of frames, the animation will automatically adjust row count."
 msgstr ""
+"Antal kolumner i animationsrutnätet. Om kolumnantalet är lägre än antalet "
+"bildrutor anpassar animationen automatiskt radantalet."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "The space (in tiles) between each frame of the animation."
-msgstr ""
+msgstr "Utrymmet (i brickor) mellan varje bildruta i animationen."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Animation speed in frames per second."
-msgstr ""
+msgstr "Animationsfrekvens i bildrutor/sekund"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
@@ -16001,16 +16123,20 @@ msgid ""
 "animating at the same frame. In \"Random Start Times\" mode, each tile "
 "starts animation with a random offset."
 msgstr ""
+"Bestämmer hur animationen påbörjas. I läget \"Standard\" påbörjar alla "
+"brickor animationen från samma bildruta, i läget \"Slumpad start\" påbörjar "
+"varje bricka animationen med en slumpad förskjutning."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "If [code]true[/code], the tile is horizontally flipped."
-msgstr ""
+msgstr "Om [code]true[/code] speglas brickan vågrätt."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "If [code]true[/code], the tile is vertically flipped."
-msgstr ""
+msgstr "Om [code]true[/code] speglas brickan lodrätt."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
+#, fuzzy
 msgid ""
 "If [code]true[/code], the tile is rotated 90 degrees [i]counter-clockwise[/"
 "i] and then flipped vertically. In practice, this means that to rotate a "
@@ -16019,22 +16145,31 @@ msgid ""
 "enable [b]Flip H[/b] and [b]Flip V[/b]. To rotate a tile by 270 degrees "
 "clockwise, enable [b]Flip V[/b] and [b]Transpose[/b]."
 msgstr ""
+"Om [code]true[/code] vrids brickan 90° [i]motsols[/i] och speglas sedan "
+"lodrätt. I praktiken innebär det att du, för att vrida en bricka 90° medsols "
+"utan att spegla den, måste slå på [b]Flip H[/b] och [b]Transpose[/b]. För "
+"att vrida en bricka 180°, slå på [b]Flip H[/b] och [b]Flip V[/b]. För att "
+"vrida en bricka 270° medsols, slå på [b]Flip V[/b] och [b]Transpose[/b]."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "The origin to use for drawing the tile. This can be used to visually offset "
 "the tile compared to the base tile."
 msgstr ""
+"Origot som används för att rita brickan. Det kan användas för att visuellt "
+"förskjuta brickan jämfört med grundbrickan."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "The color multiplier to use when rendering the tile."
-msgstr ""
+msgstr "Färgfaktor som används när brickan ritas."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "The material to use for this tile. This can be used to apply a different "
 "blend mode or custom shaders to a single tile."
 msgstr ""
+"Materialet som används för den här brickan. Det kan användas för att "
+"tillämpa ett annat toningsläge eller anpassade shaders på enstaka brickor."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
@@ -16042,6 +16177,9 @@ msgid ""
 "front of others on the same layer. The index is relative to the TileMap's "
 "own Z index."
 msgstr ""
+"Sorteringsrankningen som används för den här brickan. Högre värden får "
+"brickan att ritas ovanpå andra i samma lager. Indexet är relativt till "
+"TileMap:ens egna Z-index."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
@@ -16051,152 +16189,177 @@ msgid ""
 "certain tiles. Only effective if Y Sort Enabled is true on the TileMap layer "
 "the tile is placed on."
 msgstr ""
+"Den lodräta förskjutningen som används för att sortera brickor baserat på "
+"dess Y-koordinat. Det här möjliggör att använda lager som om de vore på "
+"olika höjd i top-downspel. Det kan avhjälpa problem med att sortera vissa "
+"brickor. Gör ingen skillnad om inte \"Y Sort Enabled\" är på i TileMap-"
+"lagret brickan befinner sig i."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "The index of the terrain set this tile belongs to. [code]-1[/code] means it "
 "will not be used in terrains."
 msgstr ""
+"Indexet av terräng-sättet som den här brickan tillhör. [code]-1[/code] "
+"innebär att den inte används i terränger."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "The index of the terrain inside the terrain set this tile belongs to. "
 "[code]-1[/code] means it will not be used in terrains."
 msgstr ""
+"Indexet av terrängen i terräng-sättet som den här brickan tillhör. [code]-1[/"
+"code] innebär att den inte används i terränger."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "The relative probability of this tile appearing when painting with \"Place "
 "Random Tile\" enabled."
 msgstr ""
+"Den relativa sannolikheten att den här brickan används när du målar med "
+"\"Lägg slumpad bricka\" påslaget."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Setup"
-msgstr ""
+msgstr "Inställning"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
+#, fuzzy
 msgid ""
 "Atlas setup. Add/Remove tiles tool (use the shift key to create big tiles, "
 "control for rectangle editing)."
 msgstr ""
+"Atlasinställning. Verktyg för att lägga till/ta bort brickor (håll in Skift "
+"för att skapa stora brickor och kontroll för att redigera rektanglar)."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Select tiles."
-msgstr ""
+msgstr "Markera brickor."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 #: editor/plugins/tiles/tiles_editor_plugin.cpp
 msgid "Paint"
-msgstr ""
+msgstr "Måla"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "No tiles selected.\n"
 "Select one or more tiles from the palette to edit its properties."
 msgstr ""
+"Inga brickor markerade.\n"
+"Välj en eller fler brickor från paletten för att redigera dess egenskaper."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Paint Properties:"
-msgstr ""
+msgstr "Målningsegenskaper:"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Create Tiles in Non-Transparent Texture Regions"
-msgstr ""
+msgstr "Skapa brickor i icke-transparenta texturområden"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Remove Tiles in Fully Transparent Texture Regions"
-msgstr ""
+msgstr "Ta bort brickor i helt transparenta texturområden"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid ""
 "The current atlas source has tiles outside the texture.\n"
 "You can clear it using \"%s\" option in the 3 dots menu."
 msgstr ""
+"Den aktuella atlas-källan har brickor utanför texturen.\n"
+"Du kan rensa den genom \"%s\"-alternativet i menyn med 3 prickar."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Hold Ctrl to create multiple tiles."
-msgstr ""
+msgstr "Håll in Kontroll för att skapa flera brickor."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Hold Shift to create big tiles."
-msgstr ""
+msgstr "Håll in Skift för att skapa stora brickor."
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Create an Alternative Tile"
-msgstr ""
+msgstr "Skapa ett brick-alternativ"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Create a Tile"
-msgstr ""
+msgstr "Skapa en bricka"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Auto Create Tiles in Non-Transparent Texture Regions?"
-msgstr ""
+msgstr "Autoskapa brickor i icke-transparenta texturområden"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
+#, fuzzy
 msgid ""
 "The atlas's texture was modified.\n"
 "Would you like to automatically create tiles in the atlas?"
 msgstr ""
+"Atlastexturen har ändrats.\n"
+"Vill du skapa brickor automatiskt i atlasen?"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "No"
-msgstr ""
+msgstr "Nej"
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Invalid texture selected."
-msgstr ""
+msgstr "Ogiltig textur vald."
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Add a new atlas source"
-msgstr ""
+msgstr "Lägg till en ny atlaskälla"
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Remove source"
-msgstr ""
+msgstr "Ta bort källa"
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Add atlas source"
-msgstr ""
+msgstr "Lägg till atlaskälla"
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Sort Sources"
-msgstr ""
+msgstr "Sortera källor"
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "A palette of tiles made from a texture."
-msgstr ""
+msgstr "En brickpalett skapad från en textur."
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Scenes Collection"
-msgstr ""
+msgstr "Scensamling"
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "A collection of scenes that can be instantiated and placed as tiles."
-msgstr ""
+msgstr "En samling scener som kan instansieras och läggas som brickor."
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Open Atlas Merging Tool"
-msgstr ""
+msgstr "Öppna atlas-ihopslagningsverktyg"
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Manage Tile Proxies"
-msgstr ""
+msgstr "Hantera brick-platshållare"
 
 #: editor/plugins/tiles/tile_set_editor.cpp
+#, fuzzy
 msgid ""
 "No TileSet source selected. Select or create a TileSet source.\n"
 "You can create a new source by using the Add button on the left or by "
 "dropping a tileset texture onto the source list."
 msgstr ""
+"Ingen TileSet-källa vald. Välj en eller skapa en TileSet-resurs.\n"
+"Du kan skapa en ny källa med Lägg till-knappen till vänster eller genom att "
+"släppa en TileSet-textur på käll-listan."
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid "Add new patterns in the TileMap editing mode."
-msgstr ""
+msgstr "Lägg till nya mönster i TileMap-redigerarläget."
 
 #: editor/plugins/tiles/tile_set_editor.cpp
 msgid ""
@@ -16204,18 +16367,21 @@ msgid ""
 "to reference an invalid source instead. This may result in unexpected data "
 "loss. Change this ID carefully."
 msgstr ""
+"Varning: Modifierar du ett käll-ID kommer alla TileMap:s som använder den "
+"källan att peka på en ogiltig källa i stället. Det här kan ge upphov till "
+"oväntade dataförluster. Var försiktig när du ändrar det här ID:t."
 
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
 msgid "Add a Scene Tile"
-msgstr ""
+msgstr "Lägg till en scen-bricka"
 
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
 msgid "Remove a Scene Tile"
-msgstr ""
+msgstr "Ta bort en scen-bricka"
 
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
 msgid "Drag and drop scenes here or use the Add button."
-msgstr ""
+msgstr "Dra & släpp scener här eller använd Lägg till-knappen."
 
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
 msgid ""
@@ -16223,16 +16389,21 @@ msgid ""
 "here for organizational purposes (such as \"obstacles\", \"decoration\", "
 "etc.)."
 msgstr ""
+"Det människoläsbara namnet på scensamlingen. Använd ett deskriptivt namn i "
+"organisationssyfte (som \"terräng\", \"dekor\" etc)."
 
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
+#, fuzzy
 msgid ""
 "ID of the scene tile in the collection. Each painted tile has associated ID, "
 "so changing this property may cause your TileMaps to not display properly."
 msgstr ""
+"ID:t på scen-brickan i samlingen. Varje målad bricka lagrar sitt eget ID, så "
+"att ändra det kan göra så att TileMap:erna visas felaktiga."
 
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
 msgid "Absolute path to the scene associated with this tile."
-msgstr ""
+msgstr "Absolut sökväg till scenen som associerats med den här brickan."
 
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
 msgid ""
@@ -16240,57 +16411,62 @@ msgid ""
 "scene's preview. The marker is displayed anyway if the scene has no valid "
 "preview."
 msgstr ""
+"Om [code]true[/code] visas en platshållarmarkör ovanpå scenens "
+"förhandsvisning. Markören visas oavsett om scenen inte har en giltig "
+"förhandsvisning."
 
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
 msgid "Scenes collection properties:"
-msgstr ""
+msgstr "Scen-samlingsegenskaper:"
 
 #: editor/plugins/tiles/tile_set_scenes_collection_source_editor.cpp
 msgid "Tile properties:"
-msgstr ""
+msgstr "Brick-egenskaper:"
 
 #: editor/plugins/tiles/tiles_editor_plugin.cpp
 msgctxt "Tool"
 msgid "Line"
-msgstr ""
+msgstr "Linje"
 
 #: editor/plugins/tiles/tiles_editor_plugin.cpp
 msgid "Rect"
-msgstr ""
+msgstr "Rektangel"
 
 #: editor/plugins/tiles/tiles_editor_plugin.cpp
 msgid "Bucket"
-msgstr ""
+msgstr "Hink"
 
 #: editor/plugins/tiles/tiles_editor_plugin.cpp
 msgid "Eraser"
-msgstr ""
+msgstr "Suddgummi"
 
 #: editor/plugins/tiles/tiles_editor_plugin.cpp
 msgid "Picker"
-msgstr ""
+msgstr "Väljare"
 
 #: editor/plugins/tiles/tiles_editor_plugin.cpp
 msgid "TileMap"
-msgstr ""
+msgstr "TileMap"
 
 #: editor/plugins/tiles/tiles_editor_plugin.cpp
 msgid "Toggle TileMap Bottom Panel"
-msgstr ""
+msgstr "Nedre TileMap-panel på/av"
 
 #: editor/plugins/tiles/tiles_editor_plugin.cpp
 msgid "TileSet"
-msgstr ""
+msgstr "TileSet"
 
 #: editor/plugins/tiles/tiles_editor_plugin.cpp
 msgid "Toggle TileSet Bottom Panel"
-msgstr ""
+msgstr "Nedre TileSet-panel på/av"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid ""
 "No VCS plugins are available in the project. Install a VCS plugin to use VCS "
 "integration features."
 msgstr ""
+"Inga VCS-plugin finns tillgängliga i projektet. Installera ett VCS-plugin "
+"för att använda VCS-integrationsfunktioner."
 
 #: editor/plugins/version_control_editor_plugin.cpp editor/project_manager.cpp
 msgid "Error"
