@@ -168,11 +168,11 @@ msgstr "Högerspak, Sony R3, Xbox R/RS"
 
 #: core/input/input_event.cpp
 msgid "Left Shoulder, Sony L1, Xbox LB"
-msgstr ""
+msgstr "Vänster kant, Sony L1, Xbox LB"
 
 #: core/input/input_event.cpp
 msgid "Right Shoulder, Sony R1, Xbox RB"
-msgstr ""
+msgstr "Höger kant, Sony R1, Xbox RB"
 
 #: core/input/input_event.cpp
 msgid "D-pad Up"
@@ -1378,24 +1378,24 @@ msgstr "Gruppera spår efter nod eller visa dem som enkel lista."
 
 #: editor/animation_track_editor.cpp
 msgid "Snap:"
-msgstr ""
+msgstr "Snäpp:"
 
 #: editor/animation_track_editor.cpp
 msgid "Animation step value."
-msgstr ""
+msgstr "Animations-stegvärde."
 
 #: editor/animation_track_editor.cpp
 msgid "Seconds"
-msgstr ""
+msgstr "Sekunder"
 
 #: editor/animation_track_editor.cpp
 #: editor/plugins/sprite_frames_editor_plugin.cpp
 msgid "FPS"
-msgstr ""
+msgstr "FPS"
 
 #: editor/animation_track_editor.cpp
 msgid "Fit to panel"
-msgstr ""
+msgstr "Passa till panel"
 
 #: editor/animation_track_editor.cpp editor/editor_properties.cpp
 #: editor/editor_resource_picker.cpp editor/plugins/editor_plugin_settings.cpp
@@ -1404,155 +1404,158 @@ msgstr ""
 #: editor/plugins/text_shader_editor.cpp
 #: editor/plugins/tiles/tile_set_editor.cpp editor/project_manager.cpp
 msgid "Edit"
-msgstr ""
+msgstr "Redigera"
 
 #: editor/animation_track_editor.cpp
 msgid "Animation properties."
-msgstr ""
+msgstr "Animationsegenskaper."
 
 #: editor/animation_track_editor.cpp
 msgid "Copy Tracks..."
-msgstr ""
+msgstr "Kopiera spår..."
 
 #: editor/animation_track_editor.cpp
 msgid "Scale Selection..."
-msgstr ""
+msgstr "Skala om markering..."
 
 #: editor/animation_track_editor.cpp
 msgid "Scale From Cursor..."
-msgstr ""
+msgstr "Skala om från pekare..."
 
 #: editor/animation_track_editor.cpp
 msgid "Set Start Offset (Audio)"
-msgstr ""
+msgstr "Ställ in startförskjutning (ljud)"
 
 #: editor/animation_track_editor.cpp
 msgid "Set End Offset (Audio)"
-msgstr ""
+msgstr "Ställ in slutförskjutning (ljud)"
 
 #: editor/animation_track_editor.cpp
 msgid "Make Easing Selection..."
-msgstr ""
+msgstr "Gör easing-val…"
 
 #: editor/animation_track_editor.cpp
 msgid "Duplicate Selected Keys"
-msgstr ""
+msgstr "Duplicera markerade nycklar"
 
 #: editor/animation_track_editor.cpp
 msgid "Cut Selected Keys"
-msgstr ""
+msgstr "Klipp ut markerade nycklar"
 
 #: editor/animation_track_editor.cpp
 msgid "Copy Selected Keys"
-msgstr ""
+msgstr "Kopiera markerade nycklar"
 
 #: editor/animation_track_editor.cpp
 msgid "Paste Keys"
-msgstr ""
+msgstr "Klistra in nycklar"
 
 #: editor/animation_track_editor.cpp
 msgid "Move First Selected Key to Cursor"
-msgstr ""
+msgstr "Förflytta först markerade nyckel till pekaren"
 
 #: editor/animation_track_editor.cpp
 msgid "Move Last Selected Key to Cursor"
-msgstr ""
+msgstr "Förflytta senast markerade nyckel till pekaren"
 
 #: editor/animation_track_editor.cpp
 msgid "Delete Selection"
-msgstr ""
+msgstr "Radera markering"
 
 #: editor/animation_track_editor.cpp
 msgid "Go to Next Step"
-msgstr ""
+msgstr "Gå till nästa steg"
 
 #: editor/animation_track_editor.cpp
 msgid "Go to Previous Step"
-msgstr ""
+msgstr "Gå till föregående steg"
 
 #: editor/animation_track_editor.cpp
 msgid "Apply Reset"
-msgstr ""
+msgstr "Tillämpa återställning"
 
 #: editor/animation_track_editor.cpp
 msgid "Bake Animation..."
-msgstr ""
+msgstr "Baka animation..."
 
 #: editor/animation_track_editor.cpp
 msgid "Optimize Animation (no undo)..."
-msgstr ""
+msgstr "Optimera animation (kan ej ångras)…"
 
 #: editor/animation_track_editor.cpp
 msgid "Clean-Up Animation (no undo)..."
-msgstr ""
+msgstr "Städa upp animation (kan ej ångras)…"
 
 #: editor/animation_track_editor.cpp
 msgid "Pick a node to animate:"
-msgstr ""
+msgstr "Välj en nod att animera:"
 
 #: editor/animation_track_editor.cpp
 msgid "Use Bezier Curves"
-msgstr ""
+msgstr "Använd bezier-kurvor"
 
 #: editor/animation_track_editor.cpp
+#, fuzzy
 msgid "Create RESET Track(s)"
-msgstr ""
+msgstr "Skapa ÅTERSTÄLL-spår"
 
 #: editor/animation_track_editor.cpp
 msgid "Animation Optimizer"
-msgstr ""
+msgstr "Animationsoptimerare"
 
 #: editor/animation_track_editor.cpp
 msgid "Max Velocity Error:"
-msgstr ""
+msgstr "Max hastighetsfel:"
 
 #: editor/animation_track_editor.cpp
 msgid "Max Angular Error:"
-msgstr ""
+msgstr "Max vinkelfel:"
 
 #: editor/animation_track_editor.cpp
 msgid "Max Precision Error:"
-msgstr ""
+msgstr "Max precisionsfel:"
 
 #: editor/animation_track_editor.cpp
 msgid "Optimize"
-msgstr ""
+msgstr "Optimera"
 
 #: editor/animation_track_editor.cpp
+#, fuzzy
 msgid "Trim keys placed in negative time"
-msgstr ""
+msgstr "Beskär nycklar som föregår animationens början"
 
 #: editor/animation_track_editor.cpp
 msgid "Trim keys placed exceed the animation length"
-msgstr ""
+msgstr "Beskär nycklar som överskrider animationens längd"
 
 #: editor/animation_track_editor.cpp
 msgid "Remove invalid keys"
-msgstr ""
+msgstr "Ta bort ogiltiga nycklar"
 
 #: editor/animation_track_editor.cpp
+#, fuzzy
 msgid "Remove unresolved and empty tracks"
-msgstr ""
+msgstr "Ta bort olösta och tomma spår"
 
 #: editor/animation_track_editor.cpp
 msgid "Clean-up all animations"
-msgstr ""
+msgstr "Städa upp i alla animationer"
 
 #: editor/animation_track_editor.cpp
 msgid "Clean-Up Animation(s) (NO UNDO!)"
-msgstr ""
+msgstr "Städa upp i animation(er) (kan ej ångras!)"
 
 #: editor/animation_track_editor.cpp
 msgid "Clean-Up"
-msgstr ""
+msgstr "Städa upp"
 
 #: editor/animation_track_editor.cpp
 msgid "Scale Ratio:"
-msgstr ""
+msgstr "Skalförhållande:"
 
 #: editor/animation_track_editor.cpp
 msgid "Select Transition and Easing"
-msgstr ""
+msgstr "Välj övergång och easing"
 
 #: editor/animation_track_editor.cpp
 msgctxt "Transition Type"
@@ -1894,8 +1897,9 @@ msgid "Allows to drop arguments sent by signal emitter."
 msgstr "Tillåter att argument från signalsändaren släpps."
 
 #: editor/connections_dialog.cpp
+#, fuzzy
 msgid "Unbind Signal Arguments:"
-msgstr ""
+msgstr "Lösgör signal-argument:"
 
 #: editor/connections_dialog.cpp
 msgid "Receiver Method:"
@@ -2478,7 +2482,7 @@ msgstr "Exportera mätvärden som CSV"
 
 #: editor/dependency_editor.cpp
 msgid "Search Replacement For:"
-msgstr ""
+msgstr "Sök ersättning för:"
 
 #: editor/dependency_editor.cpp
 msgid "Dependencies For:"
@@ -2527,8 +2531,9 @@ msgid "Dependency Editor"
 msgstr "Beroende-redigerare"
 
 #: editor/dependency_editor.cpp
+#, fuzzy
 msgid "Search Replacement Resource:"
-msgstr ""
+msgstr "Sök efter ersättningsresurs:"
 
 #: editor/dependency_editor.cpp editor/editor_node.cpp
 #: editor/filesystem_dock.cpp editor/plugins/packed_scene_editor_plugin.cpp
@@ -3585,7 +3590,7 @@ msgstr "Klassegenskaper:"
 #: editor/editor_feature_profile.cpp
 #, fuzzy
 msgid "Main Features:"
-msgstr "Huvudsakliga funktioner:"
+msgstr "Huvudsakliga egenskaper:"
 
 #: editor/editor_feature_profile.cpp
 msgid ""
@@ -5937,83 +5942,83 @@ msgstr "Tryck för att öppna nedladdningssidan."
 
 #: editor/event_listener_line_edit.cpp
 msgid "Left Stick Left, Joystick 0 Left"
-msgstr ""
+msgstr "Vänsterspak vänster, Joystick 0 vänster"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Left Stick Right, Joystick 0 Right"
-msgstr ""
+msgstr "Vänsterspak höger, Joystick 0 höger"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Left Stick Up, Joystick 0 Up"
-msgstr ""
+msgstr "Vänsterspak upp, Joystick 0 upp"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Left Stick Down, Joystick 0 Down"
-msgstr ""
+msgstr "Vänsterspak ned, Joystick 0 ned"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Right Stick Left, Joystick 1 Left"
-msgstr ""
+msgstr "Högerspak vänster, Joystick 1 vänster"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Right Stick Right, Joystick 1 Right"
-msgstr ""
+msgstr "Högerspak höger, Joystick 1 höger"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Right Stick Up, Joystick 1 Up"
-msgstr ""
+msgstr "Högerspak upp, Joystick 1 upp"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Right Stick Down, Joystick 1 Down"
-msgstr ""
+msgstr "Högerspak ned, Joystick 1 ned"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Joystick 2 Left"
-msgstr ""
+msgstr "Joystick 2 vänster"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Left Trigger, Sony L2, Xbox LT, Joystick 2 Right"
-msgstr ""
+msgstr "Vänster avtryckare, Sony L2, Xbox LT, Joystick 2 höger"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Joystick 2 Up"
-msgstr ""
+msgstr "Joystick 2 upp"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Right Trigger, Sony R2, Xbox RT, Joystick 2 Down"
-msgstr ""
+msgstr "Höger avtryckare, Sony R2, Xbox RT, Joystick 2 ned"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Joystick 3 Left"
-msgstr ""
+msgstr "Joystick 3 vänster"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Joystick 3 Right"
-msgstr ""
+msgstr "Joystick 3 höger"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Joystick 3 Up"
-msgstr ""
+msgstr "Joystick 3 upp"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Joystick 3 Down"
-msgstr ""
+msgstr "Joystick 3 ned"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Joystick 4 Left"
-msgstr ""
+msgstr "Joystick 4 vänster"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Joystick 4 Right"
-msgstr ""
+msgstr "Joystick 4 höger"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Joystick 4 Up"
-msgstr ""
+msgstr "Joystick 4 upp"
 
 #: editor/event_listener_line_edit.cpp
 msgid "Joystick 4 Down"
-msgstr ""
+msgstr "Joystick 4 ned"
 
 #: editor/event_listener_line_edit.cpp
 msgid "or"
@@ -6026,7 +6031,7 @@ msgstr "Unicode"
 #. TRANSLATORS: %d is the axis number, the first %s is either "-" or "+", and the second %s is the description of the axis.
 #: editor/event_listener_line_edit.cpp
 msgid "Joypad Axis %d %s (%s)"
-msgstr ""
+msgstr "Joypad-axel %d %s (%s)"
 
 #: editor/event_listener_line_edit.cpp
 msgid "All Devices"
@@ -7162,7 +7167,7 @@ msgstr "Sortera efter senast ändrad"
 
 #: editor/filesystem_dock.cpp
 msgid "Sort by First Modified"
-msgstr "Sortera efter först ändrad"
+msgstr "Sortera efter tidigast ändrad"
 
 #: editor/filesystem_dock.cpp editor/gui/editor_file_dialog.cpp
 msgid "Copy Path"
@@ -8187,7 +8192,7 @@ msgstr ""
 #: editor/import/audio_stream_import_settings.cpp
 #, fuzzy
 msgid "Beat Count:"
-msgstr "Taktslagsantal"
+msgstr "Taktslagsantal:"
 
 #: editor/import/audio_stream_import_settings.cpp
 #, fuzzy
@@ -13165,7 +13170,7 @@ msgstr "Dela segment (i kurva)"
 
 #: editor/plugins/physical_bone_3d_editor_plugin.cpp
 msgid "Move Joint"
-msgstr "Flytta led"
+msgstr "Flytta länk"
 
 #: editor/plugins/plugin_config_dialog.cpp
 msgid "Plugin name cannot be blank."
@@ -14203,7 +14208,7 @@ msgid ""
 "Show buttons on joints."
 msgstr ""
 "Redigeringsläge\n"
-"Visa knappar på ben."
+"Visa knappar på leder."
 
 #: editor/plugins/skeleton_3d_editor_plugin.cpp
 msgid "Insert key (based on mask) for bones with an existing track."
@@ -15900,7 +15905,7 @@ msgstr "Z-index"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Y Sort Origin"
-msgstr "Y-sorteringsorigo"
+msgstr "Y-ordningsorigo"
 
 #: editor/plugins/tiles/tile_set_atlas_source_editor.cpp
 msgid "Occlusion Layer %d"
@@ -19212,7 +19217,7 @@ msgstr "Vid tecken %s"
 
 #: editor/reparent_dialog.cpp editor/scene_tree_dock.cpp
 msgid "Reparent Node"
-msgstr "Byt förälder till nod"
+msgstr "Byt förälder på nod"
 
 #: editor/reparent_dialog.cpp
 msgid "Select new parent:"
@@ -19490,7 +19495,7 @@ msgstr ""
 "Kan inte spara rotnod-grenen som en instansierad scen.\n"
 "Duplicera den aktuella scenen med filsystem-kontextmenyn för att göra en "
 "redigerbar kopia av den aktuella scenen,\n"
-"ellerskapa en ärvd scen med Scen > Ny ärvd scen… istället. "
+"ellerskapa en ärvd scen med Scen > Ny ärvd scen… istället."
 
 #: editor/scene_tree_dock.cpp
 msgid ""
@@ -19498,6 +19503,9 @@ msgid ""
 "To create a variation of a scene, you can make an inherited scene based on "
 "the instantiated scene using Scene > New Inherited Scene... instead."
 msgstr ""
+"Kan inte spara grenen av en redan instansierad scen.\n"
+"För att skapa en variant av en scen kan du göra en ny, ärvd, scen baserad på "
+"den instansierade scenen med Scen > Ny ärvd scen… i stället."
 
 #: editor/scene_tree_dock.cpp
 msgid ""
@@ -19505,6 +19513,9 @@ msgid ""
 "To save this branch into its own scene, open the original scene, right click "
 "on this branch, and select \"Save Branch as Scene\"."
 msgstr ""
+"Kan inte spara en gren som är barn till en redan instansierad scen.\n"
+"För att spara den här scenen som sin egen scen: öppna ursprungscenen, "
+"högerklicka på den här grenen och tryck på \"Spara gren som ny scen\"."
 
 #: editor/scene_tree_dock.cpp
 msgid ""
@@ -19512,166 +19523,180 @@ msgid ""
 "To save this branch into its own scene, open the original scene, right click "
 "on this branch, and select \"Save Branch as Scene\"."
 msgstr ""
+"Kan inte spara en gren som är del av en redan instansierad scen.\n"
+"För att spara den här scenen som sin egen scen: öppna ursprungscenen, "
+"högerklicka på den här grenen och tryck på \"Spara gren som ny scen\"."
 
 #: editor/scene_tree_dock.cpp
 msgid "Save New Scene As..."
-msgstr ""
+msgstr "Spara ny scen som..."
 
 #: editor/scene_tree_dock.cpp
 msgid ""
 "Disabling \"editable_instance\" will cause all properties of the node to be "
 "reverted to their default."
 msgstr ""
+"Om du avaktiverar \"editable_instance\" kommer alla nodens egenskaper att "
+"återställas till sina standardvärden."
 
 #: editor/scene_tree_dock.cpp
 msgid ""
 "Enabling \"Load as Placeholder\" will disable \"Editable Children\" and "
 "cause all properties of the node to be reverted to their default."
 msgstr ""
+"Om du slår på \"Läs in som platshållare\" kommer \"Redigerbara barn\" att "
+"slås på och alla nodens egenskaper kommer att återställas till sina "
+"standardvärden."
 
 #: editor/scene_tree_dock.cpp
 msgid "Make Local"
-msgstr ""
+msgstr "Gör lokal"
 
 #: editor/scene_tree_dock.cpp
 msgid "Can't toggle unique name for nodes in subscene!"
-msgstr ""
+msgstr "Kan inte växla unika namn för noder i en under-scen!"
 
 #: editor/scene_tree_dock.cpp
 msgid "Enable Scene Unique Name(s)"
-msgstr ""
+msgstr "Slå på Unika namn för scen(er)"
 
 #: editor/scene_tree_dock.cpp
 msgid "Unique names already used by another node in the scene:"
-msgstr ""
+msgstr "Unika namn som redan används av en annan nod i scenen:"
 
 #: editor/scene_tree_dock.cpp
 msgid "Disable Scene Unique Name(s)"
-msgstr ""
+msgstr "Stäng av Unika namn för scen(er)"
 
 #: editor/scene_tree_dock.cpp
 msgid "New Scene Root"
-msgstr ""
+msgstr "Ny scen-rot"
 
 #: editor/scene_tree_dock.cpp
 msgid "Create Root Node:"
-msgstr ""
+msgstr "Skapa rot-nod:"
 
 #: editor/scene_tree_dock.cpp
 msgid "Toggle the display of favorite nodes."
-msgstr ""
+msgstr "Växla synlighet av favoritnoder."
 
 #: editor/scene_tree_dock.cpp
+#, fuzzy
 msgid "Other Node"
-msgstr ""
+msgstr "Annan nod"
 
 #: editor/scene_tree_dock.cpp
 msgid "Paste From Clipboard"
-msgstr ""
+msgstr "Klistra in från urklipp"
 
 #: editor/scene_tree_dock.cpp
 msgid "Filters"
-msgstr ""
+msgstr "Filter"
 
 #: editor/scene_tree_dock.cpp
 msgid "Can't operate on nodes from a foreign scene!"
-msgstr ""
+msgstr "Kan inte köras på noder från en annan scen!"
 
 #: editor/scene_tree_dock.cpp
 msgid "Can't operate on nodes the current scene inherits from!"
-msgstr ""
+msgstr "Kan inte köras på noder som den här scenen ärver från!"
 
 #: editor/scene_tree_dock.cpp
 msgid "This operation can't be done on instantiated scenes."
-msgstr ""
+msgstr "Åtgärden kan inte köras på instansierade scener."
 
 #: editor/scene_tree_dock.cpp
 msgid "Attach Script"
-msgstr ""
+msgstr "Fäst skript"
 
 #: editor/scene_tree_dock.cpp
 msgid "Set Shader"
-msgstr ""
+msgstr "Ställ in shader"
 
 #: editor/scene_tree_dock.cpp
 msgid "Toggle Editable Children"
-msgstr ""
+msgstr "Växla Redigerbara barn av/på"
 
 #: editor/scene_tree_dock.cpp
 msgid "Cut Node(s)"
-msgstr ""
+msgstr "Klipp ut nod(er)"
 
 #: editor/scene_tree_dock.cpp
 msgid "Remove Node(s)"
-msgstr ""
+msgstr "Ta bort nod(er)"
 
 #: editor/scene_tree_dock.cpp
 msgid "Change type of node(s)"
-msgstr ""
+msgstr "Ändra typ på nod(er)"
 
 #: editor/scene_tree_dock.cpp
 msgid "This operation requires a single selected node."
-msgstr ""
+msgstr "Åtgärden kräver att en (1) nod markeras."
 
 #: editor/scene_tree_dock.cpp
 msgid ""
 "Couldn't save new scene. Likely dependencies (instances) couldn't be "
 "satisfied."
 msgstr ""
+"Scenen kunde inte sparas. Troligen kunde beroenden (instanser) inte "
+"uppfyllas."
 
 #: editor/scene_tree_dock.cpp
 msgid "Error saving scene."
-msgstr ""
+msgstr "Fel när scenen sparades."
 
 #: editor/scene_tree_dock.cpp
 msgid "Error duplicating scene to save it."
-msgstr ""
+msgstr "Fel när scenen duplicerades för att sparas."
 
 #: editor/scene_tree_dock.cpp
 msgid "Instantiate Script"
-msgstr ""
+msgstr "Instansiera skript"
 
 #: editor/scene_tree_dock.cpp
 msgid "Sub-Resources"
-msgstr ""
+msgstr "Under-resurser"
 
 #: editor/scene_tree_dock.cpp
 msgid "Revoke Unique Name"
-msgstr ""
+msgstr "Återkalla unikt namn"
 
 #: editor/scene_tree_dock.cpp
+#, fuzzy
 msgid "Access as Unique Name"
-msgstr ""
+msgstr "Tillgå som unikt namn"
 
 #: editor/scene_tree_dock.cpp
 msgid "Clear Inheritance"
-msgstr ""
+msgstr "Rensa arv"
 
 #: editor/scene_tree_dock.cpp
 msgid "Editable Children"
-msgstr ""
+msgstr "Redigerbara barn"
 
 #: editor/scene_tree_dock.cpp
 msgid "Load as Placeholder"
-msgstr ""
+msgstr "Läs in som platshållare"
 
 #: editor/scene_tree_dock.cpp
 msgid "Auto Expand to Selected"
-msgstr ""
+msgstr "Auto-expandera till markering"
 
 #: editor/scene_tree_dock.cpp
 msgid "Center Node on Reparent"
-msgstr ""
+msgstr "Centrera nod på förälder"
 
 #: editor/scene_tree_dock.cpp
 msgid ""
 "If enabled, Reparent to New Node will create the new node in the center of "
 "the selected nodes, if possible."
 msgstr ""
+"Om inställningen är på skapar \"Byt förälder till ny nod…\" den nya noden i "
+"mitten av de markerade noderna, om möjligt."
 
 #: editor/scene_tree_dock.cpp
 msgid "All Scene Sub-Resources"
-msgstr ""
+msgstr "Alla scen-underresurser"
 
 #: editor/scene_tree_dock.cpp
 msgid ""
@@ -19680,24 +19705,31 @@ msgid ""
 "or group (if prefixed with \"group:\" or \"g:\"). Filtering is case-"
 "insensitive."
 msgstr ""
+"Filtrera noder genom att ange en del av deras namn, typ (om prefix \"type:\" "
+"eller \"t:\" används)\n"
+"Eller grupp (om prefix \"group:\" eller \"g:\" används). Filtret är icke-"
+"skiftlägeskänsligt."
 
 #: editor/scene_tree_dock.cpp
 msgid "Filter by Type"
-msgstr ""
+msgstr "Filtrera efter typ"
 
 #: editor/scene_tree_dock.cpp
 msgid "Filter by Group"
-msgstr ""
+msgstr "Filtrera efter grupp"
 
 #: editor/scene_tree_dock.cpp
 msgid "Selects all Nodes of the given type."
-msgstr ""
+msgstr "Markerar alla noder av den angivna typen."
 
 #: editor/scene_tree_dock.cpp
+#, fuzzy
 msgid ""
 "Selects all Nodes belonging to the given group.\n"
 "If empty, selects any Node belonging to any group."
 msgstr ""
+"Markerar alla noder som tillhör den angivna gruppen.\n"
+"Om det lämnas tomt kan noder tillhörande vilken grupp som helst väljas."
 
 #: editor/scene_tree_dock.cpp
 msgid ""
@@ -19705,112 +19737,120 @@ msgid ""
 "This is probably because this editor was built with all language modules "
 "disabled."
 msgstr ""
+"Kan inte fästa skript: inga språk har registrerats.\n"
+"Det här beror troligtvis på att den här redigeraren byggdes med alla språk-"
+"moduler avaktiverade."
 
 #: editor/scene_tree_dock.cpp
 msgid "Can't paste root node into the same scene."
-msgstr ""
+msgstr "Kan inte klistra in rot-nod i sammaa scen."
 
 #: editor/scene_tree_dock.cpp
 msgid "Paste Node(s) as Sibling of %s"
-msgstr ""
+msgstr "Klistra in nod(er) som till syskon till %s"
 
 #: editor/scene_tree_dock.cpp
 msgid "Paste Node(s) as Child of %s"
-msgstr ""
+msgstr "Klistra in nod(er) som till barn till %s"
 
 #: editor/scene_tree_dock.cpp
 msgid "Paste Node(s) as Root"
-msgstr ""
+msgstr "Klistra in nod(er) som rot"
 
 #: editor/scene_tree_dock.cpp
 msgid "<Unnamed> at %s"
-msgstr ""
+msgstr "<Namnlöst> vid %s"
 
 #: editor/scene_tree_dock.cpp
 msgid "(used %d times)"
-msgstr ""
+msgstr "(använd %d ggr)"
 
 #: editor/scene_tree_dock.cpp
 msgid "Batch Rename..."
-msgstr ""
+msgstr "Döp om flera…"
 
 #: editor/scene_tree_dock.cpp
 msgid "Add Child Node..."
-msgstr ""
+msgstr "Lägg till barn-nod…"
 
 #: editor/scene_tree_dock.cpp
 msgid "Instantiate Child Scene..."
-msgstr ""
+msgstr "Instansiera barn-scen…"
 
 #: editor/scene_tree_dock.cpp
+#, fuzzy
 msgid "Expand/Collapse Branch"
-msgstr ""
+msgstr "Vik ut/ihop gren"
 
 #: editor/scene_tree_dock.cpp
 msgid "Paste as Sibling"
-msgstr ""
+msgstr "Klistra in som syskon"
 
 #: editor/scene_tree_dock.cpp
 msgid "Change Type..."
-msgstr ""
+msgstr "Ändra typ…"
 
 #: editor/scene_tree_dock.cpp
 msgid "Attach Script..."
-msgstr ""
+msgstr "Fäst skript..."
 
 #: editor/scene_tree_dock.cpp
 msgid "Reparent..."
-msgstr ""
+msgstr "Byt förälder…"
 
 #: editor/scene_tree_dock.cpp
 msgid "Reparent to New Node..."
-msgstr ""
+msgstr "Byt förälder till ny nod…"
 
 #: editor/scene_tree_dock.cpp
 msgid "Make Scene Root"
-msgstr ""
+msgstr "Gör till scen-rot"
 
 #: editor/scene_tree_dock.cpp
 msgid "Save Branch as Scene..."
-msgstr ""
+msgstr "Spara gren som scen…"
 
 #: editor/scene_tree_dock.cpp
 msgid "Toggle Access as Unique Name"
-msgstr ""
+msgstr "Växla \"Tillgå som unikt namn\" av/på"
 
 #: editor/scene_tree_dock.cpp
 msgid "Delete (No Confirm)"
-msgstr ""
+msgstr "Radera (utan bekräftelse)"
 
 #: editor/scene_tree_dock.cpp
 msgid "Add/Create a New Node."
-msgstr ""
+msgstr "Lägg till/skapa en ny nod."
 
 #: editor/scene_tree_dock.cpp
 msgid ""
 "Instantiate a scene file as a Node. Creates an inherited scene if no root "
 "node exists."
 msgstr ""
+"Instansiera en scen-fil som en ny nod. Skapar en ärvd scen om ingen rot-nod "
+"finns."
 
 #: editor/scene_tree_dock.cpp
+#, fuzzy
 msgid "Filter: name, t:type, g:group"
-msgstr ""
+msgstr "Filter: name, t:type, g:group"
 
 #: editor/scene_tree_dock.cpp
 msgid "Attach a new or existing script to the selected node."
-msgstr ""
+msgstr "Fäst ett nytt eller befintligt skript till den markerade noden."
 
 #: editor/scene_tree_dock.cpp
 msgid "Detach the script from the selected node."
-msgstr ""
+msgstr "Ta loss ett skript från den markerade noden."
 
 #: editor/scene_tree_dock.cpp
 msgid "Extra scene options."
-msgstr ""
+msgstr "Ytterligare scen-alternativ."
 
 #: editor/scene_tree_dock.cpp
+#, fuzzy
 msgid "Remote"
-msgstr ""
+msgstr "Fjärr"
 
 #: editor/scene_tree_dock.cpp
 msgid ""
@@ -19818,236 +19858,245 @@ msgid ""
 "every time it updates.\n"
 "Switch back to the Local scene tree dock to improve performance."
 msgstr ""
+"Om inställningen väljs kommer Fjärr-scenträd-fliken att få projektet att "
+"hacka varje gång det uppdateras.\n"
+"Byt tillbaka till Lokal-scenträd-fliken för att förbättra prestanda."
 
 #: editor/scene_tree_dock.cpp
 msgid "Local"
-msgstr ""
+msgstr "Lokal"
 
 #: editor/scene_tree_dock.cpp
 msgid "Delete Related Animation Tracks"
-msgstr ""
+msgstr "Radera relaterade animationsspår"
 
 #: editor/scene_tree_dock.cpp
 msgid "Clear Inheritance? (No Undo!)"
-msgstr ""
+msgstr "Rensa arv? (Kan ej ångras!)"
 
 #: editor/script_create_dialog.cpp editor/shader_create_dialog.cpp
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid "Path is empty."
-msgstr ""
+msgstr "Sökvägen är tom."
 
 #: editor/script_create_dialog.cpp editor/shader_create_dialog.cpp
 msgid "Filename is empty."
-msgstr ""
+msgstr "Filnamnet är tomt."
 
 #: editor/script_create_dialog.cpp
 msgid "Filename is invalid."
-msgstr ""
+msgstr "Filnamnet är ogiltigt."
 
 #: editor/script_create_dialog.cpp editor/shader_create_dialog.cpp
 msgid "Path is not local."
-msgstr ""
+msgstr "Sökvägen är inte lokal."
 
 #: editor/script_create_dialog.cpp
 msgid "Base path is invalid."
-msgstr ""
+msgstr "Grundsökvägen är ogiltig."
 
 #: editor/script_create_dialog.cpp editor/shader_create_dialog.cpp
 msgid "A directory with the same name exists."
-msgstr ""
+msgstr "Det finns redan en katalog med samma namn."
 
 #: editor/script_create_dialog.cpp
 msgid "File does not exist."
-msgstr ""
+msgstr "Filen finns inte."
 
 #: editor/script_create_dialog.cpp editor/shader_create_dialog.cpp
 msgid "Invalid extension."
-msgstr ""
+msgstr "Ogiltigt tillägg."
 
 #: editor/script_create_dialog.cpp
 msgid "Extension doesn't match chosen language."
-msgstr ""
+msgstr "Tillägg stämmer inte överens med valt språk."
 
 #: editor/script_create_dialog.cpp editor/shader_create_dialog.cpp
 msgid "Template:"
-msgstr ""
+msgstr "Mall:"
 
 #: editor/script_create_dialog.cpp
+#, fuzzy
 msgid "Error - Could not create script in filesystem."
-msgstr ""
+msgstr "Fel: Kunde inte skapa skript i filsystem."
 
 #: editor/script_create_dialog.cpp
 msgid "Error loading script from %s"
-msgstr ""
+msgstr "Fel när skript lästen in från %s"
 
 #: editor/script_create_dialog.cpp
 msgid "Open Script / Choose Location"
-msgstr ""
+msgstr "Öppna skript / välj plats"
 
 #: editor/script_create_dialog.cpp
 msgid "Open Script"
-msgstr ""
+msgstr "Öppna skript"
 
 #: editor/script_create_dialog.cpp
 msgid "Inherit %s"
-msgstr ""
+msgstr "Ärv %s"
 
 #: editor/script_create_dialog.cpp
 msgid "Inherit"
-msgstr ""
+msgstr "Ärv"
 
 #: editor/script_create_dialog.cpp editor/shader_create_dialog.cpp
 #: servers/rendering/shader_preprocessor.cpp
 msgid "Invalid path."
-msgstr ""
+msgstr "Ogiltig sökväg."
 
 #: editor/script_create_dialog.cpp
 msgid "Invalid inherited parent name or path."
-msgstr ""
+msgstr "Ogiltigt ärvt föräldranamn eller -sökväg ."
 
 #: editor/script_create_dialog.cpp editor/shader_create_dialog.cpp
 msgid "File exists, it will be reused."
-msgstr ""
+msgstr "Filen finns redan och kommer att återanvändas."
 
 #: editor/script_create_dialog.cpp
 msgid ""
 "Note: Built-in scripts have some limitations and can't be edited using an "
 "external editor."
 msgstr ""
+"Notera: Inbyggda skript har vissa begränsningar och kan inte redigeras med "
+"en extern redigerare."
 
 #: editor/script_create_dialog.cpp
 msgid ""
 "Warning: Having the script name be the same as a built-in type is usually "
 "not desired."
 msgstr ""
+"Varning: Att ha skript-namnet samma som en inbyggd typ bör oftast undvikas."
 
 #: editor/script_create_dialog.cpp
+#, fuzzy
 msgid "Built-in script (into scene file)."
-msgstr ""
+msgstr "Inbyggt skript (in i scen-filen)."
 
 #: editor/script_create_dialog.cpp
 msgid "Using existing script file."
-msgstr ""
+msgstr "Använder befintlig skriptfil."
 
 #: editor/script_create_dialog.cpp
 msgid "Will load an existing script file."
-msgstr ""
+msgstr "Kommer att läsa in en befintlig skriptfil."
 
 #: editor/script_create_dialog.cpp
 msgid "Script file already exists."
-msgstr ""
+msgstr "Skriptfilen finns redan."
 
 #: editor/script_create_dialog.cpp
 msgid "No suitable template."
-msgstr ""
+msgstr "Ingen lämplig mall."
 
 #: editor/script_create_dialog.cpp editor/shader_create_dialog.cpp
 msgid "Empty"
-msgstr ""
+msgstr "Tom"
 
 #: editor/script_create_dialog.cpp
 msgid "Script path/name is valid."
-msgstr ""
+msgstr "Skriptnamn/-sökväg är giltig."
 
 #: editor/script_create_dialog.cpp
 msgid "Will create a new script file."
-msgstr ""
+msgstr "Kommer att skapa en ny skriptfil."
 
 #: editor/script_create_dialog.cpp
 msgid "Built-in Script:"
-msgstr ""
+msgstr "Inbyggt skript:"
 
 #: editor/script_create_dialog.cpp
 msgid "Attach Node Script"
-msgstr ""
+msgstr "Fäst nod-skript"
 
 #: editor/shader_create_dialog.cpp
 msgid "Error - Could not create shader include in filesystem."
-msgstr ""
+msgstr "Fel: Kunde inte skapa shader-include i filsystemet."
 
 #: editor/shader_create_dialog.cpp
 msgid "Error - Could not create shader in filesystem."
-msgstr ""
+msgstr "Fel: Kunde inte skapa shaderi filsystemet."
 
 #: editor/shader_create_dialog.cpp
 msgid "Error loading shader from %s"
-msgstr ""
+msgstr "Fel när shader lästes in från %s"
 
 #: editor/shader_create_dialog.cpp
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #: editor/shader_create_dialog.cpp
 msgid "Open Shader / Choose Location"
-msgstr ""
+msgstr "Öppna shader / välj plats"
 
 #: editor/shader_create_dialog.cpp
 msgid "Invalid base path."
-msgstr ""
+msgstr "Ogiltig grundsökväg."
 
 #: editor/shader_create_dialog.cpp
 msgid "Wrong extension chosen."
-msgstr ""
+msgstr "Fel filtillägg valt."
 
 #: editor/shader_create_dialog.cpp
 msgid "Note: Built-in shaders can't be edited using an external editor."
-msgstr ""
+msgstr "Notera: Inbyggda skript kan inte redigeras med en extern redigerare."
 
 #: editor/shader_create_dialog.cpp
+#, fuzzy
 msgid "Built-in shader (into scene file)."
-msgstr ""
+msgstr "Inbyggd shader (in i scen-filen)."
 
 #: editor/shader_create_dialog.cpp
 msgid "Will load an existing shader file."
-msgstr ""
+msgstr "Kommer att läsa in en befintlig shaderfil."
 
 #: editor/shader_create_dialog.cpp
 msgid "Shader file already exists."
-msgstr ""
+msgstr "Shaderfilen finns redan."
 
 #: editor/shader_create_dialog.cpp
 msgid "Shader path/name is valid."
-msgstr ""
+msgstr "Shadernamn/-sökväg är giltig."
 
 #: editor/shader_create_dialog.cpp
 msgid "Will create a new shader file."
-msgstr ""
+msgstr "Kommer att skapa en ny shaderfil."
 
 #: editor/shader_create_dialog.cpp
 msgid "Mode:"
-msgstr ""
+msgstr "Läge:"
 
 #: editor/shader_create_dialog.cpp
 msgid "Built-in Shader:"
-msgstr ""
+msgstr "Inbyggd shader:"
 
 #: editor/shader_create_dialog.cpp
 msgid "Create Shader"
-msgstr ""
+msgstr "Skapa shader"
 
 #: editor/shader_globals_editor.cpp
 msgid "Set Shader Global Variable"
-msgstr ""
+msgstr "Ställ in shader-globalvariabel"
 
 #: editor/shader_globals_editor.cpp
 msgid "Name cannot be empty."
-msgstr ""
+msgstr "Namnet får inte vara tomt."
 
 #: editor/shader_globals_editor.cpp
 msgid "Name must be a valid identifier."
-msgstr ""
+msgstr "Namned måste vara en giltig identifierare."
 
 #: editor/shader_globals_editor.cpp
 msgid "Global shader parameter '%s' already exists."
-msgstr ""
+msgstr "Global shader-parameter \"%s\" finns redan."
 
 #: editor/shader_globals_editor.cpp
 msgid "Name '%s' is a reserved shader language keyword."
-msgstr ""
+msgstr "Namnet \"%s\" är reserverat för shaderspråket."
 
 #: editor/shader_globals_editor.cpp
 msgid "Add Shader Global Parameter"
-msgstr ""
+msgstr "Lägg till global shader-parameter"
 
 #: editor/surface_upgrade_tool.cpp
 msgid ""
@@ -20058,23 +20107,29 @@ msgid ""
 "keep in mind that this leads to increased load times every time you load the "
 "project."
 msgstr ""
+"Projektet använder mesher med ett föråldrat mesh-format från tidigare Godot-"
+"versioner. Motorn behöver uppdatera formatet för att kunna använda mesherna. "
+"Använd verktyget \"Uppgradera mesh-ytor\" från Projekt > Verktyg-menyn. "
+"Meddelandet kan ignoreras och föråldrade mesher fortsätta användas, men tänk "
+"på att det leder till ökande inläsningstider för projektet."
 
 #: editor/surface_upgrade_tool.cpp
 msgid ""
 "This project uses meshes with an outdated mesh format. Check the output log."
 msgstr ""
+"Projektet använder mesher med ett föråldrat mesh-format. Se utmatningsloggen."
 
 #: editor/surface_upgrade_tool.cpp
 msgid "Upgrading All Meshes in Project"
-msgstr ""
+msgstr "Uppgraderar alla mesher i projektet"
 
 #: editor/surface_upgrade_tool.cpp
 msgid "Attempting to re-save "
-msgstr ""
+msgstr "Försöker spara om "
 
 #: editor/surface_upgrade_tool.cpp
 msgid "Attempting to remove "
-msgstr ""
+msgstr "Försöker ta bort "
 
 #: editor/surface_upgrade_tool.cpp
 msgid ""
@@ -20091,500 +20146,541 @@ msgid ""
 "mesh in memory, but the update will not be saved. Choosing this option will "
 "lead to slower load times every time this project is loaded."
 msgstr ""
+"Meshformatet ändrades in Godot 4.2, vilket påverkar både importerade mesher "
+"och mesher skapade i Godot. Motorn behöver uppdatera formatet för att kunna "
+"använda mesherna.\n"
+"\n"
+"Om ditt projekt är från innan Godot 4.2 och innehåller mesher rekommenderar "
+"vi att du lör det här en-gångs-konverterteringsverktyget. Uppdateringen "
+"kommer att starta om redigeraren och kan ta flera minuter. Efter "
+"uppgraderingen kommer mesherna att vara kompatibla med tidigare Godot-"
+"versioner.\n"
+"\n"
+"Du kan fortfarande använda de befintliga mesherna som de är. Motorn kommer "
+"att uppdatera dem i minnet, med ändringen kommer inte att sparas. Om du "
+"väljer det här alternativet kommer projektet att läsas in långsammare."
 
 #: editor/surface_upgrade_tool.cpp
 msgid "Restart & Upgrade"
-msgstr ""
+msgstr "Starta om & uppgradera"
 
 #: editor/window_wrapper.cpp
 msgid "Make this panel floating in the screen %d."
-msgstr ""
+msgstr "Gör panelen svävande på skärm %d."
 
 #: editor/window_wrapper.cpp
 msgid ""
 "Make this panel floating.\n"
 "Right-click to open the screen selector."
 msgstr ""
+"Gör panelen svävande.\n"
+"Högerklicka för att öppna skärmväljaren."
 
 #: editor/window_wrapper.cpp
 msgid "Select Screen"
-msgstr ""
+msgstr "Välj skärm"
 
 #: modules/csg/editor/csg_gizmos.cpp
 msgid "Change Cylinder Radius"
-msgstr ""
+msgstr "Ändra radie på cylinder"
 
 #: modules/csg/editor/csg_gizmos.cpp
 msgid "Change Cylinder Height"
-msgstr ""
+msgstr "Ändra höjd på cylinder"
 
 #: modules/csg/editor/csg_gizmos.cpp
 msgid "Change Torus Inner Radius"
-msgstr ""
+msgstr "Ändra inre radie på torus"
 
 #: modules/csg/editor/csg_gizmos.cpp
 msgid "Change Torus Outer Radius"
-msgstr ""
+msgstr "Ändra yttre radie på torus"
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Invalid type argument to convert(), use TYPE_* constants."
-msgstr ""
+msgstr "Ogiltigt typ-argument till convert(), använd TYPE_*-konstanter."
 
 #: modules/gdscript/gdscript_utility_functions.cpp
+#, fuzzy
 msgid "Cannot resize array."
-msgstr ""
+msgstr "Kan inte storlekändra lista."
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Step argument is zero!"
-msgstr ""
+msgstr "Steg-argumentet är noll!"
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Not a script with an instance"
-msgstr ""
+msgstr "Inte ett skript med en instans"
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Not based on a script"
-msgstr ""
+msgstr "Inte baserat på ett skript"
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Not based on a resource file"
-msgstr ""
+msgstr "Inte baserat på en resursfil"
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Invalid instance dictionary format (missing @path)"
-msgstr ""
+msgstr "Ogiltigt instans-dictionary-format (saknar @path)"
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Invalid instance dictionary format (can't load script at @path)"
-msgstr ""
+msgstr "Ogiltigt instans-dictionary-format (kan inte läsa in skript vid @path)"
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Invalid instance dictionary format (invalid script at @path)"
-msgstr ""
+msgstr "Ogiltigt instans-dictionary-format (ogiltigt skript vid @path)"
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Invalid instance dictionary (invalid subclasses)"
-msgstr ""
+msgstr "Ogiltigt instans-dictionary-format (ogiltiga sub-klasser)"
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Cannot instantiate GDScript class."
-msgstr ""
+msgstr "Kan inte instansiera GDScript-klass."
 
 #: modules/gdscript/gdscript_utility_functions.cpp
+#, fuzzy
 msgid "Value of type '%s' can't provide a length."
-msgstr ""
+msgstr "Värdet med typen \"%s\" kan inte tillhandahålla en längd."
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid ""
 "Invalid type argument for is_instance_of(), use TYPE_* constants for built-"
 "in types."
 msgstr ""
+"Ogiltigt typ-argument till is_instance_of(), använd TYPE_*-konstanter för "
+"inbyggda typer."
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Type argument is a previously freed instance."
-msgstr ""
+msgstr "Typ-argument är en tidigare friad instans."
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid ""
 "Invalid type argument for is_instance_of(), should be a TYPE_* constant, a "
 "class or a script."
 msgstr ""
+"Ogiltigt typ-argument till is_instance_of(), måste vara en TYPE_*-konstant, "
+"en klass eller ett skript."
 
 #: modules/gdscript/gdscript_utility_functions.cpp
 msgid "Value argument is a previously freed instance."
-msgstr ""
+msgstr "Värde-argument är en tidigare friad instans."
 
 #: modules/gltf/editor/editor_scene_exporter_gltf_plugin.cpp
 msgid "Export Scene to glTF 2.0 File"
-msgstr ""
+msgstr "Exportera scen till glTF 2.0-fil"
 
 #: modules/gltf/editor/editor_scene_exporter_gltf_plugin.cpp
 msgid "Export Settings:"
-msgstr ""
+msgstr "Exportinställningar:"
 
 #: modules/gltf/editor/editor_scene_exporter_gltf_plugin.cpp
 msgid "glTF 2.0 Scene..."
-msgstr ""
+msgstr "glTF 2.0-scen..."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid "Path does not point to a valid executable."
-msgstr ""
+msgstr "Sökvägen innehåller inte en giltig körbar fil."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid "Couldn't run Blender executable."
-msgstr ""
+msgstr "Kunde inte köra den körbara Blender-filen."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid "Unexpected --version output from Blender executable at: %s."
-msgstr ""
+msgstr "Oväntad \"--version\"-utmatning från körbar Blender-fil vid: %s."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid "Couldn't extract version information from Blender executable at: %s."
-msgstr ""
+msgstr "Kunde inte extrahera versionsinfo från körbar Blender-fil vid: %s."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid ""
 "Found Blender version %d.x, which is too old for this importer (3.0+ is "
 "required)."
 msgstr ""
+"Hittade Blender version %d.x, vilket är för gammalt för den här importören "
+"(3.0+ krävs)."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid "Path to Blender executable is valid (Autodetected)."
-msgstr ""
+msgstr "Sökvägen till den körbara Blender-filen är giltig (Autodetekterat)."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid "Path to Blender executable is valid."
-msgstr ""
+msgstr "Sökvägen till den körbara Blender-filen är giltig."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid "Configure Blender Importer"
-msgstr ""
+msgstr "Konfigurera Blender-importör"
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid ""
 "Blender 3.0+ is required to import '.blend' files.\n"
 "Please provide a valid path to a Blender executable."
 msgstr ""
+"Blender 3.0+ krävs för att importera \".blend\"-filer.\n"
+"Vänligen ange en giltig sökväg till en körbar Blender-fil."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid ""
 "On macOS, this should be the `Contents/MacOS/blender` file within the "
 "Blender `.app` folder."
 msgstr ""
+"På macOS är det \"Contents/MacOS/blender\"-filen inuti Blender:s \".app\"-"
+"mapp."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid "Disable '.blend' Import"
-msgstr ""
+msgstr "Avaktivera \".blend\"-import"
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid ""
 "Disables Blender '.blend' files import for this project. Can be re-enabled "
 "in Project Settings."
 msgstr ""
+"Avaktiverar Blender-\".blend\"-filer från att imorteras i projektet. Kan "
+"återaktiveras i projektinställningarna."
 
 #: modules/gltf/editor/editor_scene_importer_blend.cpp
 msgid "Disabling '.blend' file import requires restarting the editor."
-msgstr ""
+msgstr "Redigeraren måste startas om när \".blend\"-import avaktiveras."
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Next Plane"
-msgstr ""
+msgstr "Nästa plan"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Previous Plane"
-msgstr ""
+msgstr "Föregående plan"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Plane:"
-msgstr ""
+msgstr "Plan:"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Next Floor"
-msgstr ""
+msgstr "Nästa golv"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Previous Floor"
-msgstr ""
+msgstr "Föregående golv"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Floor:"
-msgstr ""
+msgstr "Golv:"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "GridMap Delete Selection"
-msgstr ""
+msgstr "GridMap radera markering"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "GridMap Fill Selection"
-msgstr ""
+msgstr "GridMap fyll markering"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "GridMap Paste Selection"
-msgstr ""
+msgstr "GridMap klistra in markering"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "GridMap Paint"
-msgstr ""
+msgstr "GridMap måla"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "GridMap Selection"
-msgstr ""
+msgstr "GridMap markering"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Edit X Axis"
-msgstr ""
+msgstr "Redigera X-axel"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Edit Y Axis"
-msgstr ""
+msgstr "Redigera Y-axel"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Edit Z Axis"
-msgstr ""
+msgstr "Redigera Z-axel"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Cursor Rotate X"
-msgstr ""
+msgstr "Pekare rotera X"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Cursor Rotate Y"
-msgstr ""
+msgstr "Pekare rotera Y"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Cursor Rotate Z"
-msgstr ""
+msgstr "Pekare rotera Z"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Cursor Back Rotate X"
-msgstr ""
+msgstr "Pekare rotera X bakåt"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Cursor Back Rotate Y"
-msgstr ""
+msgstr "Pekare rotera Y bakåt"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Cursor Back Rotate Z"
-msgstr ""
+msgstr "Pekare rotera Z bakåt"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Cursor Clear Rotation"
-msgstr ""
+msgstr "Pekare rensa rotation"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Paste Selects"
-msgstr ""
+msgstr "Klistra in markeringar"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Cut Selection"
-msgstr ""
+msgstr "Klipp ut markering"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Clear Selection"
-msgstr ""
+msgstr "Rensa markering"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Fill Selection"
-msgstr ""
+msgstr "Fyll markering"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Grid Map"
-msgstr ""
+msgstr "GripMap"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "GridMap Settings"
-msgstr ""
+msgstr "GridMap-inställningar"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Pick Distance:"
-msgstr ""
+msgstr "Välj avstånd:"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Filter Meshes"
-msgstr ""
+msgstr "Filtrera mesher"
 
 #: modules/gridmap/editor/grid_map_editor_plugin.cpp
 msgid "Give a MeshLibrary resource to this GridMap to use its meshes."
 msgstr ""
+"Ge den här GridMap:en en MeshLibrary-resurs för att använda dess mesher."
 
 #: modules/interactive_music/audio_stream_interactive.cpp
 msgid "All Clips"
-msgstr ""
+msgstr "Alla klipp"
 
 #: modules/interactive_music/audio_stream_interactive.cpp
 msgid "Add Clip"
-msgstr ""
+msgstr "Lägg till klipp"
 
 #: modules/interactive_music/audio_stream_playlist.cpp
 #: modules/interactive_music/audio_stream_synchronized.cpp
 msgid "Add Stream"
-msgstr ""
+msgstr "Lägg till ström"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Disabled"
-msgstr ""
+msgstr "Avaktiverad"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Fade-In"
-msgstr ""
+msgstr "Tona-in"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Fade-Out"
-msgstr ""
+msgstr "Tona-ut"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
+#, fuzzy
 msgid "Cross-Fade"
-msgstr ""
+msgstr "Cross-fade"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Automatic"
-msgstr ""
+msgstr "Automatisk"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Edit Transitions"
-msgstr ""
+msgstr "Redigera övergångar"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
+#, fuzzy
 msgid "Using Any Clip -> %s."
-msgstr ""
+msgstr "Använd något klipp -> %s."
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
+#, fuzzy
 msgid "Using %s -> Any Clip."
-msgstr ""
+msgstr "Använd %s -> något klipp."
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
+#, fuzzy
 msgid "Using All Clips -> Any Clip."
-msgstr ""
+msgstr "Använd Alla klipp -> Något klipp."
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "No transition available."
-msgstr ""
+msgstr "Inga tillgängliga övergångar."
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Next Beat"
-msgstr ""
+msgstr "Nästa taktslag"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
+#, fuzzy
 msgid "Next Bar"
-msgstr ""
+msgstr "Nästa streck"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Clip End"
-msgstr ""
+msgstr "Klippslut"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgctxt "Transition Time Position"
 msgid "Same"
-msgstr ""
+msgstr "Samma"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgctxt "Transition Time Position"
 msgid "Start"
-msgstr ""
+msgstr "Början"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgctxt "Transition Time Position"
 msgid "Prev"
-msgstr ""
+msgstr "Slutet"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "From / To"
-msgstr ""
+msgstr "Från / till"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
+#, fuzzy
 msgid "Any Clip"
-msgstr ""
+msgstr "Något klipp"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "AudioStreamInteractive Transition Editor"
-msgstr ""
+msgstr "AudioStreamInteractive övergångs-redigerare"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Use Transition:"
-msgstr ""
+msgstr "Använd övergång:"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Transition From:"
-msgstr ""
+msgstr "Övergång från:"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Transition To:"
-msgstr ""
+msgstr "Övergång till:"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Same Position"
-msgstr ""
+msgstr "Samma position"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Clip Start"
-msgstr ""
+msgstr "Klippbörjan"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
 msgid "Prev Position"
-msgstr ""
+msgstr "Föreg. position"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
+#, fuzzy
 msgid "Fade Mode:"
-msgstr ""
+msgstr "Toningsläge:"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
+#, fuzzy
 msgid "Fade Beats:"
-msgstr ""
+msgstr "Tona taktslag:"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
+#, fuzzy
 msgid "Filler Clip:"
-msgstr ""
+msgstr "Fyllnadsklipp:"
 
 #: modules/interactive_music/editor/audio_stream_interactive_editor_plugin.cpp
+#, fuzzy
 msgid "Hold Previous:"
-msgstr ""
+msgstr "Håll i föregående:"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Determining optimal atlas size"
-msgstr ""
+msgstr "Bestämmer optimal atlas-storlek"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Blitting albedo and emission"
-msgstr ""
+msgstr "Blittar albedo och utstrålning"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Plotting mesh into acceleration structure %d/%d"
-msgstr ""
+msgstr "Plottar mesh till accelerationsstruktur %d/%d"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Optimizing acceleration structure"
-msgstr ""
+msgstr "Optimerar accelerationsstruktur"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Begin Bake"
-msgstr ""
+msgstr "Påbörja bakning"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Preparing shaders"
-msgstr ""
+msgstr "Förbereder shaders"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Un-occluding geometry"
-msgstr ""
+msgstr "Av-ockluderar geometri"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Plot direct lighting"
-msgstr ""
+msgstr "Plotta direktbelysning"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Integrate indirect lighting"
-msgstr ""
+msgstr "Integrera indirekt belysning"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Integrate indirect lighting %d%%"
-msgstr ""
+msgstr "Integrerar indirekt belysning %d%%"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Baking lightprobes"
-msgstr ""
+msgstr "Bakar ljus-sonder"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Integrating light probes %d%%"
-msgstr ""
+msgstr "Integrerar ljus-sonder %d%%"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Denoising"
-msgstr ""
+msgstr "Brusreducerar"
 
 #: modules/lightmapper_rd/lightmapper_rd.cpp
 msgid "Retrieving textures"
-msgstr ""
+msgstr "Hämtar texturer"
 
 #: modules/mono/csharp_script.cpp
 msgid "Class name can't be a reserved keyword"
-msgstr ""
+msgstr "Klassnamnet får inte vara ett reserverat nyckelord"
 
 #: modules/mono/csharp_script.cpp
 msgid "Class name must be a valid identifier"
-msgstr ""
+msgstr "Klassnamnet måste vara en giltig identifierare"
 
 #: modules/mono/glue/runtime_interop.cpp
 msgid "Not enough bytes for decoding bytes, or invalid format."
 msgstr ""
+"Inte tillräckligt med byts för att avkoda bytes, eller också ogiltigt format."
 
 #: modules/mono/mono_gd/gd_mono.cpp
 msgid ""
@@ -20594,20 +20690,27 @@ msgid ""
 "Please install the .NET SDK 6.0 or later from https://dotnet.microsoft.com/"
 "en-us/download and restart Godot."
 msgstr ""
+"Kunde inte läsa in .NET runtime, ingen kompatibel version hittades.\n"
+"Försök att skapa eller redigera projekt kommer att resultera i en krasch.\n"
+"\n"
+"Var vänlig installera .NET SDK 6.0 eller senare från https://dotnet."
+"microsoft.com/en-us/download och starta om Godot."
 
 #: modules/mono/mono_gd/gd_mono.cpp
 msgid "Failed to load .NET runtime"
-msgstr ""
+msgstr "Kunde inte läsa in .NET runtime"
 
 #: modules/mono/mono_gd/gd_mono.cpp
 msgid ""
 "Unable to find the .NET assemblies directory.\n"
 "Make sure the '%s' directory exists and contains the .NET assemblies."
 msgstr ""
+"Kunde inte hitta .NET assembly-katalogen.\n"
+"Kontrollera att katalogen \"%s\" finns och innehåller .NET-assemblierna."
 
 #: modules/mono/mono_gd/gd_mono.cpp
 msgid ".NET assemblies not found"
-msgstr ""
+msgstr "Kunde inte hitta .NET assembly"
 
 #: modules/mono/mono_gd/gd_mono.cpp
 msgid ""
@@ -20617,440 +20720,472 @@ msgid ""
 "Please install the .NET SDK 6.0 or later from https://dotnet.microsoft.com/"
 "en-us/download and restart Godot."
 msgstr ""
+"Kunde inte läsa in .NET runtime, specifikt hstfxr.\n"
+"Försök att skapa eller redigera projekt kommer att resultera i en krasch.\n"
+"\n"
+"Var vänlig installera .NET SDK 6.0 eller senare från https://dotnet."
+"microsoft.com/en-us/download och starta om Godot."
 
 #: modules/multiplayer/editor/editor_network_profiler.cpp
 msgid "%d (%s)"
-msgstr ""
+msgstr "%d (%s)"
 
 #: modules/multiplayer/editor/editor_network_profiler.cpp
 msgid "%s/s"
-msgstr ""
+msgstr "%s/s"
 
 #. TRANSLATORS: This is the label for the network profiler's incoming bandwidth.
 #: modules/multiplayer/editor/editor_network_profiler.cpp
 msgctxt "Network"
 msgid "Down"
-msgstr ""
+msgstr "Nere"
 
 #. TRANSLATORS: This is the label for the network profiler's outgoing bandwidth.
 #: modules/multiplayer/editor/editor_network_profiler.cpp
 msgctxt "Network"
 msgid "Up"
-msgstr ""
+msgstr "Uppe"
 
 #: modules/multiplayer/editor/editor_network_profiler.cpp
 msgid "Incoming RPC"
-msgstr ""
+msgstr "Inkommande RPC"
 
 #: modules/multiplayer/editor/editor_network_profiler.cpp
 msgid "Outgoing RPC"
-msgstr ""
+msgstr "Utgående RPC"
 
 #: modules/multiplayer/editor/editor_network_profiler.cpp
 msgid "Synchronizer"
-msgstr ""
+msgstr "Synkroniserare"
 
 #: modules/multiplayer/editor/editor_network_profiler.cpp
 msgid "Config"
-msgstr ""
+msgstr "Konfig"
 
 #: modules/multiplayer/editor/editor_network_profiler.cpp
 msgid "Count"
-msgstr ""
+msgstr "Antal"
 
 #: modules/multiplayer/editor/multiplayer_editor_plugin.cpp
 msgid "Network Profiler"
-msgstr ""
+msgstr "Nätverksprofilerare"
 
 #: modules/multiplayer/editor/multiplayer_editor_plugin.cpp
 msgid "Replication"
-msgstr ""
+msgstr "Replikation"
 
 #: modules/multiplayer/editor/multiplayer_editor_plugin.cpp
 msgid "Toggle Replication Bottom Panel"
-msgstr ""
+msgstr "Nedre replikation-panel på/av"
 
 #: modules/multiplayer/editor/replication_editor.cpp
+#, fuzzy
 msgid "Select a replicator node in order to pick a property to add to it."
 msgstr ""
+"Välj en replikator-nod för att välja en egenskap att lägga till på den."
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Not possible to add a new property to synchronize without a root."
-msgstr ""
+msgstr "Kan inte lägga till ny egenskap att synkronisera utan en rot."
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Property is already being synchronized."
-msgstr ""
+msgstr "Egenskapen synkroniseras redan."
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Add property to synchronizer"
-msgstr ""
+msgstr "Lägg till egenskap till synkroniserare"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Pick a node to synchronize:"
-msgstr ""
+msgstr "Välj en nod att synkronisera:"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Add property to sync..."
-msgstr ""
+msgstr "Lägg till egenskap att synka..."
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Add from path"
-msgstr ""
+msgstr "Lägg till från sökväg"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Pin replication editor"
-msgstr ""
+msgstr "Fäst replikationsredigerare"
 
+# Mitt översättningsförslag är "föd" men vet inte om det låter bra. "Yngla" känns rätt obehagligt.
 #: modules/multiplayer/editor/replication_editor.cpp
+#, fuzzy
 msgid "Spawn"
-msgstr ""
+msgstr "Spawna"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Replicate"
-msgstr ""
+msgstr "Replikera"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid ""
 "Add properties using the options above, or\n"
 "drag them from the inspector and drop them here."
 msgstr ""
+"Lägg till egenskaper med alternativen ovan, eller\n"
+"dra in dem från Granskaren och släpp dem här."
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Please select a MultiplayerSynchronizer first."
-msgstr ""
+msgstr "Välj en MultiplayerSynchronizer först."
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "The MultiplayerSynchronizer needs a root path."
-msgstr ""
+msgstr "MultiplayerSynchronizer:n behöver en rotsökväg."
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Property/path must not be empty."
-msgstr ""
+msgstr "Egenskap/sökväg får inte vara tom."
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Invalid property path: '%s'"
-msgstr ""
+msgstr "Ogiltig egenskapssökväg: \"%s\""
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Set spawn property"
-msgstr ""
+msgstr "Ställ in spawn-egenskap"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Set sync property"
-msgstr ""
+msgstr "Ställ in synk-egenskap"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid ""
 "Each MultiplayerSynchronizer can have no more than 64 watched properties."
-msgstr ""
+msgstr "Varje MultiplayerSynchronizer får ha maximalt 64 bevakade egenskaper."
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Delete Property?"
-msgstr ""
+msgstr "Radera egenskap?"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Remove Property"
-msgstr ""
+msgstr "Ta bort egenskap"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgid "Property of this type not supported."
-msgstr ""
+msgstr "Den här egenskapstypen stöds inte."
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgctxt "Replication Mode"
 msgid "Never"
-msgstr ""
+msgstr "Aldrig"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgctxt "Replication Mode"
 msgid "Always"
-msgstr ""
+msgstr "Alltid"
 
 #: modules/multiplayer/editor/replication_editor.cpp
 msgctxt "Replication Mode"
 msgid "On Change"
-msgstr ""
+msgstr "Vid ändring"
 
 #: modules/multiplayer/multiplayer_spawner.cpp
 msgid ""
 "A valid NodePath must be set in the \"Spawn Path\" property in order for "
 "MultiplayerSpawner to be able to spawn Nodes."
 msgstr ""
+"En giltig NodePath måste anges i \"Spawn Path\"-egenskapen för att "
+"MultiplayerSpawner ska kunna spawna noder."
 
 #: modules/multiplayer/multiplayer_synchronizer.cpp
 msgid ""
 "A valid NodePath must be set in the \"Root Path\" property in order for "
 "MultiplayerSynchronizer to be able to synchronize properties."
 msgstr ""
+"En giltig NodePath måste anges i \"Root Path\"-egenskapen för att "
+"MultiplayerSpawner ska kunna synkronisera egenskaper."
 
 #: modules/navigation/editor/navigation_mesh_editor_plugin.cpp
 #: scene/3d/navigation_region_3d.cpp
 msgid "A NavigationMesh resource must be set or created for this node to work."
 msgstr ""
+"En navigationsmesh-resurs måste ställas in eller skapas för att den här "
+"noden ska fungera."
 
 #: modules/navigation/editor/navigation_mesh_editor_plugin.cpp
 msgid ""
 "Cannot generate navigation mesh because it does not belong to the edited "
 "scene. Make it unique first."
 msgstr ""
+"Kan inte exportera navigationsmesh eftersom den inte tillhör den redigera "
+"scenen. Gör den unik först."
 
 #: modules/navigation/editor/navigation_mesh_editor_plugin.cpp
 msgid ""
 "Cannot generate navigation mesh because it belongs to a resource which was "
 "imported."
 msgstr ""
+"Kan inte exportera navigationsmesh eftersom den tillhör en resurs som "
+"importerats."
 
 #: modules/navigation/editor/navigation_mesh_editor_plugin.cpp
 msgid ""
 "Cannot generate navigation mesh because the resource was imported from "
 "another type."
 msgstr ""
+"Kan inte exportera navigationsmesh eftersom resursen importerades från en "
+"annan typ."
 
 #: modules/navigation/editor/navigation_mesh_editor_plugin.cpp
 msgid "Bake NavigationMesh"
-msgstr ""
+msgstr "Baka navigationsmesh"
 
 #: modules/navigation/editor/navigation_mesh_editor_plugin.cpp
 msgid ""
 "Bakes the NavigationMesh by first parsing the scene for source geometry and "
 "then creating the navigation mesh vertices and polygons."
 msgstr ""
+"Bakar navigationsmeshen genom att först genomsöka scenen efter källgeometri "
+"och sedan skapa navigationsmeshens vertices och polygoner."
 
 #: modules/navigation/editor/navigation_mesh_editor_plugin.cpp
 msgid "Clear NavigationMesh"
-msgstr ""
+msgstr "Rensa navigationsmeshen"
 
 #: modules/navigation/editor/navigation_mesh_editor_plugin.cpp
 msgid "Clears the internal NavigationMesh vertices and polygons."
-msgstr ""
+msgstr "Rensa den interna navigationsmeshens vertices och polygoner."
 
 #: modules/noise/editor/noise_editor_plugin.cpp
 msgid "Toggles whether the noise preview is computed in 3D space."
-msgstr ""
+msgstr "Växla 3D-rymd-beräkning av brus-förhandsvisning."
 
 #: modules/openxr/editor/openxr_action_editor.cpp
 msgid "Rename Action"
-msgstr ""
+msgstr "Byt namn på åtgärd"
 
 #: modules/openxr/editor/openxr_action_editor.cpp
 msgid "Rename Actions Localized name"
-msgstr ""
+msgstr "Byt åtgärdens lokaliserade namn"
 
 #: modules/openxr/editor/openxr_action_editor.cpp
 msgid "Change Action Type"
-msgstr ""
+msgstr "Ändra åtgärdstyp"
 
 #: modules/openxr/editor/openxr_action_editor.cpp
 msgid "Remove action"
-msgstr ""
+msgstr "Ta bort åtgärd"
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Add action set"
-msgstr ""
+msgstr "Lägg till åtgärds-sätt"
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Remove action set"
-msgstr ""
+msgstr "Ta bort åtgärds-sätt"
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Add interaction profile"
-msgstr ""
+msgstr "Lägg till interaktionsprofil"
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Error loading %s: %s."
-msgstr ""
+msgstr "Fel vid inläsning av %s: %s."
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Error saving file %s: %s"
-msgstr ""
+msgstr "Fel vid sparande av fil %s: %s"
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "OpenXR Action map:"
-msgstr ""
+msgstr "OpenXR-åtgärdskarta:"
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Remove interaction profile"
-msgstr ""
+msgstr "Ta bort interaktionsprofil"
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Action Map"
-msgstr ""
+msgstr "Åtgärdskarta"
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Add Action Set"
-msgstr ""
+msgstr "Lägg till åtgärds-sätt"
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Add an action set."
-msgstr ""
+msgstr "Lägg till ett åtgärds-sätt."
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Add profile"
-msgstr ""
+msgstr "Lägg till profil"
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Add an interaction profile."
-msgstr ""
+msgstr "Lägg till en interaktionsprofil."
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Save this OpenXR action map."
-msgstr ""
+msgstr "Spara den här OpenXR-åtgärdskartan."
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Reset to default OpenXR action map."
-msgstr ""
+msgstr "Återgå till standard-OpenXR-åtgärdskartan."
 
 #: modules/openxr/editor/openxr_action_map_editor.cpp
 msgid "Action Sets"
-msgstr ""
+msgstr "Åtgärds-sätt"
 
 #: modules/openxr/editor/openxr_action_set_editor.cpp
 msgid "Rename Action Set"
-msgstr ""
+msgstr "Byt namn på åtgärds-sätt"
 
 #: modules/openxr/editor/openxr_action_set_editor.cpp
 msgid "Rename Action Sets Localized name"
-msgstr ""
+msgstr "Byt åtgärds-sättets lokaliserade namn"
 
 #: modules/openxr/editor/openxr_action_set_editor.cpp
 msgid "Change Action Sets priority"
-msgstr ""
+msgstr "Ändra åtgärds-sättets prioritering"
 
 #: modules/openxr/editor/openxr_action_set_editor.cpp
 msgid "Add action"
-msgstr ""
+msgstr "Lägg till åtgärd"
 
 #: modules/openxr/editor/openxr_action_set_editor.cpp
 msgid "Delete action"
-msgstr ""
+msgstr "Ta bort åtgärd"
 
 #: modules/openxr/editor/openxr_action_set_editor.cpp
 msgid "Add action."
-msgstr ""
+msgstr "Lägg till åtgärd."
 
 #: modules/openxr/editor/openxr_action_set_editor.cpp
 msgid "Remove action set."
-msgstr ""
+msgstr "Ta bort åtgärds-sätt."
 
 #: modules/openxr/editor/openxr_editor_plugin.cpp
 msgid "OpenXR Action Map"
-msgstr ""
+msgstr "OpenXR-åtgärdskarta"
 
 #: modules/openxr/editor/openxr_editor_plugin.cpp
 msgid "Toggle OpenXR Action Map Bottom Panel"
-msgstr ""
+msgstr "Nedre OpenXR-åtgärdskarta-panel på/av"
 
 #: modules/openxr/editor/openxr_interaction_profile_editor.cpp
 msgid "Remove action from interaction profile"
-msgstr ""
+msgstr "Ta bort åtgärd från interaktionsprofil"
 
 #: modules/openxr/editor/openxr_interaction_profile_editor.cpp
 msgid "Add binding"
-msgstr ""
+msgstr "Lägg till bindning"
 
 #: modules/openxr/editor/openxr_interaction_profile_editor.cpp
 msgid "Remove binding"
-msgstr ""
+msgstr "Ta bort bindning"
 
 #: modules/openxr/editor/openxr_interaction_profile_editor.cpp
 msgid "Pose"
-msgstr ""
+msgstr "Pose"
 
 #: modules/openxr/editor/openxr_interaction_profile_editor.cpp
 msgid "Haptic"
-msgstr ""
+msgstr "Haptisk"
 
 #: modules/openxr/editor/openxr_interaction_profile_editor.cpp
 msgid "Unknown"
-msgstr ""
+msgstr "Okänd"
 
 #: modules/openxr/editor/openxr_select_action_dialog.cpp
 msgid "Select an action"
-msgstr ""
+msgstr "Välj en åtgärd"
 
 #: modules/openxr/editor/openxr_select_interaction_profile_dialog.cpp
 msgid "Select an interaction profile"
-msgstr ""
+msgstr "Välj en interaktionsprofil"
 
 #: modules/openxr/editor/openxr_select_runtime.cpp
 msgid "Choose an XR runtime."
-msgstr ""
+msgstr "Välj en XR-runtime."
 
 #: modules/openxr/scene/openxr_composition_layer.cpp
 msgid ""
 "Cannot use the same SubViewport with multiple OpenXR composition layers. "
 "Clear it from its current layer first."
 msgstr ""
+"Kan inte använda samma SubViewport med flera OpenXR-kompositionslager. Rensa "
+"den från dess nuvarande lager först."
 
 #: modules/openxr/scene/openxr_composition_layer.cpp
 msgid "OpenXR composition layers must have an XROrigin3D node as their parent."
-msgstr ""
+msgstr "OpenXR-kompositionslager måste ha en XROrigin3D-nod som sin förälder."
 
 #: modules/openxr/scene/openxr_composition_layer.cpp
 msgid ""
 "OpenXR composition layers must have orthonormalized transforms (ie. no scale "
 "or shearing)."
 msgstr ""
+"OpenXR-kompositionslager måste ha ortnormaliserade transformationer (d.v.s, "
+"ingen skalning eller skjuvning)."
 
 #: modules/openxr/scene/openxr_composition_layer.cpp
 msgid ""
 "Hole punching won't work as expected unless the sort order is less than zero."
 msgstr ""
+"Hålslagning kommer inte att fungera som förväntat om inte "
+"sorteringsordningen är mindre än noll."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Package name is missing."
-msgstr ""
+msgstr "Packetnamnet saknas."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Package segments must be of non-zero length."
-msgstr ""
+msgstr "Paketsegmentens längd får inte vara noll."
 
 #: platform/android/export/export_plugin.cpp
 msgid "The character '%s' is not allowed in Android application package names."
-msgstr ""
+msgstr "Tecknet \"%s\" är inte tillåtet i Android-applikations-paketnamn."
 
 #: platform/android/export/export_plugin.cpp
 msgid "A digit cannot be the first character in a package segment."
-msgstr ""
+msgstr "En siffra får inte vara det första tecknet i ett paketsegment."
 
 #: platform/android/export/export_plugin.cpp
 msgid "The character '%s' cannot be the first character in a package segment."
-msgstr ""
+msgstr "Tecknet \"%s\" får inte vara det första tecknet i ett paketsegment."
 
 #: platform/android/export/export_plugin.cpp
 msgid "The package must have at least one '.' separator."
-msgstr ""
+msgstr "Paketet måste ha minst en \".\"-avskiljare."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Error creating keystores directory:"
-msgstr ""
+msgstr "Fel när keystores-katalog skulle skapas:"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Invalid public key for APK expansion."
-msgstr ""
+msgstr "Ogiltig publik nyckel för APK-expansion."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Invalid package name:"
-msgstr ""
+msgstr "Ogiltigt paketnamn:"
 
 #: platform/android/export/export_plugin.cpp
 msgid "\"Use Gradle Build\" must be enabled to use the plugins."
-msgstr ""
+msgstr "\"Use Gradle Build\" måste vara på för att använda pluginnen."
 
 #: platform/android/export/export_plugin.cpp
 msgid "OpenXR requires \"Use Gradle Build\" to be enabled"
-msgstr ""
+msgstr "OpenXR kräver att \"Use Gradle Build\" är påslaget"
 
 #: platform/android/export/export_plugin.cpp
 msgid ""
 "\"Compress Native Libraries\" is only valid when \"Use Gradle Build\" is "
 "enabled."
 msgstr ""
+"\"Compress Native Libraries\" gäller bara när \"Use Gradle Build\" är på."
 
 #: platform/android/export/export_plugin.cpp
 msgid "\"Export AAB\" is only valid when \"Use Gradle Build\" is enabled."
-msgstr ""
+msgstr "\"Export AAB\" gäller bara när \"Use Gradle Build\" är på."
 
 #: platform/android/export/export_plugin.cpp
 msgid ""
@@ -21084,59 +21219,63 @@ msgstr ""
 #: platform/android/export/export_plugin.cpp
 #: platform/ios/export/export_plugin.cpp
 msgid "Select device from the list"
-msgstr ""
+msgstr "Välj enhet från listan"
 
 #: platform/android/export/export_plugin.cpp
 #: platform/ios/export/export_plugin.cpp
 msgid "Running on %s"
-msgstr ""
+msgstr "Kör på %s"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Exporting APK..."
-msgstr ""
+msgstr "Exporterar APK..."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Uninstalling..."
-msgstr ""
+msgstr "Avinstallerar..."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Installing to device, please wait..."
-msgstr ""
+msgstr "Installerar på enhet, vänta..."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Could not install to device: %s"
-msgstr ""
+msgstr "Kunde inte installera på enhet: %s"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Running on device..."
-msgstr ""
+msgstr "Kör på enhet..."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Could not execute on device."
-msgstr ""
+msgstr "Kunde inte köra på enhet."
 
 #: platform/android/export/export_plugin.cpp
 msgid ""
 "Error: There was a problem validating the keystore username and password"
 msgstr ""
+"Fel: Ett problem uppstod när keystore-användarnamnet och -lösenordet skulle "
+"valideras"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Exporting to Android when using C#/.NET is experimental."
-msgstr ""
+msgstr "Export till Android med C#/.NET är experimentellt."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Android architecture %s not supported in C# projects."
-msgstr ""
+msgstr "Android-arkitekturen %s stöds inte i C#-projekt."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Custom Android source template not found."
-msgstr ""
+msgstr "Anpassat Android-källmall hittades inte."
 
 #: platform/android/export/export_plugin.cpp
 msgid ""
 "Android build template not installed in the project. Install it from the "
 "Project menu."
 msgstr ""
+"Android-byggmall inte installerad i projektet. Installera den från projekt-"
+"menyn."
 
 #: platform/android/export/export_plugin.cpp
 msgid ""
@@ -21160,35 +21299,35 @@ msgstr ""
 
 #: platform/android/export/export_plugin.cpp
 msgid "A valid Java SDK path is required in Editor Settings."
-msgstr ""
+msgstr "En giltig Java SDK-sökväg måste anges i redigerarinställningar."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Invalid Java SDK path in Editor Settings."
-msgstr ""
+msgstr "Ogiltig Java SDK-sökväg i redigerarinställningar."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Missing 'bin' directory!"
-msgstr ""
+msgstr "\"bin\"-katalog saknas!"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Unable to find 'java' command using the Java SDK path."
-msgstr ""
+msgstr "Kunde inte hitta \"java\"-kommando med JavaSDK-sökvägen."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Please check the Java SDK directory specified in Editor Settings."
-msgstr ""
+msgstr "Kontrollera den angivna Java SDK-sökvägen i redigerarinställningar."
 
 #: platform/android/export/export_plugin.cpp
 msgid "A valid Android SDK path is required in Editor Settings."
-msgstr ""
+msgstr "En giltig Android SDK-sökväg måste anges i redigerarinställningar."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Invalid Android SDK path in Editor Settings."
-msgstr ""
+msgstr "Ogiltig Android SDK-sökväg i redigerarinställningar."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Missing 'platform-tools' directory!"
-msgstr ""
+msgstr "\"platform-tools\"-katalog saknas!"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Unable to find Android SDK platform-tools' adb command."
@@ -21196,11 +21335,11 @@ msgstr ""
 
 #: platform/android/export/export_plugin.cpp
 msgid "Please check in the Android SDK directory specified in Editor Settings."
-msgstr ""
+msgstr "Kontrollera den angivna Android SDK-sökvägen i redigerarinställningar."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Missing 'build-tools' directory!"
-msgstr ""
+msgstr "\"build-tools\"-katalog saknas!"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Unable to find Android SDK build-tools' apksigner command."
@@ -21221,6 +21360,7 @@ msgstr ""
 #: platform/android/export/export_plugin.cpp
 msgid "\"Min SDK\" should be greater or equal to %d for the \"%s\" renderer."
 msgstr ""
+"\"Min SDK\" måste vara större än eller lika med %d för \"%s\"-rendereraren."
 
 #: platform/android/export/export_plugin.cpp
 msgid ""
@@ -21228,13 +21368,15 @@ msgid ""
 "and will be updated to \"%s\". Please explicitly specify the package name if "
 "needed."
 msgstr ""
+"Projektnamnet möter inte kraven på paketnamnsformatet och kommer att "
+"uppdateras till \"%s\". Ställ in paketnamnet direkt om det behövs."
 
 #: platform/android/export/export_plugin.cpp
 #: platform/ios/export/export_plugin.cpp
 #: platform/macos/export/export_plugin.cpp
 #: platform/windows/export/export_plugin.cpp
 msgid "Code Signing"
-msgstr ""
+msgstr "Kodsignering"
 
 #: platform/android/export/export_plugin.cpp
 msgid ""
@@ -21251,48 +21393,51 @@ msgstr ""
 
 #: platform/android/export/export_plugin.cpp
 msgid "Signing debug %s..."
-msgstr ""
+msgstr "Signerar felsökning %s…"
 
 #: platform/android/export/export_plugin.cpp
+#, fuzzy
 msgid "Signing release %s..."
-msgstr ""
+msgstr "Signerar release %s…"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Could not find keystore, unable to export."
-msgstr ""
+msgstr "Kunde inte hitta keystore, kan inte exportera."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Could not start apksigner executable."
-msgstr ""
+msgstr "Kunde inte start apksigner-körbar fil."
 
 #: platform/android/export/export_plugin.cpp
 msgid "'apksigner' returned with error #%d"
-msgstr ""
+msgstr "\"apksigner\" returnerade med felkoden #%d"
 
 #: platform/android/export/export_plugin.cpp
 msgid ""
 "output: \n"
 "%s"
 msgstr ""
+"utmatning: \n"
+"%s"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Verifying %s..."
-msgstr ""
+msgstr "Verifierar %s..."
 
 #: platform/android/export/export_plugin.cpp
 msgid "'apksigner' verification of %s failed."
-msgstr ""
+msgstr "\"apksigner\"-verifikation av %s misslyckades."
 
 #: platform/android/export/export_plugin.cpp
 #: platform/ios/export/export_plugin.cpp
 #: platform/macos/export/export_plugin.cpp
 #: platform/web/export/export_plugin.cpp
 msgid "Target folder does not exist or is inaccessible: \"%s\""
-msgstr ""
+msgstr "Målmappen finns inte eller är otillgänglig: \"%s\""
 
 #: platform/android/export/export_plugin.cpp
 msgid "Exporting for Android"
-msgstr ""
+msgstr "Exporterar för Android"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Invalid filename! Android App Bundle requires the *.aab extension."
@@ -21308,7 +21453,7 @@ msgstr ""
 
 #: platform/android/export/export_plugin.cpp
 msgid "Unsupported export format!"
-msgstr ""
+msgstr "Exportformatet stöds inte!"
 
 #: platform/android/export/export_plugin.cpp
 msgid ""
@@ -21350,23 +21495,23 @@ msgstr ""
 
 #: platform/android/export/export_plugin.cpp
 msgid "Moving output"
-msgstr ""
+msgstr "Flyttar utmatning"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Unable to copy and rename export file:"
-msgstr ""
+msgstr "Kunde inte kopiera och byta namn på exportfilen:"
 
 #: platform/android/export/export_plugin.cpp
 msgid "Package not found: \"%s\"."
-msgstr ""
+msgstr "Hittar inte paketet: \"%s\"."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Creating APK..."
-msgstr ""
+msgstr "Skapar APK..."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Could not find template APK to export: \"%s\"."
-msgstr ""
+msgstr "Kunde inte hitta mall-APK för export: \"%s\"."
 
 #: platform/android/export/export_plugin.cpp
 msgid ""
@@ -21374,14 +21519,17 @@ msgid ""
 "Please build a template with all required libraries, or uncheck the missing "
 "architectures in the export preset."
 msgstr ""
+"Bibliotek saknas i exportmallarna för de valda arkitekturerna: %s. Bygg en "
+"mall med alla nödvändiga biblioteket eller kryssa ur arkitekturerna som "
+"saknas i exportförinställningen."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Adding files..."
-msgstr ""
+msgstr "Lägger till filer..."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Could not export project files."
-msgstr ""
+msgstr "Kunde inte exportera projektfiler."
 
 #: platform/android/export/export_plugin.cpp
 msgid "Aligning APK..."
@@ -21393,43 +21541,43 @@ msgstr ""
 
 #: platform/ios/export/export_plugin.cpp
 msgid "App Store Team ID not specified."
-msgstr ""
+msgstr "App Store Team ID ej specificerat."
 
 #: platform/ios/export/export_plugin.cpp
 msgid "Invalid Identifier:"
-msgstr ""
+msgstr "Ogiltig identifierare:"
 
 #: platform/ios/export/export_plugin.cpp
 msgid "At least one file timestamp access reason should be selected."
-msgstr ""
+msgstr "Minst en åtkomstanledning för fil-timestamp måste markeras."
 
 #: platform/ios/export/export_plugin.cpp
 msgid "At least one disk space access reason should be selected."
-msgstr ""
+msgstr "Minst en åtkomstanledning för diskutrymme måste markeras."
 
 #: platform/ios/export/export_plugin.cpp
 msgid "At least one system boot time access reason should be selected."
-msgstr ""
+msgstr "Minst en åtkomstanledning för systemstarttid måste markeras."
 
 #: platform/ios/export/export_plugin.cpp
 msgid "Export Icons"
-msgstr ""
+msgstr "Exportera ikoner"
 
 #: platform/ios/export/export_plugin.cpp
 msgid "Could not open a directory at path \"%s\"."
-msgstr ""
+msgstr "Kunde inte öppna katalog vid sökvägen \"%s\"."
 
 #: platform/ios/export/export_plugin.cpp
 msgid "Could not write to a file at path \"%s\"."
-msgstr ""
+msgstr "Kunde inte skriva till en fil vid sökvägen \"%s\"."
 
 #: platform/ios/export/export_plugin.cpp
 msgid "Exporting for iOS (Project Files Only)"
-msgstr ""
+msgstr "Exporterar för iOS (bara projektfiler)"
 
 #: platform/ios/export/export_plugin.cpp
 msgid "Exporting for iOS"
-msgstr ""
+msgstr "Exporterar för iOS"
 
 #: platform/ios/export/export_plugin.cpp
 #: platform/linuxbsd/export/export_plugin.cpp
@@ -21437,12 +21585,12 @@ msgstr ""
 #: platform/web/export/export_plugin.cpp
 #: platform/windows/export/export_plugin.cpp
 msgid "Prepare Templates"
-msgstr ""
+msgstr "Förbered mallar"
 
 #: platform/ios/export/export_plugin.cpp
 #: platform/macos/export/export_plugin.cpp
 msgid "Export template not found."
-msgstr ""
+msgstr "Exportmall hittades inte."
 
 #: platform/ios/export/export_plugin.cpp
 msgid ""
@@ -21468,7 +21616,7 @@ msgstr ""
 
 #: platform/ios/export/export_plugin.cpp
 msgid "iOS Plugins"
-msgstr ""
+msgstr "iOS Plugins"
 
 #: platform/ios/export/export_plugin.cpp
 msgid "Failed to export iOS plugins with code %d. Please check the output log."
@@ -22245,6 +22393,8 @@ msgid ""
 "A SpriteFrames resource must be created or set in the \"Sprite Frames\" "
 "property in order for AnimatedSprite2D to display frames."
 msgstr ""
+"En SpriteFrames-resurs måste skapas eller ställas in i \"Spritebildrutor\"-"
+"egenskapen för att AnimatedSprite2D ska kunna visa bildrutor."
 
 #: scene/2d/canvas_modulate.cpp
 msgid ""
@@ -22252,77 +22402,101 @@ msgid ""
 "When there are more than one, only one of them will be active. Which one is "
 "undefined."
 msgstr ""
+"Bara en synlig CanvasModulate tillåten per canvas.\n"
+"Om det finns flera kommer bara en, godtycklig, av dem att vara aktiv."
 
 #: scene/2d/cpu_particles_2d.cpp
 msgid ""
 "CPUParticles2D animation requires the usage of a CanvasItemMaterial with "
 "\"Particles Animation\" enabled."
 msgstr ""
+"CPUParticles2D-animation kräver ett CanvasItemMaterial med "
+"\"Partikelanimation\" påslaget."
 
 #: scene/2d/gpu_particles_2d.cpp scene/3d/gpu_particles_3d.cpp
+#, fuzzy
 msgid ""
 "A material to process the particles is not assigned, so no behavior is "
 "imprinted."
 msgstr ""
+"Inget material angivet för att processa partiklarna så inget beteende "
+"präntas."
 
 #: scene/2d/gpu_particles_2d.cpp
 msgid ""
 "Particles2D animation requires the usage of a CanvasItemMaterial with "
 "\"Particles Animation\" enabled."
 msgstr ""
+"Particles2D-animation kräver ett CanvasItemMaterial med "
+"\"Partikelanimation\" påslaget."
 
 #: scene/2d/gpu_particles_2d.cpp scene/3d/gpu_particles_3d.cpp
 msgid ""
 "Particle trails are only available when using the Forward+ or Mobile "
 "rendering backends."
 msgstr ""
+"Partikelspår är bara tillgängliga med Forward+ eller mobil renderings-"
+"backend."
 
 #: scene/2d/gpu_particles_2d.cpp
+#, fuzzy
 msgid ""
 "Particle sub-emitters are not available when using the GL Compatibility "
 "rendering backend."
 msgstr ""
+"Sub-partikel-utstrålare är inte tillgängliga med GL-kompatibilitets-"
+"renderings-backenden."
 
 #: scene/2d/light_2d.cpp
 msgid ""
 "A texture with the shape of the light must be supplied to the \"Texture\" "
 "property."
-msgstr ""
+msgstr "En textur med formen av lampan måste anges i \"Texture\"-egenskapen."
 
 #: scene/2d/light_occluder_2d.cpp
 msgid ""
 "An occluder polygon must be set (or drawn) for this occluder to take effect."
 msgstr ""
+"En ockluderarpolygon måste ställas in (eller ritas) för att den här "
+"ockluderaren ska få effekt."
 
 #: scene/2d/light_occluder_2d.cpp
 msgid "The occluder polygon for this occluder is empty. Please draw a polygon."
 msgstr ""
+"Ockluderarpolygonen för den här ockluderaren är tom. Var vänlig rita en "
+"polygon."
 
 #: scene/2d/navigation_agent_2d.cpp
 msgid ""
 "The NavigationAgent2D can be used only under a Node2D inheriting parent node."
 msgstr ""
+"NavigationAgent2D kan bara användas under en föräldranod som ärver Node2D."
 
 #: scene/2d/navigation_link_2d.cpp
 msgid ""
 "NavigationLink2D start position should be different than the end position to "
 "be useful."
 msgstr ""
+"NavigationLink2D-startposition måste vara skild från slutpositionen för att "
+"göra något."
 
 #: scene/2d/navigation_region_2d.cpp
 msgid ""
 "A NavigationMesh resource must be set or created for this node to work. "
 "Please set a property or draw a polygon."
 msgstr ""
+"En NavigationMesh-resurs måste ställas in eller skapas för att den här noden "
+"ska fungera. Var vänlig ställ in en egenskap eller rita en polygon."
 
 #: scene/2d/parallax_layer.cpp
 msgid ""
 "ParallaxLayer node only works when set as child of a ParallaxBackground node."
 msgstr ""
+"ParallaxLayer-noden fungerar bara som barn till en ParallaxBackground-nod."
 
 #: scene/2d/path_2d.cpp
 msgid "PathFollow2D only works when set as a child of a Path2D node."
-msgstr ""
+msgstr "PathFollow2D-noden fungerar bara som barn till en Path2D-nod."
 
 #: scene/2d/physics/collision_object_2d.cpp
 msgid ""
@@ -22330,6 +22504,10 @@ msgid ""
 "Consider adding a CollisionShape2D or CollisionPolygon2D as a child to "
 "define its shape."
 msgstr ""
+"Noden har ingen form och kan därför inte kollidera eller interagera med "
+"andra objekt.\n"
+"Överväg att lägga till en CollisionShape2D eller en CollisionPolygon2D som "
+"barn för att definiera dess form."
 
 #: scene/2d/physics/collision_polygon_2d.cpp
 msgid ""
@@ -22337,18 +22515,21 @@ msgid ""
 "CollisionObject2D derived node. Please only use it as a child of Area2D, "
 "StaticBody2D, RigidBody2D, CharacterBody2D, etc. to give them a shape."
 msgstr ""
+"CollisionPolygon2D är bara avsedd för att ge en kollisionsform till en "
+"CollisionObject2D-deriverad nod. Använd den bara som barn till Area2D, "
+"StaticBody2D, RigidBody2D, CharacterBody2D, etc. för att ge dem en form."
 
 #: scene/2d/physics/collision_polygon_2d.cpp
 msgid "An empty CollisionPolygon2D has no effect on collision."
-msgstr ""
+msgstr "En tom CollisionPolygon2D har ingen påverkan på kollision."
 
 #: scene/2d/physics/collision_polygon_2d.cpp
 msgid "Invalid polygon. At least 3 points are needed in 'Solids' build mode."
-msgstr ""
+msgstr "Ogiltig polygon. Minst 3 punkter krävs i \"Solid\"-byggläget."
 
 #: scene/2d/physics/collision_polygon_2d.cpp
 msgid "Invalid polygon. At least 2 points are needed in 'Segments' build mode."
-msgstr ""
+msgstr "Ogiltig polygon. Minst 2 punkter krävs i \"Segment\"-byggläget."
 
 #: scene/2d/physics/collision_polygon_2d.cpp
 #: scene/2d/physics/collision_shape_2d.cpp
@@ -22356,6 +22537,8 @@ msgid ""
 "The One Way Collision property will be ignored when the collision object is "
 "an Area2D."
 msgstr ""
+"Enkelriktad kollision-egenskapen ignoreras när kollisionobjektet är en "
+"Area2D."
 
 #: scene/2d/physics/collision_shape_2d.cpp
 msgid ""
@@ -22364,56 +22547,70 @@ msgid ""
 "Please only use it as a child of Area2D, StaticBody2D, RigidBody2D, "
 "CharacterBody2D, etc. to give them a shape."
 msgstr ""
+"CollisionShape2D är bara avsedd för att ge en kollisionsform till en "
+"CollisionObject2D-deriverad nod.\n"
+"Använd den bara som barn till Area2D, StaticBody2D, RigidBody2D, "
+"CharacterBody2D, etc. för att ge dem en form."
 
 #: scene/2d/physics/collision_shape_2d.cpp
 msgid ""
 "A shape must be provided for CollisionShape2D to function. Please create a "
 "shape resource for it!"
 msgstr ""
+"En form måste tillhandahållas för att CollisionShape2D ska fungera korrekt. "
+"Var vänlig skapa en form-resurs åt den!"
 
 #: scene/2d/physics/collision_shape_2d.cpp
 msgid ""
 "Polygon-based shapes are not meant be used nor edited directly through the "
 "CollisionShape2D node. Please use the CollisionPolygon2D node instead."
 msgstr ""
+"Polygonbaserade former är inte avsedda att användas eller redigeras direkt "
+"genom CollisionShape2D-noden. Använd CollisionPolygon2D-noden istället."
 
 #: scene/2d/physics/joints/joint_2d.cpp
 msgid "Node A and Node B must be PhysicsBody2Ds"
-msgstr ""
+msgstr "Nod A och B måste vara PhysicsBody2D:s"
 
 #: scene/2d/physics/joints/joint_2d.cpp
 msgid "Node A must be a PhysicsBody2D"
-msgstr ""
+msgstr "Nod A måste vara en PhysicsBody2D"
 
 #: scene/2d/physics/joints/joint_2d.cpp
 msgid "Node B must be a PhysicsBody2D"
-msgstr ""
+msgstr "Nod B måste vara en PhysicsBody2D"
 
 #: scene/2d/physics/joints/joint_2d.cpp
 msgid "Joint is not connected to two PhysicsBody2Ds"
-msgstr ""
+msgstr "Länken är inte kopplad till två PhysicsBody2D:s"
 
 #: scene/2d/physics/joints/joint_2d.cpp
 msgid "Node A and Node B must be different PhysicsBody2Ds"
-msgstr ""
+msgstr "Nod A och B måste vara olika PhysicsBody2D:s"
 
 #: scene/2d/physics/physical_bone_2d.cpp
 msgid ""
 "A PhysicalBone2D only works with a Skeleton2D or another PhysicalBone2D as a "
 "parent node!"
 msgstr ""
+"Ett PhysicalBone2D fungerar bara med ett Skeleton2D eller ett annat "
+"PhysicalBone2D som föräldranod!"
 
 #: scene/2d/physics/physical_bone_2d.cpp
 msgid ""
 "A PhysicalBone2D needs to be assigned to a Bone2D node in order to function! "
 "Please set a Bone2D node in the inspector."
 msgstr ""
+"Ett PhysicalBone2D måste tillhöra en Bone2D-nod för att fungera! Ställ in en "
+"Bone2D-nod i Granskaren."
 
 #: scene/2d/physics/physical_bone_2d.cpp
 msgid ""
 "A PhysicalBone2D node should have a Joint2D-based child node to keep bones "
 "connected! Please add a Joint2D-based node as a child to this node!"
 msgstr ""
+"Ett PhysicalBone2D måste ha en Joint2D-baserad barn-nod för att hålla samman "
+"benen! Lägg till en Joint2D-baserad nod som barn till den här noden!"
 
 #: scene/2d/physics/rigid_body_2d.cpp
 msgid ""
@@ -22421,28 +22618,33 @@ msgid ""
 "running.\n"
 "Change the size in children collision shapes instead."
 msgstr ""
+"Storleksändring av RigidBody2D kommer att skrivas över av fysikmotorn när "
+"den körs.\n"
+"Ändra storleken på barnens kollisionsformer i stället."
 
 #: scene/2d/physics/shape_cast_2d.cpp
 msgid ""
 "This node cannot interact with other objects unless a Shape2D is assigned."
-msgstr ""
+msgstr "Noden kan inte interagera med andra objekt om ingen Shape2D anges."
 
 #: scene/2d/remote_transform_2d.cpp
 msgid "Path property must point to a valid Node2D node to work."
-msgstr ""
+msgstr "Sökvägsegenskap måste peka på en giltig Node2D för att fungera."
 
 #: scene/2d/skeleton_2d.cpp
 msgid "This Bone2D chain should end at a Skeleton2D node."
-msgstr ""
+msgstr "Den här Bone2D-kedjan måste sluta i en Skeleton2D-nod."
 
 #: scene/2d/skeleton_2d.cpp
 msgid "A Bone2D only works with a Skeleton2D or another Bone2D as parent node."
 msgstr ""
+"Ett Bone2D fungerar bara med ett Skeleton2D eller ett annat Bone2D som "
+"föräldranod."
 
 #: scene/2d/skeleton_2d.cpp
 msgid ""
 "This bone lacks a proper REST pose. Go to the Skeleton2D node and set one."
-msgstr ""
+msgstr "Benet saknar en vilo-pose. Gå till dess Skeleton2D och ställ in en."
 
 #: scene/2d/tile_map.cpp
 msgid ""
@@ -22453,6 +22655,12 @@ msgid ""
 "corner and choose \"Extract TileMap layers as individual TileMapLayer "
 "nodes\"."
 msgstr ""
+"TileMap-noden är utfasad och ersatt med användandet av flera TileMapLayer-"
+"noder.\n"
+"För att konvertera en TileMap till en uppsättning TileMapLayer-noder, öppna "
+"TileMap-bottenpanelen med den här noden vald, klicka på verktygslådeikonen i "
+"övre högra hörnet och välj \"Extrahera TileMap-lager som individuella "
+"TileMapLayer-noder\"."
 
 #: scene/2d/tile_map.cpp
 msgid ""
@@ -22460,12 +22668,17 @@ msgid ""
 "This may lead to unwanted behaviors, as a layer that is not Y-sorted will be "
 "Y-sorted as a whole with tiles from Y-sorted layers."
 msgstr ""
+"Ett Y-ordnat lager har samma Z-index som ett icke-Y-ordnat lager.\n"
+"Det kan leda till oönskat beteende eftersom icke-Y-ordnade lager sorteras i "
+"sin helhet tillsammans med brickor från Y-ordnade lager."
 
 #: scene/2d/tile_map.cpp
 msgid ""
 "A TileMap layer is set as Y-sorted, but Y-sort is not enabled on the TileMap "
 "node itself."
 msgstr ""
+"Ett TileMap-lager har satts som Y-ordnat, med Y-ordning är inte påslaget i "
+"själva TileMap-noden."
 
 #: scene/2d/tile_map.cpp
 msgid ""
@@ -22474,18 +22687,26 @@ msgid ""
 "This may lead to unwanted behaviors, as a layer that is not Y-sorted will be "
 "Y-sorted as a whole."
 msgstr ""
+"TileMap har satts som Y-ordnat, med Y-ordning är inte påslaget i några "
+"TileMap-lager.\n"
+"Det kan leda till oönskat beteende eftersom icke-Y-ordnade lager sorteras i "
+"sin helhet."
 
 #: scene/2d/tile_map.cpp
 msgid ""
 "Isometric TileSet will likely not look as intended without Y-sort enabled "
 "for the TileMap and all of its layers."
 msgstr ""
+"Isometriskt TileSet kommer förmodligen inte se ut som väntat om inte Y-"
+"ordning slås på för TileMap:en och alla dess lager."
 
 #: scene/3d/bone_attachment_3d.cpp
 msgid ""
 "External Skeleton3D node not set! Please set a path to an external "
 "Skeleton3D node."
 msgstr ""
+"Ingen extern Skeleton3D-nod inställd! Ställ in en sökväg till en extern "
+"Skeleton3D-nod."
 
 #: scene/3d/bone_attachment_3d.cpp
 msgid ""
@@ -22493,34 +22714,45 @@ msgid ""
 "you intend to use the BoneAttachment3D without it being a child of a "
 "Skeleton3D node."
 msgstr ""
+"Föräldranoden är inte en Skeleton3D-nod! Använd en Skeleton3D-nod om du "
+"tänker använda ett BoneAttachment3D utan att det är en del av en Skeleton3D-"
+"nod."
 
 #: scene/3d/bone_attachment_3d.cpp
 msgid ""
 "BoneAttachment3D node is not bound to any bones! Please select a bone to "
 "attach this node."
 msgstr ""
+"BoneAttachment3D-nod inte bunden till några ben! Välj ett ben för att fästa "
+"den här noden."
 
 #: scene/3d/cpu_particles_3d.cpp
 msgid "Nothing is visible because no mesh has been assigned."
-msgstr ""
+msgstr "Inget syns eftersom ingen mesh tilldelats."
 
 #: scene/3d/cpu_particles_3d.cpp
+#, fuzzy
 msgid ""
 "CPUParticles3D animation requires the usage of a StandardMaterial3D whose "
 "Billboard Mode is set to \"Particle Billboard\"."
 msgstr ""
+"CPUParticles3D-animation kräver ett StandardMaterial3D vars billboardläge "
+"ställts in till \"Partikelbillboard\"."
 
 #: scene/3d/decal.cpp
 msgid ""
 "Decals are only available when using the Forward+ or Mobile rendering "
 "backends."
 msgstr ""
+"Dekaler är bara tillgängliga med Forward+ eller mobil renderings-backend."
 
 #: scene/3d/decal.cpp
 msgid ""
 "The decal has no textures loaded into any of its texture properties, and "
 "will therefore not be visible."
 msgstr ""
+"Dekalen har inga inlästa texturer i någon av dess texturegenskaper, och "
+"kommer därför inte att synas."
 
 #: scene/3d/decal.cpp
 msgid ""
@@ -22529,62 +22761,81 @@ msgid ""
 "maps onto the underlying surface.\n"
 "If you don't want the Albedo texture to be visible, set Albedo Mix to 0."
 msgstr ""
+"Dekalen har en normal- och/eller ORM-textur, men ingen albedotextur.\n"
+"En albedotextur med alfakanal krävs för att blanda normal-/ORM-kartorna med "
+"den underliggande ytan.\n"
+"Om du inte vill att albedotexturen ska synas, ställ in Albedo Mix till 0."
 
 #: scene/3d/decal.cpp
+#, fuzzy
 msgid ""
 "The decal's Cull Mask has no bits enabled, which means the decal will not "
 "paint objects on any layer.\n"
 "To resolve this, enable at least one bit in the Cull Mask property."
 msgstr ""
+"Dekalens klippmask har inga bit:ar påslagna, och dekalen kommer därför inte "
+"att måla objekt i något lager.\n"
+"Slå på minst en bit i klippmask-egenskapen för att lösa det här."
 
 #: scene/3d/fog_volume.cpp
 msgid "Fog Volumes are only visible when using the Forward+ backend."
-msgstr ""
+msgstr "Dimvolymer syns bara med Forward+-backenden."
 
 #: scene/3d/fog_volume.cpp
 msgid ""
 "Fog Volumes need volumetric fog to be enabled in the scene's Environment in "
 "order to be visible."
-msgstr ""
+msgstr "Dimvolymer syns bara om volumetrisk dimma är påslaget i scenens miljö."
 
 #: scene/3d/gpu_particles_3d.cpp
+#, fuzzy
 msgid ""
 "Nothing is visible because meshes have not been assigned to draw passes."
-msgstr ""
+msgstr "Inget syns eftersom inga mesher tilldelats till draw-passerna"
 
 #: scene/3d/gpu_particles_3d.cpp
 msgid ""
 "Particles animation requires the usage of a BaseMaterial3D whose Billboard "
 "Mode is set to \"Particle Billboard\"."
 msgstr ""
+"Partikel-animation kräver ett BaseMaterial3D vars billboardläge ställts in "
+"till \"Partikelbillboard\"."
 
 #: scene/3d/gpu_particles_3d.cpp
 msgid ""
 "Using Trail meshes with a skin causes Skin to override Trail poses. Suggest "
 "removing the Skin."
 msgstr ""
+"Användande av spår-mesher med ett Skin resulterar i att Skin:et skriver över "
+"spår-poserna. Ta förslagsvis bort Skin:et."
 
 #: scene/3d/gpu_particles_3d.cpp
 msgid "Trails active, but neither Trail meshes or a Skin were found."
-msgstr ""
+msgstr "Spår aktiverade, men varken spår-mesher eller ett Skin hittades."
 
 #: scene/3d/gpu_particles_3d.cpp
 msgid ""
 "Only one Trail mesh is supported. If you want to use more than a single "
 "mesh, a Skin is needed (see documentation)."
 msgstr ""
+"Bara en spår-mesh stöds. Om du vill använda fler än en (1) mesh behöver du "
+"använda ett Skin (se dokumentationen)."
 
 #: scene/3d/gpu_particles_3d.cpp
 msgid ""
 "Trails enabled, but one or more mesh materials are either missing or not set "
 "for trails rendering."
 msgstr ""
+"Spår påslagna, men en eller flera meshmaterial saknas eller är inte "
+"inställda för spårrendering."
 
 #: scene/3d/gpu_particles_3d.cpp
 msgid ""
 "Particle sub-emitters are only available when using the Forward+ or Mobile "
 "rendering backends."
 msgstr ""
+"Partikel-under-utstrålare är bara tillgängliga med Forward+ eller mobil "
+"renderings-backend."
 
 #: scene/3d/gpu_particles_collision_3d.cpp
 msgid ""
@@ -22592,62 +22843,69 @@ msgid ""
 "collision for this GPUParticlesCollisionSDF3D.\n"
 "To resolve this, enable at least one bit in the Bake Mask property."
 msgstr ""
+"Bakmasken har inga bit:ar påslagna, och bakning kommer därför inte att "
+"producera någon kollision för den här GPUParticlesCollisionSDF3D.\n"
+"Slå på minst en bit i bakmask-egenskapen för att lösa det här."
 
 #: scene/3d/light_3d.cpp
 msgid "A light's scale does not affect the visual size of the light."
-msgstr ""
+msgstr "En ljuskällas skala påverkar inte den visuella storleken av ljuset."
 
 #: scene/3d/light_3d.cpp
 msgid "Projector texture only works with shadows active."
-msgstr ""
+msgstr "Projektor-textur fungerar bara med skuggor aktiverade."
 
 #: scene/3d/light_3d.cpp
 msgid ""
 "Projector textures are not supported when using the GL Compatibility backend "
 "yet. Support will be added in a future release."
 msgstr ""
+"Projektor-texturer stöds inte än med GL-kompatibilitetsbackend. Stöd för det "
+"kommer i en framtida version."
 
 #: scene/3d/light_3d.cpp
 msgid "A SpotLight3D with an angle wider than 90 degrees cannot cast shadows."
-msgstr ""
+msgstr "En SpotLight3D med bredare vinkel än 90° kastar inga skuggor."
 
 #: scene/3d/lightmap_gi.cpp
 msgid "Finding meshes, lights and probes"
-msgstr ""
+msgstr "Söker mesher, ljuskällor och sonder"
 
 #: scene/3d/lightmap_gi.cpp
 msgid "Preparing geometry %d/%d"
-msgstr ""
+msgstr "Förbereder geometri %d/%d"
 
 #: scene/3d/lightmap_gi.cpp
 msgid "Creating probes"
-msgstr ""
+msgstr "Skapar sonder"
 
 #: scene/3d/lightmap_gi.cpp
 msgid "Creating probes from mesh %d/%d"
-msgstr ""
+msgstr "Skapar sonder från mesh %d/%d"
 
 #: scene/3d/lightmap_gi.cpp
 msgid "Preparing Lightmapper"
-msgstr ""
+msgstr "Förbereder lightmapper"
 
 #: scene/3d/lightmap_gi.cpp
 msgid "Preparing Environment"
-msgstr ""
+msgstr "Förbereder miljö"
 
 #: scene/3d/lightmap_gi.cpp
 msgid "Generating Probe Volumes"
-msgstr ""
+msgstr "Genererar sond-volymer"
 
 #: scene/3d/lightmap_gi.cpp
 msgid "Generating Probe Acceleration Structures"
-msgstr ""
+msgstr "Genererar sond-accelerationsstrukturer"
 
 #: scene/3d/lightmap_gi.cpp
 msgid ""
 "Lightmap can only be baked from a device that supports the RD backends. "
 "Lightmap baking may fail."
 msgstr ""
+"Lightmap kan bara bakas från en enhet som stödjer RD-backends. Lightmap-"
+"bakning kanske misslyckas."
 
 #: scene/3d/navigation_agent_3d.cpp
 msgid ""
@@ -23998,21 +24256,23 @@ msgstr ""
 
 #: servers/rendering/shader_preprocessor.cpp
 msgid "Shader include file does not exist:"
-msgstr ""
+msgstr "Shader-include-filen finns inte:"
 
 #: servers/rendering/shader_preprocessor.cpp
 msgid ""
 "Shader include load failed. Does the shader include exist? Is there a cyclic "
 "dependency?"
 msgstr ""
+"Inläsning av shader-include misslyckades. Finns den? Finns det ett rekursivt "
+"beroende?"
 
 #: servers/rendering/shader_preprocessor.cpp
 msgid "Shader include resource type is wrong."
-msgstr ""
+msgstr "Shader-include-resurstyp är fel."
 
 #: servers/rendering/shader_preprocessor.cpp
 msgid "Cyclic include found"
-msgstr ""
+msgstr "Rekursiv inkludering upptäckt."
 
 #: servers/rendering/shader_preprocessor.cpp
 msgid "Shader max include depth exceeded."
@@ -24052,7 +24312,7 @@ msgstr ""
 
 #: servers/rendering/shader_preprocessor.cpp
 msgid "Unmatched conditional statement."
-msgstr ""
+msgstr "Omatchad villkorssats."
 
 #: servers/rendering/shader_warnings.cpp
 msgid ""
@@ -24060,36 +24320,41 @@ msgid ""
 "expect). Instead, use `abs(a - b) < 0.0001` for an approximate but "
 "predictable comparison."
 msgstr ""
+"Direkt jämförelse av flyttal (kanske inte utvärderas till \"true\" som du "
+"förväntar dig). Använd i stället \"abs(a - b) < 0.0001\" för en förutsägbar "
+"uppskattad jämförelse."
 
 #: servers/rendering/shader_warnings.cpp
 msgid "The const '%s' is declared but never used."
-msgstr ""
+msgstr "Konstanten \"%s\" deklareras men används aldrig."
 
 #: servers/rendering/shader_warnings.cpp
 msgid "The function '%s' is declared but never used."
-msgstr ""
+msgstr "Funktionen \"%s\" deklareras men används aldrig."
 
 #: servers/rendering/shader_warnings.cpp
 msgid "The struct '%s' is declared but never used."
-msgstr ""
+msgstr "Struct:en \"%s\" deklareras men används aldrig."
 
 #: servers/rendering/shader_warnings.cpp
 msgid "The uniform '%s' is declared but never used."
-msgstr ""
+msgstr "Uniform:en \"%s\" deklareras men används aldrig."
 
 #: servers/rendering/shader_warnings.cpp
 msgid "The varying '%s' is declared but never used."
-msgstr ""
+msgstr "Varying:en \"%s\" deklareras men används aldrig."
 
 #: servers/rendering/shader_warnings.cpp
 msgid "The local variable '%s' is declared but never used."
-msgstr ""
+msgstr "Den lokala variabeln \"%s\" deklareras men används aldrig."
 
 #: servers/rendering/shader_warnings.cpp
 msgid ""
 "The total size of the %s for this shader on this device has been exceeded "
 "(%d/%d). The shader may not work correctly."
 msgstr ""
+"Den totala storleken för %s för den här shader på den här enheten har "
+"överskridits (%d/%d). Shadern kanske inte fungerar som den ska."
 
 #: servers/rendering/shader_warnings.cpp
 msgid ""
