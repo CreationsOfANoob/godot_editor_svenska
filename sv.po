@@ -16470,1045 +16470,1102 @@ msgstr ""
 
 #: editor/plugins/version_control_editor_plugin.cpp editor/project_manager.cpp
 msgid "Error"
-msgstr ""
+msgstr "Fel"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid ""
 "Remote settings are empty. VCS features that use the network may not work."
 msgstr ""
+"Remote-inställningar är tomma. VCS-funktioner som använder nätverket kanske "
+"inte fungerar."
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Commit"
-msgstr ""
+msgstr "Commit"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Open in editor"
-msgstr ""
+msgstr "Öppna i redigerare"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Discard changes"
-msgstr ""
+msgstr "Förkasta ändringar"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Staged Changes"
-msgstr ""
+msgstr "Uppställda ändringar"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Unstaged Changes"
-msgstr ""
+msgstr "Ouppställda ändringar"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Commit:"
-msgstr ""
+msgstr "Commit:"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Date:"
-msgstr ""
+msgstr "Datum:"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Subtitle:"
-msgstr ""
+msgstr "Undertext:"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Do you want to remove the %s branch?"
-msgstr ""
+msgstr "Vill du ta bort %s-grenen?"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Do you want to remove the %s remote?"
-msgstr ""
+msgstr "Vill du ta bort %s-remoten?"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Toggle Version Control Bottom Panel"
-msgstr ""
+msgstr "Nedre versionshantering-panel på/av"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Create Version Control Metadata"
-msgstr ""
+msgstr "Skapa versionshantering-metadata"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Create VCS metadata files for:"
-msgstr ""
+msgstr "Skapa VCS-metadatafiler för:"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Existing VCS metadata files will be overwritten."
-msgstr ""
+msgstr "Befintliga VCS-metadatafiler skrivs över."
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Local Settings"
-msgstr ""
+msgstr "Lokala inställningar"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Apply"
-msgstr ""
+msgstr "Tillämpa"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "VCS Provider"
-msgstr ""
+msgstr "VCS-leverantör"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Connect to VCS"
-msgstr ""
+msgstr "Anslut till VCS"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Remote Login"
-msgstr ""
+msgstr "Fjärrinloggning"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Username"
-msgstr ""
+msgstr "Användarnamn"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Password"
-msgstr ""
+msgstr "Lösenord"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "SSH Public Key Path"
-msgstr ""
+msgstr "SSH publik nyckel-sökväg"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Select SSH public key path"
-msgstr ""
+msgstr "Ange SSH publik nyckel-sökväg"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "SSH Private Key Path"
-msgstr ""
+msgstr "SSH privatnyckel-sökväg"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Select SSH private key path"
-msgstr ""
+msgstr "Ange SSH privatnyckel-sökväg"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "SSH Passphrase"
-msgstr ""
+msgstr "SSH lösenfras"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Detect new changes"
-msgstr ""
+msgstr "Sök efter nya ändringar"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Discard all changes"
-msgstr ""
+msgstr "Förkasta alla ändringar"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "This operation is IRREVERSIBLE. Your changes will be deleted FOREVER."
 msgstr ""
+"Den här åtgärden är OÅTERKALLELIG. Dina ändringar försvinner FÖR ALLTID."
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Permanentally delete my changes"
-msgstr ""
+msgstr "Radera mina ändringar permanent"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Stage all changes"
-msgstr ""
+msgstr "Ställ upp alla ändringar"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Unstage all changes"
-msgstr ""
+msgstr "Ställ ned alla ändringar"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Commit Message"
-msgstr ""
+msgstr "Commit-meddelande"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Commit Changes"
-msgstr ""
+msgstr "Committa ändringar"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Commit List"
-msgstr ""
+msgstr "Commit-lista"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Commit list size"
-msgstr ""
+msgstr "Storlek commit-lista"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Branches"
-msgstr ""
+msgstr "Grenar"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Create New Branch"
-msgstr ""
+msgstr "Skapa ny gren"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Remove Branch"
-msgstr ""
+msgstr "Ta bort gren"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Branch Name"
-msgstr ""
+msgstr "Namn på gren"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Remotes"
-msgstr ""
+msgstr "Remoter"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Create New Remote"
-msgstr ""
+msgstr "Skapa ny remote"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Remove Remote"
-msgstr ""
+msgstr "Ta bort remote"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Remote Name"
-msgstr ""
+msgstr "Namn på remote"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Remote URL"
-msgstr ""
+msgstr "Remote-URL"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Fetch"
-msgstr ""
+msgstr "Fetch"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Pull"
-msgstr ""
+msgstr "Pull"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Push"
-msgstr ""
+msgstr "Push"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Force Push"
-msgstr ""
+msgstr "Tvinga push"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Modified"
-msgstr ""
+msgstr "Ändrad"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Renamed"
-msgstr ""
+msgstr "Bytt namn"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Deleted"
-msgstr ""
+msgstr "Raderad"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Typechange"
-msgstr ""
+msgstr "Typändring"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "Unmerged"
-msgstr ""
+msgstr "Omergad"
 
 #: editor/plugins/version_control_editor_plugin.cpp
+#, fuzzy
 msgid "View file diffs before committing them to the latest version"
-msgstr ""
+msgstr "Visa filskillnader innan de committas till den senaste versionen"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "View:"
-msgstr ""
+msgstr "Visa:"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Split"
-msgstr ""
+msgstr "Delad"
 
 #: editor/plugins/version_control_editor_plugin.cpp
 msgid "Unified"
-msgstr ""
+msgstr "Förenad"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "E constant (2.718282). Represents the base of the natural logarithm."
 msgstr ""
+"Konstanten E (2,718282). Representerar basen för den naturliga logaritmen."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Epsilon constant (0.00001). Smallest possible scalar number."
-msgstr ""
+msgstr "Konstanten epsilon (0,00001). Minsta möjliga skalärnummer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Phi constant (1.618034). Golden ratio."
-msgstr ""
+msgstr "Konstanten fi (1,618034). Gyllene snittet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Pi/4 constant (0.785398) or 45 degrees."
-msgstr ""
+msgstr "Konstanten Pi/4 (0,785398), eller 45°."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Pi/2 constant (1.570796) or 90 degrees."
-msgstr ""
+msgstr "Konstanten Pi/2 (1,570796), eller 90°."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Pi constant (3.141593) or 180 degrees."
-msgstr ""
+msgstr "Konstanten Pi (3,141593), eller 180°."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Tau constant (6.283185) or 360 degrees."
-msgstr ""
+msgstr "Konstanten tau (6.283185), eller 360°."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Sqrt2 constant (1.414214). Square root of 2."
-msgstr ""
+msgstr "Konstanten sqrt(2) (1,414214). Kvadratroten ur 2."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Drag and drop nodes here to attach them."
-msgstr ""
+msgstr "Dra & släpp noder här för att fästa dem."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Add Input"
-msgstr ""
+msgstr "Lägg till inmatning"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Add Output"
-msgstr ""
+msgstr "Lägg till utmaning"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 #: modules/openxr/editor/openxr_interaction_profile_editor.cpp
 msgid "Float"
-msgstr ""
+msgstr "Float"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Int"
-msgstr ""
+msgstr "Int"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "UInt"
-msgstr ""
+msgstr "UInt"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 #: modules/openxr/editor/openxr_interaction_profile_editor.cpp
 msgid "Vector2"
-msgstr ""
+msgstr "Vector2"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Vector3"
-msgstr ""
+msgstr "Vector3"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Vector4"
-msgstr ""
+msgstr "Vector4"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 #: modules/openxr/editor/openxr_interaction_profile_editor.cpp
 msgid "Boolean"
-msgstr ""
+msgstr "Boolean"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Sampler"
-msgstr ""
+msgstr "Sampler"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "[default]"
-msgstr ""
+msgstr "[default]"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "The 2D preview cannot correctly show the result retrieved from instance "
 "parameter."
 msgstr ""
+"2D-förhandsvisningen kan inte visa resultatet från instansparametern korrekt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Add Input Port"
-msgstr ""
+msgstr "Lägg till inmatningsport"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Add Output Port"
-msgstr ""
+msgstr "Lägg till utmatningsport"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Change Input Port Type"
-msgstr ""
+msgstr "Ändra inmatningsportens typ"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Change Output Port Type"
-msgstr ""
+msgstr "Ändra utmatningsportens typ"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Change Input Port Name"
-msgstr ""
+msgstr "Ändra inmatningsportens namn"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Change Output Port Name"
-msgstr ""
+msgstr "Ändra utmatningsportens namn"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Expand Output Port"
-msgstr ""
+msgstr "Expandera utmatningsport"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Shrink Output Port"
-msgstr ""
+msgstr "Krymp utmatningsport"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Remove Input Port"
-msgstr ""
+msgstr "Ta bort inmatningsport"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Remove Output Port"
-msgstr ""
+msgstr "Ta bort utmatningsport"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Set VisualShader Expression"
-msgstr ""
+msgstr "Ställ in VisualShader-uttryck"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Resize VisualShader Node"
-msgstr ""
+msgstr "Skala om VisuaShader-nod"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Hide Port Preview"
-msgstr ""
+msgstr "Göm portförhandsvisning"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Show Port Preview"
-msgstr ""
+msgstr "Visa portförhandsvisning"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Set Frame Title"
-msgstr ""
+msgstr "Ställ in ramtitel"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Set Tint Color"
-msgstr ""
+msgstr "Ställ in färgton"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Toggle Frame Color"
-msgstr ""
+msgstr "Växla ramfärg"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Set Frame Color"
-msgstr ""
+msgstr "Ställ in ramfärg"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Toggle Auto Shrink"
-msgstr ""
+msgstr "Växla auto-krymp"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Set Parameter Name"
-msgstr ""
+msgstr "Ställ in parameternamn"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Set Input Default Port"
-msgstr ""
+msgstr "Ställ in standardinmatningsport"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Set Custom Node Option"
-msgstr ""
+msgstr "Ställ in anpassad nodinställning"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Add Node to Visual Shader"
-msgstr ""
+msgstr "Lägg till nod i VisualShader"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Add Varying to Visual Shader: %s"
-msgstr ""
+msgstr "Lägg till varying i VisualShader: %s"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Remove Varying from Visual Shader: %s"
-msgstr ""
+msgstr "Ta bort varying från VisualShader: %s"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Move VisualShader Node(s)"
-msgstr ""
+msgstr "Flytta VisualShader-noder"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Move and Attach VisualShader Node(s) to parent frame"
-msgstr ""
+msgstr "Flytta och fäst VisualShader-nod(er) till föräldraram"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Insert node"
-msgstr ""
+msgstr "Infoga nod"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Convert Constant Node(s) To Parameter(s)"
-msgstr ""
+msgstr "Konvertera konstant-nod(er) till parameter"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Convert Parameter Node(s) To Constant(s)"
-msgstr ""
+msgstr "Konvertera parameter-nod(er) till konstant(er)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Detach VisualShader Node(s) from Frame"
-msgstr ""
+msgstr "Koppla loss VisualShader-nod(er) från ram"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Delete VisualShader Node"
-msgstr ""
+msgstr "Radera VisualShader-nod"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Delete VisualShader Node(s)"
-msgstr ""
+msgstr "Radera VisualShader-nod(er)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Float Constants"
-msgstr ""
+msgstr "Flyttalskonstanter"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Convert Constant(s) to Parameter(s)"
-msgstr ""
+msgstr "Konvertera konstant(er) till parameter(ar)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Convert Parameter(s) to Constant(s)"
-msgstr ""
+msgstr "Konvertera parameter(ar) till konstant(er)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Detach from Parent Frame"
-msgstr ""
+msgstr "Koppla loss från föräldraram"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Enable Auto Shrink"
-msgstr ""
+msgstr "Slå på auto-krymp"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Enable Tint Color"
-msgstr ""
+msgstr "Slå på färgton"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Duplicate VisualShader Node(s)"
-msgstr ""
+msgstr "Duplicera VisualShader-nod(er)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Paste VisualShader Node(s)"
-msgstr ""
+msgstr "Klistra in VisualShader-nod(er)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Cut VisualShader Node(s)"
-msgstr ""
+msgstr "Klipp ut VisualShader-nod(er)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
+#, fuzzy
 msgid "Visual Shader Input Type Changed"
-msgstr ""
+msgstr "VisualShader-inmatningsläge ändrades"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "ParameterRef Name Changed"
-msgstr ""
+msgstr "ParameterRef-namn ändrades"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Varying Name Changed"
-msgstr ""
+msgstr "Varying-namn ändrades"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Set Constant: %s"
-msgstr ""
+msgstr "Ställ in konstant: %s"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Invalid name for varying."
-msgstr ""
+msgstr "Ogiltigt namn på varying."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Varying with that name is already exist."
-msgstr ""
+msgstr "Varying med det namnet finns redan."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Add Node(s) to Visual Shader"
-msgstr ""
+msgstr "Lägg till nod(er) i VisualShader"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Vertex"
-msgstr ""
+msgstr "Vertex"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Fragment"
-msgstr ""
+msgstr "Fragment"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Light"
-msgstr ""
+msgstr "Ljus"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Process"
-msgstr ""
+msgstr "Process"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Collide"
-msgstr ""
+msgstr "Kollision"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Sky"
-msgstr ""
+msgstr "Himmel"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Fog"
-msgstr ""
+msgstr "Dimma"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Manage Varyings"
-msgstr ""
+msgstr "Hantera varyings"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Add Varying"
-msgstr ""
+msgstr "Lägg till varying"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Remove Varying"
-msgstr ""
+msgstr "Ta bort varying"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Show generated shader code."
-msgstr ""
+msgstr "Visa genererad shader-kod"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Generated Shader Code"
-msgstr ""
+msgstr "Genererad shader-kod"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Add Node"
-msgstr ""
+msgstr "Lägg till nod"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Clear Copy Buffer"
-msgstr ""
+msgstr "Rensa kopieringsbuffer"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Insert New Node"
-msgstr ""
+msgstr "Infoga ny nod"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Insert New Reroute"
-msgstr ""
+msgstr "Infoga ny omdirigering"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "High-end node"
-msgstr ""
+msgstr "High end-nod"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Create Shader Node"
-msgstr ""
+msgstr "Skapa shader-nod"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Create Shader Varying"
-msgstr ""
+msgstr "Skapa shader-varying"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Delete Shader Varying"
-msgstr ""
+msgstr "Radera shader-varying"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Color function."
-msgstr ""
+msgstr "Färgfunktion."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Color operator."
-msgstr ""
+msgstr "Färgoperatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Grayscale function."
-msgstr ""
+msgstr "Gråskalefunktion."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Converts HSV vector to RGB equivalent."
-msgstr ""
+msgstr "Konverterar HSV-vektor till RGB-motsvarighet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Converts RGB vector to HSV equivalent."
-msgstr ""
+msgstr "Konverterar RGB-vektor till HSV-motsvarighet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Sepia function."
-msgstr ""
+msgstr "Sepia-funktion."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Burn operator."
-msgstr ""
+msgstr "Efterbelys-operatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Darken operator."
-msgstr ""
+msgstr "Mörkare-operatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Difference operator."
-msgstr ""
+msgstr "Differens-operatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Dodge operator."
-msgstr ""
+msgstr "Skugga-operatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "HardLight operator."
-msgstr ""
+msgstr "Skarpt ljus-operatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Lighten operator."
-msgstr ""
+msgstr "Ljusare-operatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Overlay operator."
-msgstr ""
+msgstr "Täcka över-operatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Screen operator."
-msgstr ""
+msgstr "Raster-operatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "SoftLight operator."
-msgstr ""
+msgstr "Mjukt ljus-operatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Color constant."
-msgstr ""
+msgstr "Färgkonstant."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Color parameter."
-msgstr ""
+msgstr "Färgparameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "(Fragment/Light mode only) Derivative function."
-msgstr ""
+msgstr "(Endast i fragment-/ljusläge) Derivatafunktioner."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the boolean result of the %s comparison between two parameters."
 msgstr ""
+"Returnerar det booleska resultatet av %s-jämförelsen mellan två parametrar."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Equal (==)"
-msgstr ""
+msgstr "Lika med (==)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Greater Than (>)"
-msgstr ""
+msgstr "Större än (>)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Greater Than or Equal (>=)"
-msgstr ""
+msgstr "Större än eller lika med (>=)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns an associated vector if the provided scalars are equal, greater or "
 "less."
 msgstr ""
+"Returnerar en associerad vektor om de givna skalärerna är likställda, större "
+"eller mindre än."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the boolean result of the comparison between INF and a scalar "
 "parameter."
 msgstr ""
+"Returnerar det booleska resultatet av jämförelsen mellan INF och en "
+"skalärparameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the boolean result of the comparison between NaN and a scalar "
 "parameter."
 msgstr ""
+"Returnerar det booleska resultatet av jämförelsen mellan NaN och en "
+"skalärparameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Less Than (<)"
-msgstr ""
+msgstr "Mindre än (<)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Less Than or Equal (<=)"
-msgstr ""
+msgstr "Mindre än eller lika med (<=)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Not Equal (!=)"
-msgstr ""
+msgstr "Inte lika med (!=)"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns an associated 2D vector if the provided boolean value is true or "
 "false."
 msgstr ""
+"Returnerar en associerad 2D-vektor om det givna booleska värdet är sant "
+"eller falskt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns an associated 3D vector if the provided boolean value is true or "
 "false."
 msgstr ""
+"Returnerar en associerad 3D-vektor om det givna booleska värdet är sant "
+"eller falskt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns an associated 4D vector if the provided boolean value is true or "
 "false."
 msgstr ""
+"Returnerar en associerad 4D-vektor om det givna booleska värdet är sant "
+"eller falskt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns an associated boolean if the provided boolean value is true or false."
 msgstr ""
+"Returnerar en associerad boolesk om det givna booleska värdet är sant eller "
+"falskt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns an associated floating-point scalar if the provided boolean value is "
 "true or false."
 msgstr ""
+"Returnerar en associerad flyttals-skalär om det givna booleska värdet är "
+"sant eller falskt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns an associated integer scalar if the provided boolean value is true "
 "or false."
 msgstr ""
+"Returnerar en associerad heltals-skalär om det givna booleska värdet är sant "
+"eller falskt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns an associated transform if the provided boolean value is true or "
 "false."
 msgstr ""
+"Returnerar en associerad transform om det givna booleska värdet är sant "
+"eller falskt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns an associated unsigned integer scalar if the provided boolean value "
 "is true or false."
 msgstr ""
+"Returnerar en associerad positiv heltals-skalär om det givna booleska värdet "
+"är sant eller falskt."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the boolean result of the comparison between two parameters."
 msgstr ""
+"Returnerar det booleska resultatet av jämförelsen mellan två parametrar."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the boolean result of the comparison between INF (or NaN) and a "
 "scalar parameter."
 msgstr ""
+"Returnerar det booleska resultatet av jämförelsen mellan INF (eller NaN) och "
+"en skalärparameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Boolean constant."
-msgstr ""
+msgstr "Boolesk konstant."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Boolean parameter."
-msgstr ""
+msgstr "Boolesk parameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Translated to '%s' in Godot Shading Language."
-msgstr ""
+msgstr "Översatt till \"%s\" i Godots shaderspråk."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for all shader modes."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för alla shaderlägen."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Input parameter."
-msgstr ""
+msgstr "Inmatningsparameter."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for vertex and fragment shader modes."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för vertex- och fragmentshaderlägen."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for fragment and light shader modes."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för fragment- och ljusshaderlägen."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for fragment shader mode."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för fragmentshaderläget."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for sky shader mode."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för himmelsshaderläget."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for fog shader mode."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för dimshaderläget."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for light shader mode."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för ljusshaderläget."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for vertex shader mode."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för vertexshaderläget."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for start shader mode."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för startshaderläget."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for process shader mode."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för processhaderläget."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for start and process shader modes."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för start- och processhaderlägen."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "'%s' input parameter for process and collide shader modes."
-msgstr ""
+msgstr "\"%s\"-inmatningsparameter för process- och kollisionshaderlägen."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "A node for help to multiply a position input vector by rotation using "
 "specific axis. Intended to work with emitters."
 msgstr ""
+"En node för att hjälpa till att multiplicera en positions-inmatningsvektor "
+"med rotation via en specifik axel. Tänkt att fungera med utstrålare."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Float function."
-msgstr ""
+msgstr "Flyttalsfunktion."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Float operator."
-msgstr ""
+msgstr "Flyttalsoperatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Integer function."
-msgstr ""
+msgstr "Heltalsfunktion."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Integer operator."
-msgstr ""
+msgstr "Heltalsoperatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Unsigned integer function."
-msgstr ""
+msgstr "Positiv heltalsfunktion."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Unsigned integer operator."
-msgstr ""
+msgstr "Positiv heltalsoperatör."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the absolute value of the parameter."
-msgstr ""
+msgstr "Returnerar absolutbeloppet av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the arc-cosine of the parameter."
-msgstr ""
+msgstr "Returnerar arccosinus av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the inverse hyperbolic cosine of the parameter."
-msgstr ""
+msgstr "Returnerar inv. hyperbolisk cosinus av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the arc-sine of the parameter."
-msgstr ""
+msgstr "Returnerar arcsinus av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the inverse hyperbolic sine of the parameter."
-msgstr ""
+msgstr "Returnerar inv. hyperbolisk sinus av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the arc-tangent of the parameter."
-msgstr ""
+msgstr "Returnerar arctangens av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the arc-tangent of the parameters."
-msgstr ""
+msgstr "Returnerar arctangens av parametrarna."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the inverse hyperbolic tangent of the parameter."
-msgstr ""
+msgstr "Returnerar inv. Hyperbolisk tangens av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the result of bitwise NOT (~a) operation on the integer."
-msgstr ""
+msgstr "Returnerar resultatet av bitvis INTE (~a) på parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the result of bitwise NOT (~a) operation on the unsigned integer."
-msgstr ""
+msgstr "Returnerar resultatet av bitvis INTE (~a) på det positiva heltalet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Finds the nearest integer that is greater than or equal to the parameter."
-msgstr ""
+msgstr "Hittar närmaste heltal som är större än eller lika med parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Constrains a value to lie between two further values."
-msgstr ""
+msgstr "Begränsar ett värde till att ligga mellan två andra värden."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the cosine of the parameter."
-msgstr ""
+msgstr "Returnerar cosinus av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the hyperbolic cosine of the parameter."
-msgstr ""
+msgstr "Returnerar hyberbolisk cosinus av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Converts a quantity in radians to degrees."
-msgstr ""
+msgstr "Omvandlar en kvantitet i radianer till grader."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "(Fragment/Light mode only) (Scalar) Derivative in 'x' using local "
 "differencing."
 msgstr ""
+"(Endast i fragment-/ljusläge) (skalär) Derivata i \"x\" m.h.a lokal "
+"ändringskvot."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "(Fragment/Light mode only) (Scalar) Derivative in 'y' using local "
 "differencing."
 msgstr ""
+"(Endast i fragment-/ljusläge) (skalär) Derivata i \"y\" m.h.a lokal "
+"ändringskvot."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Base-e Exponential."
-msgstr ""
+msgstr "Bas e-exponent"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Base-2 Exponential."
-msgstr ""
+msgstr "Bas 2-exponent"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Finds the nearest integer less than or equal to the parameter."
-msgstr ""
+msgstr "Hittar närmaste heltal som är mindre än eller lika med parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Computes the fractional part of the argument."
-msgstr ""
+msgstr "Beräknar decimaldelen av argumentet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the inverse of the square root of the parameter."
-msgstr ""
+msgstr "Returnerar inversen av parameterns kvadratrot."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Natural logarithm."
-msgstr ""
+msgstr "Naturlig logaritm."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Base-2 logarithm."
-msgstr ""
+msgstr "Bas 2-logaritm"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the greater of two values."
-msgstr ""
+msgstr "Returnerar det största av två värden."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the lesser of two values."
-msgstr ""
+msgstr "Returnerar det minsta av två värden."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Linear interpolation between two scalars."
-msgstr ""
+msgstr "Linjär interpolering mellan två skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Performs a fused multiply-add operation (a * b + c) on scalars."
 msgstr ""
+"Utför en sammanslagen multiplicera-addera-operation (a * b + c) på skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the opposite value of the parameter."
-msgstr ""
+msgstr "Returnerar parameterns motsatta värde."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "1.0 - scalar"
-msgstr ""
+msgstr "1,0 - skalär"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the value of the first parameter raised to the power of the second."
-msgstr ""
+msgstr "Returnerar värdet av den första parametern upphöjd till den andra."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Converts a quantity in degrees to radians."
-msgstr ""
+msgstr "Omvandlar en kvantitet från grader till radianer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "1.0 / scalar"
-msgstr ""
+msgstr "1,0 / skalär"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Finds the nearest integer to the parameter."
-msgstr ""
+msgstr "Hittar närmaste heltal till parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Finds the nearest even integer to the parameter."
-msgstr ""
+msgstr "Hittar närmaste jämna heltal till parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Clamps the value between 0.0 and 1.0."
-msgstr ""
+msgstr "Begränsar värdet mellan 0,0 och 1,0."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Extracts the sign of the parameter."
-msgstr ""
+msgstr "Extraherar parameterns tecken (-/+)."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the sine of the parameter."
-msgstr ""
+msgstr "Returnerar sinus av parametern"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the hyperbolic sine of the parameter."
-msgstr ""
+msgstr "Returnerar hyperbolisk sinus av parametern"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the square root of the parameter."
-msgstr ""
+msgstr "Returnerar kvadratroten av parametern"
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -17518,6 +17575,11 @@ msgid ""
 "'edge1'. Otherwise the return value is interpolated between 0.0 and 1.0 "
 "using Hermite polynomials."
 msgstr ""
+"SmoothStep-funktion( skalär(gräns0), skalär(gräns1), skalär(x) ).\n"
+"\n"
+"Returnerar 0,0 om 'x' är mindre än ’gräns0' och 1,0 om x är större än "
+"’gräns1'. Annars interpoleras värdet mellan 0,0 och 1,0 m.h.a. "
+"Hermitepolynom."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
@@ -17525,77 +17587,90 @@ msgid ""
 "\n"
 "Returns 0.0 if 'x' is smaller than 'edge' and otherwise 1.0."
 msgstr ""
+"Stegfunction( skalär(gräns), scalar(x) ).\n"
+"\n"
+"Returnerar 0,0 om ’x’ är mindre än ’gräns0’ och annars 1,0."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "(Fragment/Light mode only) (Scalar) Sum of absolute derivative in 'x' and "
 "'y'."
 msgstr ""
+"(Endast i fragment-/ljusläge)(skalär) Summan av absoluta derivata i x och y."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the tangent of the parameter."
-msgstr ""
+msgstr "Returnerar tangens av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the hyperbolic tangent of the parameter."
-msgstr ""
+msgstr "Returnerar hyperbolisk tangens av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Finds the truncated value of the parameter."
-msgstr ""
+msgstr "Hittar det trunkerade värdet av parametern."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Sums two floating-point scalars."
-msgstr ""
+msgstr "Adderar två flyttals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Sums two integer scalars."
-msgstr ""
+msgstr "Adderar två heltals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Sums two unsigned integer scalars."
-msgstr ""
+msgstr "Adderar två positiva heltals-skalärer."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the result of bitwise AND (a & b) operation for two integers."
-msgstr ""
+msgstr "Returnerar resultatet av operationen bitvis OCH (a & b) på två heltal."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the result of bitwise AND (a & b) operation for two unsigned "
 "integers."
 msgstr ""
+"Returnerar resultatet av operationen bitvis OCH (a & b) på två positiva "
+"heltal."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the result of bitwise left shift (a << b) operation on the integer."
-msgstr ""
+msgstr "Returnerar resultatet av en bitvis vänsterskift (a << b) på heltalet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the result of bitwise left shift (a << b) operation on the unsigned "
 "integer."
 msgstr ""
+"Returnerar resultatet av en bitvis vänsterskift (a << b) på det positiva "
+"heltalet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the result of bitwise OR (a | b) operation for two integers."
 msgstr ""
+"Returnerar resultatet av operationen bitvis ELLER (a | b) på två heltal."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the result of bitwise OR (a | b) operation for two unsigned integers."
 msgstr ""
+"Returnerar resultatet av operationen bitvis ELLER (a | b) på två positiva "
+"heltal."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the result of bitwise right shift (a >> b) operation on the integer."
-msgstr ""
+msgstr "Returnerar resultatet av en bitvis högerskift (a >> b) på heltalet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
 "Returns the result of bitwise right shift (a >> b) operation on the unsigned "
 "integer."
 msgstr ""
+"Returnerar resultatet av en bitvis högerskift (a >> b) på det positiva "
+"heltalet."
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid "Returns the result of bitwise XOR (a ^ b) operation on the integer."
